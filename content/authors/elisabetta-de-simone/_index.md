@@ -10,9 +10,19 @@ social:
     icon: envelope
   - display:
       header: false
+    link: https://scholar.google.com/citations?user=nwquQF5IKVAC&hl=it&oi=ao
+    icon_pack: ai
+    icon: google-scholar
+  - display:
+      header: false
     link: https://www.researchgate.net/profile/Elisabetta-De-Simone-2
     icon_pack: ai
     icon: researchgate
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/elisabettadsmn/?chatId=9bgk566c6w2c&locale=en_US&msgOverlay=true
+    icon_pack: fas
+    icon: linkedin
 superuser: false
 user_groups:
   - Researchers
