@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-Dr Lisi Beyersmann and her team of higher degree researchers are interested in how the human reading system processes printed words, with a particular focus on units that carry meaning ("morphemes"). In addition to rapid, automatic reading mechanisms in adults, the team is also interested in how children learn to read and when during reading development word processing becomes more intuitive and automatised.
+Dr Lisi Beyersmann and her team of higher degree researchers are interested in how the human reading system processes printed words, with a particular focus on units that carry meaning ("morphemes").
