@@ -1,27 +1,19 @@
 ---
+title: Jasmine Spencer
+role: PhD Student
+avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: false
 authors:
   - 吳恩達
-title: Jasmine Spencer
-role: PhD Student
 bio: ""
 interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jasmine.spencer@mq.edu.au
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 education:
   courses:
     - course: PhD in Artificial Intelligence
