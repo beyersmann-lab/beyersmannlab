@@ -1,5 +1,6 @@
 ---
 title: Elisabetta De Simone
+role: PhD Candidate
 avatar_filename: avatar.jpg
 social:
   - display:
