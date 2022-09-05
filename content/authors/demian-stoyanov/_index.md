@@ -8,6 +8,8 @@ social:
     icon_pack: fas
     icon: envelope
 superuser: false
+user_groups:
+  - Researchers
 ---
 Demian’s main research interest is meta-communication, especially in digital format, with a particular focus on emojis. Besides that, he is also interested in verbal irony, aka sarcasm, and its conveyance in text form.
 
