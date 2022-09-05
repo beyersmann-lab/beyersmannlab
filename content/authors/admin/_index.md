@@ -11,6 +11,16 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.au/citations?user=xZE6-XcAAAAJ&hl=en
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Elisabeth-Beyersmann
+    icon_pack: ai
+    icon: researchgate
+  - display:
+      header: false
+    link: https://researchers.mq.edu.au/en/persons/lisi-beyersmann
+    icon_pack: fas
+    icon: building-columns
 organizations:
   - name: Macquarie University
 education:
