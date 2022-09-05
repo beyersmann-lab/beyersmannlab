@@ -1,6 +1,6 @@
 ---
 title: Dr. Lisi Beyersmann
-role: Discovery Early Career Researcher Award (DECRA)
+role: Discovery Early Career Researcher Award (DECRA) Fellow
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
