@@ -21,7 +21,7 @@ social:
   - display:
       header: false
     link: https://www.linkedin.com/in/elisabettadsmn/?chatId=9bgk566c6w2c&locale=en_US&msgOverlay=true
-    icon_pack: fas
+    icon_pack: fab
     icon: linkedin
 superuser: false
 user_groups:
