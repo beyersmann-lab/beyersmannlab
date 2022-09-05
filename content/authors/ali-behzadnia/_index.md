@@ -4,14 +4,14 @@ role: PhD Student
 avatar_filename: avatar.jpg
 social:
   - display:
-      header: true
+      header: false
     link: mailto:ali.behzadnia@hdr.mq.edu.au
     icon_pack: fas
     icon: envelope
   - display:
-      header: true
+      header: false
     link: https://scholar.google.com/citations?user=k8XDNdQAAAAJ&hl=en
-    icon_pack: fas
+    icon_pack: ai
     icon: google-scholar
 superuser: false
 user_groups:
