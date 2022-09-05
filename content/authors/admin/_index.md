@@ -3,10 +3,7 @@ title: Dr Lisi Beyersmann
 role: Discovery Early Career Researcher Award (DECRA)
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -14,9 +11,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.au/citations?user=xZE6-XcAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 organizations:
   - name: Macquarie University
 education:
@@ -27,7 +21,7 @@ education:
     - course: Master of Science
       institution: University of Stuttgart
       year: 2006
-    - course: Bachelor of Science with a Major in Computational Linguistics
+    - course: Bachelor of Science with a major in Computational Linguistics
       institution: University of Stuttgart
       year: 2003
 email: ""
