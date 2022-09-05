@@ -1,5 +1,5 @@
 ---
-title: Jasmine Spencer1
+title: Jasmine Spencer
 avatar_filename: avatar.jpg
 social:
   - display:
