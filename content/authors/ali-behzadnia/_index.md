@@ -13,6 +13,11 @@ social:
     link: https://scholar.google.com/citations?user=k8XDNdQAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Ali-Behzadnia
+    icon_pack: ai
+    icon: researchgate
 superuser: false
 user_groups:
   - Researchers
