@@ -1,7 +1,7 @@
 ---
 title: Dr Lisi Beyersmann
 role: Discovery Early Career Researcher Award (DECRA)
-avatar_filename: lisi-picture.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
