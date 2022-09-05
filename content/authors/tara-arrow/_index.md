@@ -13,6 +13,8 @@ social:
     link: https://www.researchgate.net/scientific-contributions/Tara-Arrow-2218418098
     icon_pack: ai
     icon: researchgate
+organizations:
+  - name: Macquarie University
 superuser: false
 user_groups:
   - Researchers
