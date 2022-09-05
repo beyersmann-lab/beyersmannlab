@@ -18,6 +18,9 @@ social:
     link: https://www.researchgate.net/profile/Ali-Behzadnia
     icon_pack: ai
     icon: researchgate
+organizations:
+  - name: Macquarie University
+  - name: Potsdam University
 superuser: false
 user_groups:
   - Researchers
