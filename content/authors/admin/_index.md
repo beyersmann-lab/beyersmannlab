@@ -26,7 +26,8 @@ education:
       year: 2003
 email: ""
 superuser: true
-user_groups: []
+user_groups:
+  - Researchers
 highlight_name: false
 ---
 Lisi is interested in how the human reading system processes printed words, with a particular focus on units that carry meaning ("morphemes"). Besides her focus on rapid, automatic reading mechanisms in adults, she is also interested in how children learn to read and when during reading development word processing becomes more intuitive and automatized.
