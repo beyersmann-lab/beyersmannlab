@@ -2,9 +2,7 @@
 title: Jasmine Spencer
 role: PhD Student
 avatar_filename: avatar.jpg
-organizations:
-  - name: Stanford University
-    url: ""
+organizations: []
 superuser: false
 authors:
   - 吳恩達
