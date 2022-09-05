@@ -1,18 +1,18 @@
 ---
 title: Ali Behzadnia
 role: PhD Student
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
     link: mailto:ali.behzadnia@hdr.mq.edu.au
     icon_pack: fas
-    icon: mail
+    icon: envelope
   - display:
       header: false
     link: https://scholar.google.com/citations?user=k8XDNdQAAAAJ&hl=en
     icon_pack: fas
-    icon: google
+    icon: google-scholar
 superuser: false
 user_groups:
   - Researchers
