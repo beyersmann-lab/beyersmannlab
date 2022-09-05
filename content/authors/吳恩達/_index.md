@@ -2,7 +2,8 @@
 title: Jasmine Spencer
 role: PhD Student
 avatar_filename: avatar.jpg
-organizations: []
+organizations:
+  - name: Macquarie University
 superuser: false
 authors:
   - 吳恩達
