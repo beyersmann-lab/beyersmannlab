@@ -1,5 +1,6 @@
 ---
 title: Demian Stoyanov
+role: PhD Student
 avatar_filename: avatar.jpg
 social:
   - display:
