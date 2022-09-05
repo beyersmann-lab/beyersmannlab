@@ -23,6 +23,9 @@ social:
     link: https://www.linkedin.com/in/elisabettadsmn/?chatId=9bgk566c6w2c&locale=en_US&msgOverlay=true
     icon_pack: fab
     icon: linkedin
+organizations:
+  - name: Macquarie University
+  - name: Ludwig-Maximilians-Universität
 superuser: false
 user_groups:
   - Researchers
