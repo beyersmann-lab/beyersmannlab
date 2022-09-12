@@ -5,6 +5,11 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
+    link: mailto:hasibe.kahraman@mq.edu.au
+    icon_pack: fas
+    icon: envelope
+  - display:
+      header: false
     icon_pack: ai
     icon: researchgate
     link: https://www.researchgate.net/profile/Hasibe-Kahraman
