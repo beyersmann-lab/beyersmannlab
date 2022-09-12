@@ -40,13 +40,21 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
+**R﻿esearch Interests**
+
 Lisi is interested in how the human reading system processes printed words, with a particular focus on units that carry meaning ("morphemes"). Besides her focus on rapid, automatic reading mechanisms in adults, she is also interested in how children learn to read and when during reading development word processing becomes more intuitive and automatized.
+
+**B﻿iography**
+
+*E﻿ducation*
 
 Lisi completed a Bachelor of Science with a major in Computational Linguistics at the *University of Stuttgart, Germany*, in 2003.
 
 She then commenced a Master of Science degree at the University of Stuttgart in 2003, while shifting her research focus to Psycholinguistics. Her Masters project was hosted by Prof Friedemann Pulvermueller at the *University of Cambridge, UK*, where she spent most of 2005. She used the recordings of event-related potentials (ERPs) to investigate rapid, spoken language processing in the brain, and completed her degree in 2006.
 
 In 2007, Lisi moved to Australia to undertake a PhD in Cognitive Science at *Macquarie University* under the supervision of Prof Anne Castles and Prof Max Coltheart. Her PhD project focussed on understanding how children and adults rapidly read words that contain multiple morphemes (e.g. un-pack-ing) using experimental methods such as lexical decision and masked priming.
+
+*E﻿mployment*
 
 Following her PhD, she was awarded four consecutive internationally competitive research fellowships which allowed her to carry out several years of in-depth research in the field of reading and reading acquisition, and expand her collaborative network.
 
