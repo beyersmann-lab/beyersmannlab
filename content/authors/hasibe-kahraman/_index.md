@@ -10,14 +10,14 @@ social:
     link: https://www.researchgate.net/profile/Hasibe-Kahraman
   - display:
       header: false
-    icon_pack: fab
-    icon: orcid
-    link: https://orcid.org/0000-0003-1274-9118
-  - display:
-      header: false
     link: https://www.linkedin.com/in/hasibe-kahraman-36425636/
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    icon_pack: fab
+    icon: orcid
+    link: https://orcid.org/0000-0003-1274-9118
 organizations:
   - name: Macquarie University
 superuser: false
