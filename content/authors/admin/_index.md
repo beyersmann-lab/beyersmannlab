@@ -24,16 +24,7 @@ social:
 organizations:
   - name: Macquarie University
 education:
-  courses:
-    - course: PhD in Cognitive Science
-      institution: Macquarie University
-      year: 2011
-    - course: Master of Science
-      institution: University of Stuttgart
-      year: 2006
-    - course: Bachelor of Science with a major in Computational Linguistics
-      institution: University of Stuttgart
-      year: 2003
+  courses: []
 email: ""
 superuser: true
 user_groups:
