@@ -11,11 +11,11 @@ social:
   - display:
       header: false
     icon_pack: ai
-    icon: research-gate
+    icon: researchgate
     link: https://www.researchgate.net/profile/Esra-Ataman
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: fab
     icon: twitter
     link: https://twitter.com/esraaataman
 organizations:
