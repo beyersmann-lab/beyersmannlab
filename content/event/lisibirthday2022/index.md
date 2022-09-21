@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="lisibday2022" $image := $image.Resize "600x" >}}
+{{< gallery album="lisibday2022" $lisibday2022 := $lisibday2022.Resize "600x" >}}
