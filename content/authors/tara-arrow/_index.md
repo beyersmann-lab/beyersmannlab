@@ -1,6 +1,6 @@
 ---
 title: Tara Arrow
-role: Honours Student and Research Assistant
+role: Psychology Honours Student and Research Assistant
 avatar_filename: avatar.jpg
 social:
   - display:
