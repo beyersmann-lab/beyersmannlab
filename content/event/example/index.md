@@ -11,22 +11,22 @@ all_day: false
 event: null
 event_url: null
 featured: lisibday2021_1.jpg
-authors: []
+authors: null
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
-publishDate: 2022-09-21T01:00:00.000Z
-tags: []
+  street: null
+  city: null
+  region: null
+  postcode: null
+  country: null
+publishDate: null
+tags: null
 projects: null
 image:
   caption: ""
-  focal_point: Right
-  filename: 40th_bday_cake_from_ali.jpg
+  focal_point: null
+  filename: null
 url_code: ""
 ---
 
