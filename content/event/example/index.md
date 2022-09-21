@@ -2,7 +2,7 @@
 abstract: j
 slides: null
 url_pdf: ""
-summary: An example event.
+summary: Lisi's Birthday 2021
 title: Lisi's Birthday 2021
 location: Australian Hearing Hub, Macquarie University
 date: 2022-09-21T01:19:59.972Z
@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="<lisisbday2021>" >}}
+{{< gallery album="<lisibday2021>" >}}
