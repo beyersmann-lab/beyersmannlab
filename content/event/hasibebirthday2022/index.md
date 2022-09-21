@@ -20,7 +20,7 @@ address:
   ? region
   ? postcode
   ? country
-publishDate: 2022-04-12T12:00:35.648Z
+publishDate: 2022-04-12Tnull
 tags: null
 projects: null
 image:
