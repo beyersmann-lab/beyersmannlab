@@ -25,7 +25,7 @@ social:
     link: https://orcid.org/0000-0003-1274-9118
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: ai
     icon: osf
     link: https://osf.io/6hzm4/
 organizations:
