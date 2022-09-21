@@ -5,7 +5,6 @@ url_pdf: ""
 summary: null
 title: Lisi's Birthday 2021
 location: Australian Hearing Hub, Macquarie University
-date: March 2021
 all_day: false
 event: null
 event_url: null
