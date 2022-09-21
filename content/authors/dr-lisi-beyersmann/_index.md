@@ -23,6 +23,16 @@ social:
     link: https://researchers.mq.edu.au/en/persons/lisi-beyersmann
     icon_pack: fas
     icon: building-columns
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-9653-6106
+    icon_pack: fab
+    icon: orcid
+  - display:
+      header: false
+    link: https://osf.io/4kt2w/
+    icon_pack: ai
+    icon: osf
 organizations:
   - name: Macquarie University
 superuser: true
