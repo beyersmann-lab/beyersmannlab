@@ -1,5 +1,5 @@
 ---
-title: Dr, Hasibe Kahraman
+title: Dr. Hasibe Kahraman
 role: PhD Student
 avatar_filename: avatar.jpg
 social:
