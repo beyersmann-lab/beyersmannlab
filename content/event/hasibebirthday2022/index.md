@@ -5,7 +5,7 @@ url_pdf: ""
 summary: null
 title: Hasibe's Birthday
 location: Australian Hearing Hub, Macquarie University
-date: 2022-04-12Tnull
+date: 2022-04-12T14:00
 all_day: false
 event: null
 event_url: null
@@ -19,7 +19,7 @@ address:
   ? region
   ? postcode
   ? country
-publishDate: 2022-04-12Tnull
+publishDate: 2022-04-12T14:00
 tags: null
 projects: null
 image:
