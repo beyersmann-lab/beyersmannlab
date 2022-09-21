@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="<ALBUM-LISIBDAY2021>" >}}
+{{< gallery album="<ALBUM-lisibday2021>" >}}
