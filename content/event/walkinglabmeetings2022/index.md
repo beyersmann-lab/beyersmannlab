@@ -1,15 +1,15 @@
 ---
-abstract: "null"
+abstract: null
 slides: null
 url_pdf: ""
 summary: null
 title: Walking Lab Meetings
 location: Macquarie University
 date: 2022-05-12T15:00:35.648Z
-date_end: 2022-09-08T07:07:26.542Z
+date_end: 2022-12-01T16:00:26.542Z
 all_day: false
-event: "null"
-event_url: "null"
+event: null
+event_url: null
 featured: walkinglabmeeting_1.jpg
 authors: null
 url_video: ""
