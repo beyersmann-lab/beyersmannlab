@@ -6,7 +6,6 @@ summary: null
 title: Hasibe's Birthday
 location: Australian Hearing Hub, Macquarie University
 date: 2022-04-12T12:00:35.648Z
-date_end: 2022-09-21T05:55:58.635Z
 all_day: false
 event: null
 event_url: null
