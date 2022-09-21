@@ -1,5 +1,5 @@
 ---
-title: Dr. Elisabeth Beyersmann
+title: Dr. Lisi Beyersmann
 role: Discovery Early Career Researcher Award (DECRA) Fellow
 avatar_filename: avatar.jpg
 social:
@@ -27,7 +27,7 @@ organizations:
   - name: Macquarie University
 superuser: true
 user_groups:
-  - Researchers
+  - Principal Researcher
 ---
 **R﻿esearch Interests**
 
