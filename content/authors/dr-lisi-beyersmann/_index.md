@@ -35,7 +35,7 @@ social:
     icon: osf
 organizations:
   - name: Macquarie University
-superuser: true
+superuser: false
 user_groups:
   - Principal Researcher
 ---
