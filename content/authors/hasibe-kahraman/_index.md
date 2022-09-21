@@ -1,5 +1,5 @@
 ---
-title: Hasibe Kahraman
+title: Dr. Hasibe Kahraman
 role: PhD Student
 avatar_filename: avatar.jpg
 social:
@@ -41,7 +41,7 @@ Hasibe’s academic background includes theoretical study, research, and teachin
 
 In 2015, Hasibe commenced her Ph.D. at METU, Turkey where she was given wide-ranging interdisciplinary education in two different tracks: Linguistics and Language Education. Here, she got the key insights into Theoretical Linguistics, Psycholinguistics, Applied Linguistics, Teacher Education, Language Testing, Second Language Acquisition as well as Psychology of Reading which interested her the most. Therefore, in her Ph.D. thesis supervised by Prof. Bilal Kırkıcı, she examined the lexical access during first and second language reading and used a new approach that tested discrete subskills in participants’ reading networks. During the last 2 years of her Ph.D., she was hosted by Dr. Elisabeth Beyersmann and Prof. Anne Castles as a visiting scholar for the purposes of data collection from L1 English speakers at Macquarie University, which was funded by Scientific and Technological Research Council of Turkey.
 
-In 2021, Hasibe started her second Ph.D. program at Cognitive Science, Macquarie University, Australia with an International Macquarie University Research Excellence Scholarship. Currently, she is investigating cross-language morphological transfer between a bilingual’s two languages. Her research uses behavioural measures and the recording of event-related brain potentials (ERPs) within a cross-language morphological priming study and is supervised by Dr. Elisabeth Beyersmann and Dr. Bianca De Wit.
+In 2021, Hasibe started her second Ph.D. program at Cognitive Science, Macquarie University, Australia with an International Macquarie University Research Excellence Scholarship. She is also a student member of Macquarie University Centre for Reading (MQCR). Currently, she is investigating cross-language morphological transfer between a bilingual’s two languages. Her research uses behavioural measures and the recording of event-related brain potentials (ERPs) within a cross-language morphological priming study and is supervised by Dr. Elisabeth Beyersmann and Dr. Bianca De Wit. 
 
 *Employment*
 
@@ -49,4 +49,4 @@ During Hasibe’s MSc, she was awarded with a 2-year full-time research fellowsh
 
 Then, in 2015 and 2019 she received two highly-competitive research fellowships from the Scientific and Technological Research Council of Turkey. The National Fellowship Program provided financial support for the duration of 4 years to conduct her Ph.D. research at METU. Meanwhile, she was also employed as a research assistant at İzmir University to conduct academic research, assist with the departmental duties, and lecture courses. In 2019, she received the International Fellowship Program that provided funds for conducting her research at Macquarie University for 2 years.
 
-Hasibe am currently receiving iMQRES scholarship as well as tutoring courses in the School of Psychological Sciences and Linguistics department at Macquarie University. She is also employed as a research assistant to contribute to various projects and collaborate with other researchers at a national and international level.
+Hasibe is currently receiving iMQRES scholarship as well as tutoring courses in the School of Psychological Sciences and Linguistics department at Macquarie University. She is employed as a research assistant to contribute to various projects and collaborate with other researchers at a national and international level.
