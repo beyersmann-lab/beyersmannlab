@@ -23,6 +23,11 @@ social:
     icon_pack: fab
     icon: orcid
     link: https://orcid.org/0000-0003-1274-9118
+  - display:
+      header: false
+    icon_pack: fab
+    icon: osf
+    link: https://osf.io/6hzm4/
 organizations:
   - name: Macquarie University
 superuser: false
