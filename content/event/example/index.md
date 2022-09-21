@@ -19,7 +19,6 @@ address:
   ? region
   ? postcode
   ? country
-publishDate: March 2021
 tags: null
 projects: null
 image:
