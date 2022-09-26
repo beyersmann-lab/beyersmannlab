@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Social Events
 
 # Listing view
 view: compact
