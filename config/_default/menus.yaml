@@ -14,7 +14,7 @@ main:
     url: walkinglab
     weight: 30
   - name: Social Events
-    url: event
+    url: socialevents
     weight: 40
   - name: Contact
     url: contact
