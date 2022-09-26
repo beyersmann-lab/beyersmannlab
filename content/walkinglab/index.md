@@ -9,11 +9,7 @@ view: card
 banner:
   caption: ''
   image: ''
----
-
-{{< gallery album="walkinglabmeetings2022">}} 
-
----
+  
 gallery_item:
 - album: walkinglabmeetings2022
   image: walkinglabmeeting_1.jpg
@@ -21,3 +17,8 @@ gallery_item:
 - album: walkinglabmeetings2022
   image: walkinglabmeeting_2.jpg
   caption: Walking Lab meeting to the Bush Tucker Garden, 26st of May 2022.
+---
+
+{{< gallery album="walkinglabmeetings2022">}} 
+
+
