@@ -17,6 +17,21 @@ gallery_item:
 - album: walkinglabmeetings2022
   image: walkinglabmeeting_2.jpg
   caption: Walking Lab meeting to the Bush Tucker Garden, 26st of May 2022.
+- album: walkinglabmeetings2022
+  image: walkinglabmeeting_3.jpg
+  caption: Walking Lab meeting to Macquarie Lake to admire the sculptures, 14th of July 2022. Rogers, A. (2003). Coil [sculpture]. Macquarie Lake,  Sydney, Australia.
+- album: walkinglabmeetings2022
+  image: walkinglabmeeting_4.jpg
+  caption: Walking Lab meeting to Macquarie Lake to admire the sculptures, 14th of July 2022. Rogers, A. (2003). Coil [sculpture]. Macquarie Lake, Sydney, Australia.
+- album: walkinglabmeetings2022
+  image: walkinglabmeeting_5.jpg
+  caption: Walking Lab meeting to Macquarie Lake to admire the sculptures, 14th of July 2022. Rogers, A. (2003). Coil [sculpture]. Macquarie Lake, Sydney, Australia.
+- album: walkinglabmeetings2022
+  image: walkinglabmeeting_6.jpg
+  caption: Walking Lab meeting to the Graduation Lawn, 4th of August 2022. 
+- album: walkinglabmeetings2022
+  image: walkinglabmeeting_7.jpg
+  caption: Walking Lab meeting to the Graduation Lawn, 4th of August 2022. 
 ---
 
 {{< gallery album="walkinglabmeetings2022">}} 
