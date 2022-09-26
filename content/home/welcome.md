@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-Dr. Lisi Beyersmann and her team of higher degree researchers are interested in how the human reading system processes printed words, with a particular focus on units that carry meaning ("morphemes").
+Lisi Beyersmann and her team are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development. The lab investigates language processing in both children and adults, using a variety of behavioural, neuropsychological and neurophysiological techniques including MEG, EEG, and eye-tracking.
