@@ -14,8 +14,8 @@ banner:
 {{< gallery album="walkinglabmeetings2022" >}}
 gallery_item:
 - album: <walkinglabmeetings2022>
-  image: <walkinglabmeeting_1.jpg>.jpg
+  image: <walkinglabmeeting_1>.jpg
   caption: Our first Walking Lab meeting to Central Courtyard, 12th of May 2022. 
 - album: <walkinglabmeetings2022>
-  image: <walkinglabmeeting_2.jpg>.jpg
+  image: <walkinglabmeeting_2>.jpg
   caption: Walking Lab meeting to the Bush Tucker Garden, 26st of May 2022.
