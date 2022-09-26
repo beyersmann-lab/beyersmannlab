@@ -13,6 +13,7 @@ banner:
 
 {{< gallery album="walkinglabmeetings2022">}} 
 
+---
 gallery_item:
 - album: walkinglabmeetings2022
   image: walkinglabmeeting_1.jpg
