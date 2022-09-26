@@ -2,7 +2,7 @@
 title: Social Events
 
 # Listing view
-view: compact
+view: card
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
