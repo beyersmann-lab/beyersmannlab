@@ -9,7 +9,7 @@ date: '2022'
 doi: 'https://doi.org/10.1016/j.jecp.2022.105448'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+publishDate: null
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
