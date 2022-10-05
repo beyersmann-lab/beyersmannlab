@@ -22,8 +22,15 @@ content:
         position: right
         color: '#666'
         brightness: 1
+    - title: Our first Walking Lab meeting was to Macquarie University's Central Courtyard
+      content: 12th of May 2022
+      align: left
+      background:
+        position: center
+        color: '#666'
+        brightness: 1
     - title: Null
-      content: Our first Walking Lab meeting to Central Courtyard, 12th of May 2022
+      content: Null
       align: left
       background:
         position: center
@@ -32,7 +39,7 @@ content:
         media: walkinglabmeeting_1.jpg
     - title: Null
       content: Walking Lab meeting to the Bush Tucker Garden, 26st of May 2022
-      align: right
+      align: left
       background:
         position: center
         color: '#333'
