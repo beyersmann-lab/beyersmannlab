@@ -23,7 +23,7 @@ content:
         color: '#666'
         brightness: 1
     - title: Our first Walking Lab meeting was to Central Courtyard, the 'heart' of Wallumattagal Campus 
-      content: 12th of May 2022 The Walking Lab meets every fortnight and is based on the idea that walking encourages thinking. Many philosophers, such as Socrates and Aristotle, walked with their students. In fact, Aristotle was known to walk in his lectures, as he believed that walking facilitates thinking. Instead of meeting in a conventional conference room, the Walking Lab meeting is entirely media-free and takes place in a new campus location every time, including both indoor and outdoor venues. The lab walks together from our depart
+      content: 12th of May 2022
       align: left
       background:
         position: center
@@ -37,25 +37,74 @@ content:
         color: '#555'
         brightness: 1
         media: walkinglabmeeting_1.jpg
+    - title: Walking Lab meeting to the Bush Tucker Garden 
+      content: 26st of May 2022
+      align: left
+      background:
+        position: center
+        color: '#666'
+        brightness: 1
     - title: Null
-      content: Walking Lab meeting to the Bush Tucker Garden, 26st of May 2022
+      content: Null
       align: left
       background:
         position: center
         color: '#333'
         brightness: 1
         media: walkinglabmeeting_2.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: Walking Lab meeting to Macquarie Lake to admire the sculptures, including the Coil by Andrew Rogers (2003)
+      content: 26st of May 2022
+      align: left
+      background:
+        position: center
+        color: '#666'
+        brightness: 1
+    - title: Null
+      content: Null
       align: right
       background:
         position: center
         color: '#333'
         brightness: 1
         media: walkinglabmeeting_3.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: walkinglabmeeting_4.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: walkinglabmeeting_5.jpg
+    - title: Walking Lab meeting to the Graduation Lawn
+      content: 4th of August 2022
+      align: left
+      background:
+        position: center
+        color: '#666'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: walkinglabmeeting_6.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: walkinglabmeeting_7.jpg
+
 ---
