@@ -1,6 +1,9 @@
 ---
+widget: blank
+headless: true
+
 title: Walking Lab
-align: center
+weight: 1
 
 # Listing view
 view: card
