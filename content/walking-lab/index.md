@@ -1,5 +1,6 @@
 ---
 title: Walking Lab
+align: center
 
 # Listing view
 view: card
