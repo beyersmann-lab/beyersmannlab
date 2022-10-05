@@ -22,8 +22,8 @@ content:
         position: right
         color: '#666'
         brightness: 1
-    - title: Our first Walking Lab meeting was to Central Courtyard, the 'heart' of Wallumattagal Campus The Walking Lab meets every fortnight and is based on the idea that walking encourages thinking. Many philosophers, such as Socrates and Aristotle, walked with their students. In fact, Aristotle was known to walk in his lectures, as he believed that walking facilitates thinking. Instead of meeting in a conventional conference room, the Walking Lab meeting is entirely media-free and takes place in a new campus location every time, including both indoor and outdoor venues. The lab walks together from our depart
-      content: 12th of May 2022
+    - title: Our first Walking Lab meeting was to Central Courtyard, the 'heart' of Wallumattagal Campus 
+      content: 12th of May 2022 The Walking Lab meets every fortnight and is based on the idea that walking encourages thinking. Many philosophers, such as Socrates and Aristotle, walked with their students. In fact, Aristotle was known to walk in his lectures, as he believed that walking facilitates thinking. Instead of meeting in a conventional conference room, the Walking Lab meeting is entirely media-free and takes place in a new campus location every time, including both indoor and outdoor venues. The lab walks together from our depart
       align: left
       background:
         position: center
