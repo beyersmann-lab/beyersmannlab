@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 1
-    - title: Our first Walking Lab meeting was to Central Courtyard, the 'heart' of Wallumattagal Campus 
+    - title: Our First Walking Lab Meeting to Central Courtyard, the 'Heart' of Wallumattagal Campus 
       content: 12th of May 2022
       align: left
       background:
@@ -37,7 +37,7 @@ content:
         color: '#555'
         brightness: 1
         media: walkinglabmeeting_1.jpg
-    - title: Walking Lab meeting to the Bush Tucker Garden 
+    - title: Walking Lab Meeting to the Bush Tucker Garden 
       content: 26st of May 2022
       align: left
       background:
@@ -52,8 +52,8 @@ content:
         color: '#333'
         brightness: 1
         media: walkinglabmeeting_2.jpg
-    - title: Walking Lab meeting to Macquarie Lake to admire the sculptures, including the Coil by Andrew Rogers (2003)
-      content: 26st of May 2022
+    - title: Walking Lab Meeting to Lake Macquarie's Sculptures Walk
+      content: 26st of May 2022, pictured sculpture is the Coil by Andrew Rogers (2003)
       align: left
       background:
         position: center
@@ -83,7 +83,7 @@ content:
         color: '#333'
         brightness: 1
         media: walkinglabmeeting_5.jpg
-    - title: Walking Lab meeting to the Graduation Lawn
+    - title: Walking Lab Meeting to the Graduation Lawn
       content: 4th of August 2022
       align: left
       background:
