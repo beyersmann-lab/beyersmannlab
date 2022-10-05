@@ -1,7 +1,11 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
-type: widget_page
+title: Social Events
 
-# Homepage is headless, other widget pages are not.
-headless: true
+# Listing view
+view: card
+
+# Optional header image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
