@@ -35,3 +35,5 @@ gallery_item:
   caption: Walking Lab meeting to the Graduation Lawn, 4th of August 2022. 
 
 ---
+
+{{< gallery album="walkinglabmeetings2022">}}
