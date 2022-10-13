@@ -21,7 +21,7 @@ design:
   columns: "1"
   
 banner:
-  image: "welcome.jpg"
+  image: welcome.jpg
   caption: ""
 ---
     
