@@ -22,6 +22,6 @@ design:
     
 ---
 
-Lisi Beyersmann and her team are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development. The lab investigates language processing in both children and adults, using a variety of behavioural, neuropsychological and neurophysiological techniques including MEG, EEG, and eye-tracking.
+{Lisi Beyersmann and her team are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development. The lab investigates language processing in both children and adults, using a variety of behavioural, neuropsychological and neurophysiological techniques including MEG, EEG, and eye-tracking. text-align: center;}
 
 {{< figure library="true" src="home.jpg" title=""> image-align: center}}
