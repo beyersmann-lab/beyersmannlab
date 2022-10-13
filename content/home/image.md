@@ -22,4 +22,4 @@ design:
   
 ---
     
-![alt text](featured.jpg)
+![Beyersmann Lab members standing on bridge over Macquarie Lake, with a fountain in background.](featured.jpg)
