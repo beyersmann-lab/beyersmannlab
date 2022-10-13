@@ -20,13 +20,9 @@ design:
   # Use a 1-column layout
   columns: "1"
   
-image:
-  placement: 1
+banner:
+  image: "welcome.jpg"
   caption: ""
-  focal_point: "Center"
-  preview_only: false
-  alt_text: Beyersmann Lab members standing on bridge across Macquarie Lake, with fountain in background.
-  filename: welcome.jpg
   
 ---
 
