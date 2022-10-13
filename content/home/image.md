@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 # Section title
-title: 
+title: image
 
 # Section subtitle
 subtitle:
