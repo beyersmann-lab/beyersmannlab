@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 # Section title
-title: image
+title: 
 
 # Section subtitle
 subtitle:
@@ -22,4 +22,4 @@ design:
   
 ---
     
-![alt text](img/welcome.jpg)
+![alt text](img/featured.jpg)
