@@ -22,4 +22,4 @@ design:
   
 ---
     
-![alt text](img/featured.jpg)
+![alt text](featured.jpg)
