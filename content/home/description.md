@@ -20,10 +20,10 @@ design:
   # Use a 1-column layout
   columns: "1"
   
-image-align: center
+
     
 ---
 
 Lisi Beyersmann and her team are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development. The lab investigates language processing in both children and adults, using a variety of behavioural, neuropsychological and neurophysiological techniques including MEG, EEG, and eye-tracking.
 
- {{< figure library="true" src="home.jpg" title="" >}}
+ {{< figure library="true" src="home.jpg" title="" > image_size: cover}}
