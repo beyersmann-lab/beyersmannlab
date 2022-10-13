@@ -1,10 +1,28 @@
 ---
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-  alt_text: Beyersmann Lab members standing on bridge across Macquarie Lake, with fountain in background.
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 20
+
+# Section title
+title: 
+
+# Section subtitle
+subtitle:
+
+# Section design
+design:
+  # Use a 1-column layout
+  columns: "1"
   
----
+ banner:
+  image: "welcome.jpg"
+  caption: ""
+  
+  ---
+    
