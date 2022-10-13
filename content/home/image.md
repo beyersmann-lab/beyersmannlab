@@ -23,6 +23,6 @@ design:
  banner:
   image: "welcome.jpg"
   caption: ""
-  
-  ---
+ 
+---
     
