@@ -4,11 +4,5 @@ summary: ""  # Add a page description.
 date: "2022-13-10T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
 ---
 
