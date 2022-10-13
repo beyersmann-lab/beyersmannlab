@@ -22,4 +22,4 @@ design:
   
 ---
     
-{{< image="welcome.jpg" >}}
+![alt text](img/welcome.jpg)
