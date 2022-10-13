@@ -20,6 +20,6 @@ design:
   # Use a 1-column layout
   columns: "1"
   
-![screen reader text](featured.jpg "")"
+image: ![screen reader text](featured.jpg "")"
 ---
     
