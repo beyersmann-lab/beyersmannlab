@@ -23,7 +23,7 @@ organizations:
   - name: Newcastle University (UK)
 superuser: false
 user_groups:
-  - Researcher
+  - Researchers
 ---
 Ozan completed his BA (2016) and MA (2019) studies at Middle East Technical University, Turkey. In his MA thesis, he focused on the processing of morpho-orthographic and morpho-semantic information at early stages of word recognition. Further, to see how letter encoding mechanism interacts with these processes, he benefitted from letter order manipulations applied at morpheme boundaries. He is currently pursuing his PhD studies in the International Doctorate for Experimental Approaches to Language and Brain (IDEALAB) program under the supervision of Dr. Lisi Beyersmann at Macquarie University (Australia), and Dr. Janet Webster and Dr. Julie Morris at Newcastle University (UK). He will be investigating the morphological processing in patients with acquired dyslexia.
 
