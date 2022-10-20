@@ -29,7 +29,7 @@ content:
         position: center
         color: '#555'
         brightness: 1
-        media: walkinglabmeeting_1.jpg
+        media: centralcourtyard1.jpg
     - title: Walking Lab Meeting to the Bush Tucker Garden 
       content: 26st of May 2022
       align: left
@@ -44,7 +44,7 @@ content:
         position: center
         color: '#333'
         brightness: 1
-        media: walkinglabmeeting_2.jpg
+        media: bushtuckergarden1.jpg
     - title: Walking Lab Meeting to Lake Macquarie's Sculptures Walk
       content: 26st of May 2022, pictured sculpture is the Coil by Andrew Rogers (2003)
       align: left
@@ -59,7 +59,7 @@ content:
         position: center
         color: '#333'
         brightness: 1
-        media: walkinglabmeeting_3.jpg
+        media: sculptureswalk1.jpg
     - title: Null
       content: Null
       align: right
@@ -67,7 +67,7 @@ content:
         position: center
         color: '#333'
         brightness: 1
-        media: walkinglabmeeting_4.jpg
+        media: sculptureswalk2.jpg
     - title: Null
       content: Null
       align: right
@@ -75,7 +75,45 @@ content:
         position: center
         color: '#333'
         brightness: 1
-        media: walkinglabmeeting_5.jpg
+        media: sculptureswalk3.jpg
+    - title: Walking Lab Meeting to the Arts Precinct Terrace
+      content: 14th of July 2022
+      align: left
+      background:
+        position: center
+        color: '#666'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: artsprecinctterrace1.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: artsprecinctterrace2.jpg
+    - title: Walking Lab Meeting to Walanga Muru Pavilion
+      content: 28th of July 2022
+      align: left
+      background:
+        position: center
+        color: '#666'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: walangamurupavilion1.jpg
     - title: Walking Lab Meeting to the Graduation Lawn
       content: 4th of August 2022
       align: left
@@ -90,7 +128,7 @@ content:
         position: center
         color: '#333'
         brightness: 1
-        media: walkinglabmeeting_6.jpg
+        media: graduationlawn1.jpg
     - title: Null
       content: Null
       align: right
@@ -98,6 +136,61 @@ content:
         position: center
         color: '#333'
         brightness: 1
-        media: walkinglabmeeting_7.jpg
-
+        media: graduationlawn2.jpg
+    - title: Walking Lab Meeting to the Learning Circle and Macquarie Lake
+      content: 13th of October 2022
+      align: left
+      background:
+        position: center
+        color: '#666'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: learningcircle1.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: learningcircle2.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: learningcircle3.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: learningcircle4.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: learningcircle5.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: learningcircle6.jpg
+        
 ---
