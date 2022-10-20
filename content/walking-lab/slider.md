@@ -167,6 +167,14 @@ content:
         position: center
         color: '#333'
         brightness: 1
+        media: learningcircle3.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
         media: learningcircle4.jpg
     - title: Null
       content: Null
