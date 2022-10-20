@@ -175,6 +175,30 @@ content:
         position: center
         color: '#333'
         brightness: 1
+        media: learningcircle7.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: learningcircle8.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: learningcircle9.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
         media: learningcircle4.jpg
     - title: Null
       content: Null
@@ -192,5 +216,13 @@ content:
         color: '#333'
         brightness: 1
         media: learningcircle6.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: learningcircle10.jpg
         
 ---
