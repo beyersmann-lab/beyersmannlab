@@ -2,7 +2,12 @@
 title: Alessia Rossetto
 role: PhD Student
 avatar_filename: avatar.jpg
-social: []
+social:
+  - display:
+      header: false
+    link: mailto:alessia.rossetto@students.mq.edu.au
+    icon_pack: fas
+    icon: envelope
 organizations:
   - name: Macquarie University
   - name: University of Groningen
