@@ -239,5 +239,28 @@ content:
         color: '#333'
         brightness: 1
         media: incubator1.jpg
+    - title: Walking Lab Meeting to the Department of Media, Communications, Creative Arts, Language, and Literature
+      content: 10th of November 2022
+      align: left
+      background:
+        position: center
+        color: '#666'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: media1.jpg
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: media2.jpg
         
 ---
