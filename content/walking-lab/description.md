@@ -22,4 +22,4 @@ design:
 
 ---
 
-The Walking Lab meets every fortnight and is based on the idea that walking facilitates talking and thinking, as popularised by Socrates and Aristotle. Instead of meeting in a conventional conference room, the Walking Lab meeting is entirely media-free and takes place in a new campus location every time. Not only does the meeting allow lab members to discover the unexpected variety of campus features, such as amphitheatres, botanical gardens, and rooftop terraces, but it also provides an opportunity to brainstorm, network, and have a desk-free hour in the day.
+The Walking Lab meets every fortnight and is based on the idea that walking facilitates talking and thinking, as popularised by Socrates and Aristotle. Instead of meeting in a conventional conference room, the Walking Lab meeting is entirely media-free and takes place in a new campus location each time. Not only does the meeting allow lab members to discover the unexpected variety of campus features, such as amphitheatres, botanical gardens, and rooftop terraces, but it also provides an opportunity to brainstorm, network, and have a desk-free hour in the day.
