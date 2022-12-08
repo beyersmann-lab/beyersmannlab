@@ -1,6 +1,7 @@
 ---
 title: Alicia Ormond
 avatar_filename: avatar.jpg
+bio: MRes Student
 social:
   - display:
       header: false
