@@ -11,6 +11,6 @@ organizations:
   - name: Macquarie University
 superuser: false
 user_groups:
-  - researcher
+  - Researchers
 ---
 Alicia is currently an MRes student in the School of Psychological Sciences. Her research is looking at the influence of spoken word knowledge on learning to read novel words, particularly the set for variability (or mispronunciation correction) of irregular words.
