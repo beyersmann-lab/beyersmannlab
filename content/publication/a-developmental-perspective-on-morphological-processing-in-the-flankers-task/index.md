@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Christophe Cauchi
   - Elisabeth Beyersmann
-  - Bernard Lété & JonathanGrainger
+  - Bernard Lété & Jonathan Grainger
 doi: https://doi.org/10.1016/j.jecp.2022.105448
 publication: ""
 abstract: "Recent research with adult participants using the flankers task has
