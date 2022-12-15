@@ -1,5 +1,5 @@
 ---
-title: Orthographic Expectancies in the Absence of Contextual Support
+title: Orthographic expectancies in the absence of contextual support
 publication_types:
   - "2"
 authors:
