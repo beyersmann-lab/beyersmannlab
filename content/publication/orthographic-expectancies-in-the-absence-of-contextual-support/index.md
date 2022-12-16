@@ -2,7 +2,7 @@
 title: Orthographic expectancies in the absence of contextual support
 subtitle: Scientific Studies of Reading
 publication_types:
-  - "4"
+  - "2"
 authors:
   - Signy Wegener
   - Hua-Chen Wang
