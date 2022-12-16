@@ -4,15 +4,11 @@ subtitle: Quarterly Journal of Experimental Psychology, in press
 publication_types:
   - "2"
 authors:
-  - De Simone
-  - E.
-  - Moll
-  - K.
-  - Feldmann
-  - L.
-  - Schmalz
-  - X. & Beyersmann
-  - E.
+  - E. De Simone
+  - K. Moll
+  - L. Feldmann
+  - X. Schmalz
+  - E. Beyersmann
 draft: false
 featured: false
 image:
