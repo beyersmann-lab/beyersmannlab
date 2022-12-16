@@ -4,10 +4,10 @@ subtitle: Journal of Experimental Child Psychology, Volume 221, p. 105448
 publication_types:
   - "2"
 authors:
-  - Christophe Cauchi
-  - Elisabeth Beyersmann
-  - Bernard Lété 
-  - Jonathan Grainger
+  - C. Cauchi
+  - E. Beyersmann
+  - B. Lété 
+  - J. Grainger
 doi: https://doi.org/10.1016/j.jecp.2022.105448
 publication: ""
 abstract: "Recent research with adult participants using the flankers task has
