@@ -1,8 +1,8 @@
 ---
 title: The effect of spacing versus massing on orthographic learning
-subtitle: Reading Research Quarterly, in press
+subtitle: "*Reading Research Quarterly*, in press"
 publication_types:
-  - "2"
+  - "3"
 authors:
   - S. Wegener
   - H.-C. Wang
