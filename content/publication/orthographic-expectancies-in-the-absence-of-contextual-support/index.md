@@ -8,7 +8,8 @@ authors:
   - Hua-Chen Wang
   - Elisabeth Beyersmann
   - Kate Nation
-  - Danielle Colenbrander & Anne Castles
+  - Danielle Colenbrander
+  - Anne Castles
 doi: " https://doi.org/10.1080/10888438.2022.2127356"
 publication: ""
 abstract: >-
