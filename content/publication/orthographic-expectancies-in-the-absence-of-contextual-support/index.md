@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Signy Wegener
   - Hua-Chen Wang
-  - Dr. Lisi Beyersmann
+  - Elisabeth Beyersmann
   - Kate Nation
   - Danielle Colenbrander
   - Anne Castles
