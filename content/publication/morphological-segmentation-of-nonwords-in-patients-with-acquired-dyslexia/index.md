@@ -4,7 +4,7 @@ subtitle: "*Journal of Memory and Language*, *125*, 1–16."
 publication_types:
   - "2"
 authors:
-  - E. Beyersmanna
+  - E. Beyersmann
   - A. Turney
   - T. Arrow
   - S. Fischer-Baum
