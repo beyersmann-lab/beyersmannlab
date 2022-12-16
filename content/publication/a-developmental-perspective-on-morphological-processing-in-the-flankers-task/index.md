@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Christophe Cauchi
-  - **Elisabeth Beyersmann
+  - Elisabeth Beyersmann
   - Bernard Lété 
   - Jonathan Grainger
 doi: https://doi.org/10.1016/j.jecp.2022.105448
@@ -17,7 +17,7 @@ abstract: "Recent research with adult participants using the flankers task has
   school children (average ages = 8 years 6 months and 10 years 3 months) and a
   group of adult participants. We examined effects of a transparent
   morphological relation in two conditions: one where the target was the stem
-  and flankers were derivations (e.g., farmer farm farmer) and the other where
+  and flankers were derivations (e.g., *farmer farm farmer*) and the other where
   the flankers were stems and the target was the derived form (e.g., farm farmer
   farm). Morphological flanker effects were compared with repetition flanker
   effects with the same set of stimuli (e.g., farm farm farm; farmer farmer
