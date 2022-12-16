@@ -40,5 +40,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: Children learning to read in English must learn to read words with
+  varying degrees of grapheme-phoneme correspondence regularity, but there is
+  very little research comparing methods of instruction for words with less
+  predictable or irregular spellings. Therefore, we compared three methods of
+  instruction for beginning readers.
 date: 2022-05-17T04:11:20.904Z
 ---
