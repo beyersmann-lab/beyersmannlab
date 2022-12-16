@@ -1,7 +1,8 @@
 ---
 title: Orthographic expectancies in the absence of contextual support
+subtitle: Scientific Studies of Reading
 publication_types:
-  - "2"
+  - "4"
 authors:
   - Signy Wegener
   - Hua-Chen Wang
@@ -9,7 +10,7 @@ authors:
   - Kate Nation
   - Danielle Colenbrander & Anne Castles
 doi: " https://doi.org/10.1080/10888438.2022.2127356"
-publication: Scientific Studies of Reading
+publication: ""
 abstract: >-
   Purpose: Readers can draw on their knowledge of sound-to-letter mappings to
   form expectations about the spellings of known spoken words prior to seeing
