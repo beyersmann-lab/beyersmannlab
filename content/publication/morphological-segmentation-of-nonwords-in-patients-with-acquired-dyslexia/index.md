@@ -1,6 +1,6 @@
 ---
 title: Morphological segmentation of nonwords in patients with acquired dyslexia
-subtitle: "*Journal of Memory and Language*, *125*, 1-16."
+subtitle: "*Journal of Memory and Language*, *125*, 1–16."
 publication_types:
   - "2"
 authors:
