@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: publication
 design:
-  view: 3
+  view: 4
   columns: '1'
 ---
