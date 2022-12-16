@@ -18,10 +18,10 @@ abstract: "Recent research with adult participants using the flankers task has
   group of adult participants. We examined effects of a transparent
   morphological relation in two conditions: one where the target was the stem
   and flankers were derivations (e.g., *farmer farm farmer*) and the other where
-  the flankers were stems and the target was the derived form (e.g., farm farmer
-  farm). Morphological flanker effects were compared with repetition flanker
-  effects with the same set of stimuli (e.g., farm farm farm; farmer farmer
-  farmer), and effects of related flankers were contrasted with the appropriate
+  the flankers were stems and the target was the derived form (e.g., *farm farmer
+  farm*). Morphological flanker effects were compared with repetition flanker
+  effects with the same set of stimuli (e.g., *farm farm farm*; *farmer farmer
+  farmer*), and effects of related flankers were contrasted with the appropriate
   unrelated flankers. Results revealed no significant effect of morphological
   relatedness in the two groups of children and a significant effect in the
   adult group, but only for suffixed targets and stem flankers. Repetition
