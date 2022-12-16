@@ -19,7 +19,7 @@ abstract: "**Purpose:** Readers can draw on their knowledge of sound-to-letter m
   reading. 
   **Method:** Seventy-eight adults received oral vocabulary training on 16 novel words over two days, while another set of 16 items was untrained. Following training, participants saw both trained and untrained novel words in print for the first time within a lexical recognition task. Half of the items had spellings that were predictable from their pronunciations (e.g., *nesh*), while the remainder had spellings that were less predictable from their pronunciations (e.g., *koyb*). 
   **Results:** Participants were able to recognize newly learned words, and lexical recognition latencies displayed clear evidence of orthographic expectancies, as evidenced by a larger effect of spelling predictability for orally trained than untrained items. 
-  **Conclusion:** These data are consistent with the emergence of orthographic expectancies even when written words are first encountered in isolation.
+  **Conclusion:** These data are consistent with the emergence of orthographic expectancies even when written words are first encountered in isolation."
 draft: false
 featured: false
 image:
