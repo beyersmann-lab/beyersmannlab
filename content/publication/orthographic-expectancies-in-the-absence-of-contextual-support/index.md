@@ -4,12 +4,12 @@ subtitle: Scientific Studies of Reading
 publication_types:
   - "2"
 authors:
-  - Signy Wegener
-  - Hua-Chen Wang
-  - Elisabeth Beyersmann
-  - Kate Nation
-  - Danielle Colenbrander
-  - Anne Castles
+  - S. Wegener
+  - H.-C. Wang
+  - E. Beyersmann
+  - K. Nation
+  - D. Colenbrander
+  - A. Castles
 doi: " https://doi.org/10.1080/10888438.2022.2127356"
 publication: ""
 abstract: "**Purpose:** Readers can draw on their knowledge of sound-to-letter mappings to
