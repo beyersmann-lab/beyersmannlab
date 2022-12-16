@@ -1,6 +1,6 @@
 ---
 title: The effect of spoken vocabulary training on reading complex novel words
-subtitle: Quarterly Journal of Experimental Psychology
+subtitle: "*Quarterly Journal of Experimental Psychology*"
 publication_types:
   - "2"
 authors:
