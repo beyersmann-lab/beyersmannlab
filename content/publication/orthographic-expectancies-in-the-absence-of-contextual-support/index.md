@@ -27,7 +27,7 @@ abstract: >-
 
   Conclusion: These data are consistent with the emergence of orthographic expectancies even when written words are first encountered in isolation.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
