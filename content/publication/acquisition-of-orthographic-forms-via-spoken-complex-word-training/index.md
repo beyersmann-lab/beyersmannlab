@@ -9,7 +9,7 @@ authors:
   - J. Spencer
   - A. Castles
 doi: https://doi.org/10.3758/s13423-022-02185-y
-publication: "*Psychonomic Bulletin & Review*, *test*, test"
+publication: ""
 abstract: This study used a novel word-training paradigm to examine the
   integration of spoken word knowledge when learning to read morphologically
   complex novel words. Australian primary school children including Grades 3–5
