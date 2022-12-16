@@ -5,7 +5,7 @@ subtitle: Frontiers in Psychology, Vol. 13
 publication_types:
   - "2"
 authors:
-  - V. N. Pescuma 1
+  - V. N. Pescuma
   - M. Ktori
   - E. Beyersmann
   - P. F. Sowman
