@@ -1,6 +1,6 @@
 ---
 title: A developmental perspective on morphological processing in the flankers task
-subtitle: Journal of Experimental Child Psychology, Vol. 221, p. 105448
+subtitle: "*Journal of Experimental Child Psychology*, *221*, 105448"
 publication_types:
   - "2"
 authors:
