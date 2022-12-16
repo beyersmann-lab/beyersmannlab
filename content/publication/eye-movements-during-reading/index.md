@@ -1,6 +1,6 @@
 ---
 title: Eye movements during reading
-subtitle: Frontiers for Young Minds
+subtitle: "*Frontiers for Young Minds*"
 publication_types:
   - "2"
 authors:
