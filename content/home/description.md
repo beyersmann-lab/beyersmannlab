@@ -31,4 +31,3 @@ Lisi Beyersmann and her team are interested in the cognitive underpinnings of la
 <center>{{< figure src="home.jpg" caption="" numbered="" >}}</center>
   
 {{% cta cta_link="./researchers/" cta_text="Meet The Team →" %}}
-
