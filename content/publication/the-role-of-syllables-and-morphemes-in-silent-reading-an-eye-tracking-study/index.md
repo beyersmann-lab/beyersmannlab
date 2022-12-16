@@ -1,8 +1,8 @@
 ---
 title: "The role of syllables and morphemes in silent reading: An eye-tracking study"
-subtitle: Quarterly Journal of Experimental Psychology, in press
+subtitle: "*Quarterly Journal of Experimental Psychology*, in press"
 publication_types:
-  - "2"
+  - "3"
 authors:
   - E. De Simone
   - K. Moll
