@@ -8,7 +8,7 @@ main:
     url: researchers
     weight: 10
   - name: Publications
-    url: publications
+    url: publication
     weight: 20
   - name: Walking Lab
     url: walking-lab
