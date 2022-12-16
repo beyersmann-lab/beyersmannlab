@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Christophe Cauchi
-  - **Elisabeth Beyersmann**
+  - **Elisabeth Beyersmann
   - Bernard Lété 
   - Jonathan Grainger
 doi: https://doi.org/10.1016/j.jecp.2022.105448
