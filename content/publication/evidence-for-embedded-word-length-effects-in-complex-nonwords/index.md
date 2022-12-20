@@ -27,9 +27,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Recent evidence points to the important role of embedded word
-  activations in visual word recognition. The present study asked how the
-  reading system prioritises word identification when not just one, but two
-  different words are embedded within the same position.
+summary: "2020"
 date: 2020-02-04T04:32:30.271Z
 ---
