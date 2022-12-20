@@ -37,11 +37,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "Recent research with adult participants using the flankers task has
-  shown that the recognition of central target words is facilitated by the
-  presence of morphologically related flanker words. Here we explored the
-  development of such morphological flanker effects in two groups of primary
-  school children (average ages = 8 years 6 months and 10 years 3 months) and a
-  group of adult participants. "
+summary: "2022"
 date: 2022-09-01T00:51:58.454Z
 ---
