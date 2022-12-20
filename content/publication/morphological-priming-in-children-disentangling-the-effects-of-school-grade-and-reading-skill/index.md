@@ -30,11 +30,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "Masked priming studies have shown that readers decompose
-  morphologically complex words (*read+er*). Interindividual differences have
-  been suggested to affect this phenomenon. However, its development is poorly
-  understood. We addressed this issue by taking a longitudinal approach that
-  allows greater rigor in establishing the relationship between grade, reading
-  skill, and morphological priming. "
+summary: "2020"
 date: 2020-02-24T04:23:01.576Z
 ---
