@@ -27,9 +27,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: In this article, you will learn about why eye movements are a necessary
-  part of reading, how they are measured, what they tell scientists about what
-  is happening in the mind during reading, and how they change as children grow
-  into adults.
+summary: "2022"
 date: 2022-12-14T01:13:18.354Z
 ---
