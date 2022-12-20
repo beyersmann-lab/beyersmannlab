@@ -34,8 +34,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: This study used a novel word-training paradigm to examine the
-  integration of spoken word knowledge when learning to read morphologically
-  complex novel words.
+summary: "2022"
 date: 2022-10-17T00:55:05.030Z
 ---
