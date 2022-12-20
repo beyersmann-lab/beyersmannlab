@@ -31,10 +31,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "Morpheme-based training programs to improve literacy skills are widely
-  used with older children in the morphologically complex German language. This
-  study investigated whether (1) morphological training is effective early in
-  development (Grade 2) and (2) effects can be attributed to advanced
-  morphological processing. "
+summary: "2021"
 date: 2021-07-14T04:51:57.741Z
 ---
