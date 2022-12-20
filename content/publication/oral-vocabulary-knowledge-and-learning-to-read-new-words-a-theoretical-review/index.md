@@ -31,9 +31,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "In this theoretical review, evidence for the link between spoken and
-  written word knowledge is summarised, highlighting the specific hypotheses
-  posed in this field and the extent to which they are informative regarding
-  causation. "
+summary: "2022"
 date: 2022-07-12T04:02:27.311Z
 ---
