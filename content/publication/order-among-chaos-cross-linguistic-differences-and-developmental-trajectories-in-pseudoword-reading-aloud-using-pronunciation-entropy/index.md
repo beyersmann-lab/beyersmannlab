@@ -35,8 +35,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "In this work we propose the use of Entropy to measure variability in
-  pronunciations in pseudowords reading aloud: pseudowords where participants
-  give many different pronunciations receive higher Entropy values. "
+summary: "2021"
 date: 2021-05-19T04:54:51.071Z
 ---
