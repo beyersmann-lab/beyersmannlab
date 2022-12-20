@@ -48,8 +48,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: The present study combined magnetoencephalography (MEG) recordings with
-  fast periodic visual stimulation (FPVS) to investigate automatic neural
-  responses to morphemes in developing and skilled readers.
+summary: "2022"
 date: 2022-09-07T02:18:05.942Z
 ---
