@@ -12,7 +12,6 @@ authors:
   - J. C. Ziegler
   - M. Taft
   - J. Grainger
-  - (2018)
 doi: http://doi.org/10.5334/joc.11
 abstract: Recent evidence from visual word recognition points to the important
   role of embedded words, suggesting that embedded words are activated
