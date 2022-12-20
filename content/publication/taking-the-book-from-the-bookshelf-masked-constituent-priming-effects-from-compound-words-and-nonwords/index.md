@@ -1,6 +1,6 @@
 ---
 title: "Taking the book from the bookshelf: Masked constituent priming effects
-  from compound words and nonwords (2018)"
+  from compound words and nonwords "
 subtitle: "*Journal of Cognition*, *1*(1), 1–13"
 publication_types:
   - "2"
@@ -12,6 +12,7 @@ authors:
   - J. C. Ziegler
   - M. Taft
   - J. Grainger
+  - (2018)
 doi: http://doi.org/10.5334/joc.11
 abstract: Recent evidence from visual word recognition points to the important
   role of embedded words, suggesting that embedded words are activated
