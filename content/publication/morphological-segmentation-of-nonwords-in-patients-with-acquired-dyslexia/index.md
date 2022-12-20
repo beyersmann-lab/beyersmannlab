@@ -36,8 +36,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: The current study investigated the influence of morphological structure
-  in nonword reading in a case series of individuals with acquired dyslexia
-  following brain damage.
+summary: "2022"
 date: 2022-08-01T04:23:29.212Z
 ---
