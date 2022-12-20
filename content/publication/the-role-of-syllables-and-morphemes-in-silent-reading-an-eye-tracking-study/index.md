@@ -16,10 +16,10 @@ abstract: German skilled readers have been found to engage in morphological and
   units are the preferred units of reading by employing eye-tracking technology.
   Participants silently read sentences while their eye movements were recorded.
   Words were visually marked by the use of color alternation (Experiment 1) or
-  hyphenation (Experiment 2), either at syllable boundary (e.g., Kir-schen), at
-  morpheme boundary (e.g., Kirsch-en) or within the units themselves (e.g.,
-  Ki-rschen). A control condition without disruptions was used as a baseline
-  (e.g., Kirschen). The results of Experiment 1 showed that eye-movements were
+  hyphenation (Experiment 2), either at syllable boundary (e.g., *Kir-schen*),
+  at morpheme boundary (e.g., *Kirsch-en*) or within the units themselves (e.g.,
+  *Ki-rschen*). A control condition without disruptions was used as a baseline
+  (e.g., *Kirschen*). The results of Experiment 1 showed that eye-movements were
   not modulated by color alternations. The results of Experiment 2 indicated
   that hyphens disrupting syllables had a larger inhibitory effect on reading
   times than hyphens disrupting morphemes, suggesting that eye-movements in
