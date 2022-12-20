@@ -38,12 +38,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: It is well known that information from spoken language is integrated
-  into reading processes, but the nature of these links and how they are
-  acquired is less well understood. Recent evidence has suggested that
-  predictions about the written form of newly learned spoken words are already
-  generated prior to print exposure. We extend this work to morphologically
-  complex words and ask whether the information that is available in spoken
-  words goes beyond the mappings between phonology and orthography.
+summary: "2021"
 date: 2021-01-01T04:08:12.091Z
 ---
