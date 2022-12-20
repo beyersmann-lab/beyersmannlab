@@ -45,11 +45,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Recent evidence from visual word recognition points to the important
-  role of embedded words, suggesting that embedded words are activated
-  independently of whether they are accompanied by an affix or a non-affix. The
-  goal of the present research was to more closely examine the mechanisms
-  involved in embedded word activation, particularly with respect to the
-  “edge-alignedness” of the embedded word.
+summary: "2018"
 date: 2018-01-25T23:13:37.693Z
 ---
