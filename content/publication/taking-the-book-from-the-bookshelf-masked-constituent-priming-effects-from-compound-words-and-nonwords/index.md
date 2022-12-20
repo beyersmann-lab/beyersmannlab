@@ -4,6 +4,14 @@ title: "Taking the book from the bookshelf: Masked constituent priming effects
 subtitle: "*Journal of Cognition*, *1*(1), 1–13"
 publication_types:
   - "2"
+authors:
+  - E. Beyersmann
+  - Y. Kezilas
+  - M. Coltheart
+  - A. Castles
+  - J. C. Ziegler
+  - M. Taft
+  - J. Grainger
 doi: http://doi.org/10.5334/joc.11
 abstract: Recent evidence from visual word recognition points to the important
   role of embedded words, suggesting that embedded words are activated
