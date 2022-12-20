@@ -42,8 +42,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: This study examines the effect of plural dominance for the German – *n*
-  plural, a plural form, which can be predictable or non-predictable on the
-  basis of the ending of the singular word form and its grammatical gender.
+summary: "2018"
 date: 2018-06-01T00:45:45.398Z
 ---
