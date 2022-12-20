@@ -28,8 +28,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Does the processing of words with a transparent morphological structure
-  benefit from this structure? Here we show that the flankers task provides an
-  interesting novel angle on this well-researched issue.
+summary: "2021"
 date: 2021-08-21T05:12:19.675Z
 ---
