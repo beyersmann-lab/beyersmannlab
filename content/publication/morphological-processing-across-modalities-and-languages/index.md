@@ -29,9 +29,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: The present study examined cross-linguistic differences in
-  morphological processing in the visual and auditory modality. French and
-  German adults performed a visual and auditory lexical decision task that
-  involved the same translation-equivalent items.
+summary: "2020"
 date: 2020-02-24T04:27:00.833Z
 ---
