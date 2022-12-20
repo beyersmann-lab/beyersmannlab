@@ -32,11 +32,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "The aim of the current research was to test the hypothesis that the
-  activation of embedded words (e.g., the *farm* in *farmhouse*) is the starting
-  point for the development of an abstract morphological parsing system in
-  children’s reading. To test this hypothesis, we examined the developmental
-  trajectory of compound priming effects in third- and fifth-grade primary
-  school children, high school students, and adults. "
+summary: "2019"
 date: 2019-06-01T05:45:13.721Z
 ---
