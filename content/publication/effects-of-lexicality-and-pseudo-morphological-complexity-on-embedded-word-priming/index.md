@@ -37,8 +37,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "Two masked priming experiments investigated the impact of prime
-  lexicality (word vs. nonword) and the pseudo-morphological structure of prime
-  stimuli (pseudosuffixed vs. nonsuffixed) on embedded word priming effects. "
+summary: "2021"
 date: 2021-03-01T04:18:18.495Z
 ---
