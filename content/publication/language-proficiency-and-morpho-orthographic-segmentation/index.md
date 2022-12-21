@@ -1,6 +1,6 @@
 ---
 title: Language proficiency and morpho-orthographic segmentation
-subtitle: "*Psychonomic Bulletin and Review*, 22, 1054–1061"
+subtitle: "*Psychonomic Bulletin and Review*, *22*, 1054–1061"
 publication_types:
   - "2"
 authors:
