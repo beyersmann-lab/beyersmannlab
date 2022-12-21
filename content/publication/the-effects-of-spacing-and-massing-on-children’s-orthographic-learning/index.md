@@ -33,8 +33,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "This experiment examined whether temporal spacing influenced Grade 3
-  and 4 children’s (*N* = 37; mean age = 8 years 7 months) learning of novel
-  written words during independent reading compared with massing. "
+summary: "2022"
 date: 2022-02-01T03:38:41.748Z
 ---
