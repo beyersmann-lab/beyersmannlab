@@ -31,10 +31,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: In two experiments, we examined the functional locus of *plural
-  dominance* in the French spoken word production system, where singulars and
-  plurals share the same phonological word form. The materials included
-  singular-dominant (singular more frequent than plural) and plural-dominant
-  nouns (plural more frequent than singular).
+summary: "2018"
 date: 2018-07-30T05:48:29.340Z
 ---
