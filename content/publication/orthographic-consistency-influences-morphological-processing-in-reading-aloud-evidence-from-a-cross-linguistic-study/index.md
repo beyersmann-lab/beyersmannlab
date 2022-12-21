@@ -42,11 +42,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: The present study investigated whether morphological processing in
-  reading is influenced by the orthographic consistency of a language or its
-  morphological complexity. Developing readers in Grade 3 and skilled adult
-  readers participated in a reading aloud task in four alphabetic orthographies
-  (English, French, German, Italian), which differ in terms of both orthographic
-  consistency and morphological complexity.
+summary: "2020"
 date: 2020-02-15T04:30:14.586Z
 ---
