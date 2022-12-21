@@ -13,6 +13,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "2023"
-date: 2023-02-08T02:28:03.743Z
+summary: "2022"
+date: 2022-12-01T02:28:03.743Z
 ---
