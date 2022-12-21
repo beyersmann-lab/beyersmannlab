@@ -1,6 +1,6 @@
 ---
 title: "Semantic processing during morphological priming: An ERP study"
-subtitle: Brain Research, 1579, 45–55
+subtitle: "*Brain Research*, *1579*, 45–55"
 publication_types:
   - "2"
 authors:
