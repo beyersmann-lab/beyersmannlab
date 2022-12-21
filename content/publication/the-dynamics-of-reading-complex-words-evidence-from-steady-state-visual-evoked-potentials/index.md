@@ -32,9 +32,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: The present study used steady-state visual evoked potentials (SSVEPs)
-  to examine the spatio-temporal dynamics of reading morphologically complex
-  words and test the neurophysiological activation pattern elicited by stems and
-  suffixes.
+summary: "2022"
 date: 2022-08-05T04:43:04.962Z
 ---
