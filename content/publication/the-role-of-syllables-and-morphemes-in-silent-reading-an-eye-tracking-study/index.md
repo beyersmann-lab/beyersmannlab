@@ -31,10 +31,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: German skilled readers have been found to engage in morphological and
-  syllable-based processing in visual word recognition. However, the relative
-  reliance on syllables and morphemes in reading multi-syllabic complex words is
-  still unresolved. The present study aimed to unveil which of these sub-lexical
-  units are the preferred units of reading by employing eye-tracking technology.
+summary: "2022"
 date: 2022-12-16T00:29:17.404Z
 ---
