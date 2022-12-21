@@ -44,14 +44,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "The time-course of morphological processing during spoken word
-  recognition was investigated using event-related brain potentials (ERPs) in an
-  auditory lexical decision task. We compared three different types of French
-  words: truly suffixed (e.g., *pochette* ‘little pocket’ = *poche* ‘pocket’ +
-  diminutive suffix -*ette*), pseudo-suffixed (e.g., *mouette* ‘seagull’ = *mou*
-  ‘soft’ + pseudo-suffix -*ette*) and non-suffixed target words (e.g., *fortune*
-  ‘fortune’ = *fort* ‘strong’ + non-suffix -*une*). Suffixed (e.g., *mouesse* =
-  *mou* + suffix -*esse*) and non-suffixed nonwords (e.g., *mouipe* = *mou* +
-  non-suffix -*ipe*) were also tested. "
+summary: "2019"
 date: 2019-07-01T05:38:18.675Z
 ---
