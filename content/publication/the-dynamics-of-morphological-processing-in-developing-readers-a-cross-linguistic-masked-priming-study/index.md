@@ -36,11 +36,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "Empirical evidence from masked priming research shows that skilled
-  readers can rapidly identify morphological structure in written language.
-  However, comparatively little is known about how and when this skill is
-  acquired in children. The current work investigated the developmental
-  trajectory of morphological processing in a 2-year longitudinal study
-  involving two large cohorts of German and French primary school children. "
+summary: "2021"
 date: 2021-08-01T05:01:44.192Z
 ---
