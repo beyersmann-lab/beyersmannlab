@@ -35,11 +35,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "Distributing study opportunities over time typically improves the
-  retention of verbal material compared to consecutive study trials, yet little
-  is known about the influence of temporal spacing on the learning of
-  orthographic form specifically. This experiment sought to obtain and compare
-  estimates of the magnitude of the spacing effect on written word form learning
-  across three different outcome measures, administered between-participants. "
+summary: "2022"
 date: 2022-12-15T01:03:00.000Z
 ---
