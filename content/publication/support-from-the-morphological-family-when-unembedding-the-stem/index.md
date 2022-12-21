@@ -30,11 +30,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Recent research investigating embedded stem priming effects with the
-  masked priming paradigm and pseudoword primes (e.g., *quickify*–*quick*) has
-  shown that priming effects can be obtained even when the embedded target word
-  is followed by a non-morphological ending (e.g., *quickald*–*quick*). Here we
-  examine the specific nature of such priming effects by testing whether they
-  are modulated by morphological family size.
+summary: "2018"
 date: 2018-01-01T04:52:41.607Z
 ---
