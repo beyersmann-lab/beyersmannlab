@@ -30,10 +30,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Readers can draw on their knowledge of sound-to-letter mappings to form
-  expectations about the spellings of known spoken words prior to seeing them in
-  written sentences. The current study asked whether such orthographic
-  expectancies are observed in the absence of contextual support at the point of
-  reading.
+summary: "2022"
 date: 2022-09-22T00:50:16.199Z
 ---
