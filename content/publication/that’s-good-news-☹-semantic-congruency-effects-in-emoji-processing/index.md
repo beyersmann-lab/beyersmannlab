@@ -35,10 +35,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "The use of emojis in digital communication has become increasingly
-  popular, but how emojis are processed and integrated in reading processes
-  remains underexplored. This study used eye-tracking to monitor university
-  students’ (*n* = 47) eye movements while reading single-line text messages
-  with a face emoji embedded medially. "
+summary: "2022"
 date: 2022-04-06T04:34:53.176Z
 ---
