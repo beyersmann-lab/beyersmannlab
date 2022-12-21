@@ -9,6 +9,7 @@ authors:
   - C. Mason
   - E. Townsend
   - L. Nickels
+doi: https://sstp.nl/article/view/3266
 abstract: "How plural forms are represented has been hotly debated for decades.
   Is it the case that regular plurals are stored as a full word form
   representation separate to their singulars (e.g., cat vs cats), or are plurals
