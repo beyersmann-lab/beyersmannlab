@@ -34,6 +34,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: 2﻿016
 date: 2016-05-06T02:26:20.811Z
 ---
-2﻿016
