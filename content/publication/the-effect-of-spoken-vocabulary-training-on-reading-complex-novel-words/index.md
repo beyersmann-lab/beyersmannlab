@@ -40,9 +40,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "Do readers benefit from their knowledge of the phonological form and
-  meaning of stems when seeing them embedded in morphologically complex words
-  for the first time in print? This question was addressed using a word learning
-  paradigm. "
+summary: "2022"
 date: 2022-08-01T02:29:10.385Z
 ---
