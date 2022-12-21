@@ -28,9 +28,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Text messages are characterised by a casual language style, ‘textese’
-  (e.g., *c u on thurs*). This study investigated adolescents’ perceptions of
-  the use of different levels of textese in digital messages which varied in
-  their intended recipient (friend, teacher).
+summary: "2021"
 date: 2021-12-01T03:46:37.823Z
 ---
