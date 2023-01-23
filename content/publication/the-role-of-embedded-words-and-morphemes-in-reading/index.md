@@ -1,7 +1,6 @@
 ---
 title: The role of embedded words and morphemes in reading
-subtitle: In D. Crepaldi (Ed.), *Current Issues in the Psychology of Language*.
-  Psychology Press.
+subtitle: In D. Crepaldi (Ed.), *Linguistic Morphology in the Mind and Brain*. Routledge.  
 publication_types:
   - "6"
 authors:
@@ -14,6 +13,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "2022"
+summary: "2023"
 date: 2022-12-01T02:28:03.743Z
 ---
