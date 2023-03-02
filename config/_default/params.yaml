@@ -41,7 +41,7 @@ header:
 
 # Site footer
 
-footer:
+footer: Beyersmann Lab acknowledges the traditional custodians of the Macquarie University land, the Wallumattagal clan of the Dharug nation, whose cultures and customs have nurtured, and continue to nurture, this land, since the Dreamtime.  We pay our respects to Elders past, present, and future, and extend this respect to all Aboriginal and Torres Strait Islander peoples.
   copyright:
     notice: '© {year}. This work is licensed under {license}'
     license:
