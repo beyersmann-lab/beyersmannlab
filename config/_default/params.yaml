@@ -43,7 +43,7 @@ header:
 
 footer: 
   copyright:
-    notice: 'Beyersmann Lab acknowledges the traditional custodians of the Macquarie University land, the Wallumattagal clan of the Dharug nation, whose cultures and customs have nurtured, and continue to nurture, this land, since the Dreamtime.  We pay our respects to Elders past, present, and future, and extend this respect to all Aboriginal and Torres Strait Islander peoples. © {year} Beyersmann Lab. This work is licensed under {license}'
+    notice: 'Beyersmann Lab acknowledges the traditional custodians of the Macquarie University land, the Wallumattagal clan of the Dharug nation, whose cultures and customs have nurtured, and continue to nurture, this land, since the Dreamtime.  We pay our respects to Elders past, present, and future, and extend this respect to all Aboriginal and Torres Strait Islander peoples. \n © {year} Beyersmann Lab. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
