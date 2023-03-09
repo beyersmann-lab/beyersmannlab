@@ -188,7 +188,7 @@ content:
         position: center
         color: '#333'
         brightness: 1
-        media: learningcircle3.jpg
+        media: learningcircle8.jpg
         fit: contain
     - title: Null
       content: Null
@@ -197,7 +197,7 @@ content:
         position: center
         color: '#333'
         brightness: 1
-        media: learningcircle8.jpg
+        media: learningcircle3.jpg
         fit: contain
     - title: Null
       content: Null
