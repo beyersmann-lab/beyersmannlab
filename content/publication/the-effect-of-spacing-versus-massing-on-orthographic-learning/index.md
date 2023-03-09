@@ -1,8 +1,8 @@
 ---
 title: The effect of spacing versus massing on orthographic learning
-subtitle: "*Reading Research Quarterly*, in press"
+subtitle: "*Reading Research Quarterly*"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - S. Wegener
   - H.-C. Wang
@@ -10,6 +10,7 @@ authors:
   - E. D. Reichle
   - K. Nation
   - A. Castles
+doi: https://doi.org/10.1002/rrq.492
 abstract: "Distributing study opportunities over time typically improves the
   retention of verbal material compared to consecutive study trials, yet little
   is known about the influence of temporal spacing on the learning of
@@ -36,5 +37,5 @@ image:
   focal_point: Smart
   preview_only: false
 summary: "2022"
-date: 2022-12-15T01:03:00.000Z
+date: 2022-12-28T01:03:00.000Z
 ---
