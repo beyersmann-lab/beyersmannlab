@@ -36,14 +36,14 @@ content:
       align: left
       background:
         position: center
-        color: '#7FEE83'
+        color: '#38B739'
         brightness: 1
     - title: Null
       content: Null
       align: left
       background:
         position: center
-        color: '#7FEE83'
+        color: '#38B739'
         brightness: 1
         media: bushtuckergarden1.jpg
         fit: contain
