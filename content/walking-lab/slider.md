@@ -152,14 +152,14 @@ content:
       align: left
       background:
         position: center
-        color: '#2FC2C0'
+        color: '#DDCFFA'
         brightness: 1
     - title: Null
       content: Null
       align: right
       background:
         position: center
-        color: '#2FC2C0'
+        color: '#DDCFFA'
         brightness: 1
         media: learningcircle1.jpg
         fit: contain
@@ -168,7 +168,7 @@ content:
       align: right
       background:
         position: center
-        color: '#2FC2C0'
+        color: '#DDCFFA'
         brightness: 1
         media: learningcircle2.jpg
         fit: contain
@@ -177,7 +177,7 @@ content:
       align: right
       background:
         position: center
-        color: '#2FC2C0'
+        color: '#DDCFFA'
         brightness: 1
         media: learningcircle7.jpg
         fit: contain
@@ -186,7 +186,7 @@ content:
       align: right
       background:
         position: center
-        color: '#2FC2C0'
+        color: '#DDCFFA'
         brightness: 1
         media: learningcircle8.jpg
         fit: contain
@@ -195,7 +195,7 @@ content:
       align: right
       background:
         position: center
-        color: '#2FC2C0'
+        color: '#DDCFFA'
         brightness: 1
         media: learningcircle3.jpg
         fit: contain
@@ -204,7 +204,7 @@ content:
       align: right
       background:
         position: center
-        color: '#2FC2C0'
+        color: '#DDCFFA'
         brightness: 1
         media: learningcircle9.jpg
         fit: contain
@@ -213,7 +213,7 @@ content:
       align: right
       background:
         position: center
-        color: '#2FC2C0'
+        color: '#DDCFFA'
         brightness: 1
         media: learningcircle4.jpg
         fit: contain
@@ -222,7 +222,7 @@ content:
       align: right
       background:
         position: center
-        color: '#2FC2C0'
+        color: '#DDCFFA'
         brightness: 1
         media: learningcircle5.jpg
         fit: contain
@@ -231,7 +231,7 @@ content:
       align: right
       background:
         position: center
-        color: '#2FC2C0'
+        color: '#DDCFFA'
         brightness: 1
         media: learningcircle6.jpg
         fit: contain
@@ -240,7 +240,7 @@ content:
       align: right
       background:
         position: center
-        color: '#2FC2C0'
+        color: '#DDCFFA'
         brightness: 1
         media: learningcircle10.jpg
         fit: contain
@@ -249,14 +249,14 @@ content:
       align: left
       background:
         position: center
-        color: '#666'
+        color: '#FF9F33'
         brightness: 1
     - title: Null
       content: Null
       align: right
       background:
         position: center
-        color: '#666'
+        color: '#FF9F33'
         brightness: 1
         media: incubator1.jpg
         fit: contain
