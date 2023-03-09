@@ -285,5 +285,30 @@ content:
         brightness: 1
         media: media2.jpg
         fit: contain
+    - title: Walking Lab Meeting to the Graduation Sculptures
+      content: 2nd of March 2023
+      align: left
+      background:
+        position: center
+        color: '#ECE32A'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#ECE32A'
+        brightness: 1
+        media: graduationsculptures1.jpg
+        fit: contain
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#ECE32A'
+        brightness: 1
+        media: graduationsculptures2.jpg
+        fit: contain
         
 ---
