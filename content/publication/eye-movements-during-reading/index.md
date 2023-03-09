@@ -10,6 +10,7 @@ authors:
   - E. Beyersmann
   - R. Parrila
   - A. Castles
+doi: https://research-management.mq.edu.au/ws/portalfiles/portal/223826965/223825495.pdf
 abstract: "Written words are everywhere. Learning to read is one of the main
   tasks of our early school years, and the ability to read opens up a world of
   possibilities—we can absorb ourselves in stories, remind ourselves of
