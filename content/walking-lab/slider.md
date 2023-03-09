@@ -46,6 +46,7 @@ content:
         color: '#333'
         brightness: 1
         media: bushtuckergarden1.jpg
+        fit: contain
     - title: Walking Lab Meeting to Lake Macquarie's Sculptures Walk
       content: 26st of May 2022, pictured sculpture is the Coil by Andrew Rogers (2003)
       align: left
@@ -61,6 +62,7 @@ content:
         color: '#333'
         brightness: 1
         media: sculptureswalk1.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -69,6 +71,7 @@ content:
         color: '#333'
         brightness: 1
         media: sculptureswalk2.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -77,6 +80,7 @@ content:
         color: '#333'
         brightness: 1
         media: sculptureswalk3.jpg
+        fit: contain
     - title: Walking Lab Meeting to the Arts Precinct Terrace
       content: 14th of July 2022
       align: left
@@ -92,6 +96,7 @@ content:
         color: '#333'
         brightness: 1
         media: artsprecinctterrace1.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -100,6 +105,7 @@ content:
         color: '#333'
         brightness: 1
         media: artsprecinctterrace2.jpg
+        fit: contain
     - title: Walking Lab Meeting to Walanga Muru Pavilion
       content: 28th of July 2022
       align: left
@@ -115,6 +121,7 @@ content:
         color: '#333'
         brightness: 1
         media: walangamurupavilion1.jpg
+        fit: contain
     - title: Walking Lab Meeting to the Graduation Lawn
       content: 4th of August 2022
       align: left
@@ -130,6 +137,7 @@ content:
         color: '#333'
         brightness: 1
         media: graduationlawn1.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -138,6 +146,7 @@ content:
         color: '#333'
         brightness: 1
         media: graduationlawn2.jpg
+        fit: contain
     - title: Walking Lab Meeting to the Learning Circle and Macquarie Lake
       content: 13th of October 2022
       align: left
@@ -153,6 +162,7 @@ content:
         color: '#333'
         brightness: 1
         media: learningcircle1.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -161,6 +171,7 @@ content:
         color: '#333'
         brightness: 1
         media: learningcircle2.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -169,6 +180,16 @@ content:
         color: '#333'
         brightness: 1
         media: learningcircle7.jpg
+        fit: contain
+    - title: Null
+      content: Null
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 1
+        media: learningcircle3.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -177,6 +198,7 @@ content:
         color: '#333'
         brightness: 1
         media: learningcircle8.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -185,6 +207,7 @@ content:
         color: '#333'
         brightness: 1
         media: learningcircle9.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -193,6 +216,7 @@ content:
         color: '#333'
         brightness: 1
         media: learningcircle4.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -201,6 +225,7 @@ content:
         color: '#333'
         brightness: 1
         media: learningcircle5.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -209,6 +234,7 @@ content:
         color: '#333'
         brightness: 1
         media: learningcircle6.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -217,6 +243,7 @@ content:
         color: '#333'
         brightness: 1
         media: learningcircle10.jpg
+        fit: contain
     - title: Walking Lab Meeting to the Incubator
       content: 27th of October 2022
       align: left
@@ -232,6 +259,7 @@ content:
         color: '#333'
         brightness: 1
         media: incubator1.jpg
+        fit: contain
     - title: Walking Lab Meeting to the Department of Media, Communications, Creative Arts, Language, and Literature
       content: 10th of November 2022
       align: left
@@ -247,6 +275,7 @@ content:
         color: '#333'
         brightness: 1
         media: media1.jpg
+        fit: contain
     - title: Null
       content: Null
       align: right
@@ -255,5 +284,6 @@ content:
         color: '#333'
         brightness: 1
         media: media2.jpg
+        fit: contain
         
 ---
