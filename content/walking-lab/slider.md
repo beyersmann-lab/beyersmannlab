@@ -265,14 +265,14 @@ content:
       align: left
       background:
         position: center
-        color: '#B54CF1'
+        color: '#B4F0A0'
         brightness: 1
     - title: Null
       content: Null
       align: right
       background:
         position: center
-        color: '#B54CF1'
+        color: '#B4F0A0'
         brightness: 1
         media: media1.jpg
         fit: contain
@@ -281,7 +281,7 @@ content:
       align: right
       background:
         position: center
-        color: '#B54CF1'
+        color: '#B4F0A0'
         brightness: 1
         media: media2.jpg
         fit: contain
