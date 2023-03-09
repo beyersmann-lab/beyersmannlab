@@ -3,7 +3,13 @@ title: Eye movements during reading
 subtitle: "*Frontiers for Young Minds*"
 publication_types:
   - "2"
-authors: []
+authors:
+  - S. Wegener
+  - L. Yu
+  - E. D. Reichle
+  - E. Beyersmann
+  - R. Parrila
+  - A. Castles
 doi: https://doi.org/10.3389/frym.2023.769381
 abstract: "Written words are everywhere. Learning to read is one of the main
   tasks of our early school years, and the ability to read opens up a world of
