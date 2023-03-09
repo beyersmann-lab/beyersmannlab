@@ -27,7 +27,7 @@ content:
       align: left
       background:
         position: center
-        color: '#555'
+        color: '#666'
         brightness: 1
         media: centralcourtyard1.jpg
         fit: contain
@@ -43,7 +43,7 @@ content:
       align: left
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: bushtuckergarden1.jpg
         fit: contain
@@ -59,7 +59,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: sculptureswalk1.jpg
         fit: contain
@@ -68,7 +68,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: sculptureswalk2.jpg
         fit: contain
@@ -77,7 +77,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: sculptureswalk3.jpg
         fit: contain
@@ -93,7 +93,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: artsprecinctterrace1.jpg
         fit: contain
@@ -102,7 +102,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: artsprecinctterrace2.jpg
         fit: contain
@@ -118,7 +118,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: walangamurupavilion1.jpg
         fit: contain
@@ -134,7 +134,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: graduationlawn1.jpg
         fit: contain
@@ -143,7 +143,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: graduationlawn2.jpg
         fit: contain
@@ -159,7 +159,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: learningcircle1.jpg
         fit: contain
@@ -168,7 +168,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: learningcircle2.jpg
         fit: contain
@@ -177,7 +177,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: learningcircle7.jpg
         fit: contain
@@ -186,7 +186,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: learningcircle8.jpg
         fit: contain
@@ -195,7 +195,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: learningcircle3.jpg
         fit: contain
@@ -204,7 +204,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: learningcircle9.jpg
         fit: contain
@@ -213,7 +213,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: learningcircle4.jpg
         fit: contain
@@ -222,7 +222,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: learningcircle5.jpg
         fit: contain
@@ -231,7 +231,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: learningcircle6.jpg
         fit: contain
@@ -240,7 +240,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: learningcircle10.jpg
         fit: contain
@@ -256,7 +256,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: incubator1.jpg
         fit: contain
@@ -272,7 +272,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: media1.jpg
         fit: contain
@@ -281,7 +281,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#666'
         brightness: 1
         media: media2.jpg
         fit: contain
