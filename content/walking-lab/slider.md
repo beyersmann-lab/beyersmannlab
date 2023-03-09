@@ -20,7 +20,7 @@ content:
       align: left
       background:
         position: center
-        color: '#666'
+        color: '#F32626'
         brightness: 1
     - title: Null
       content: Null
