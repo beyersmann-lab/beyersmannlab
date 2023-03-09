@@ -30,6 +30,7 @@ content:
         color: '#555'
         brightness: 1
         media: centralcourtyard1.jpg
+        fit: contain
     - title: Walking Lab Meeting to the Bush Tucker Garden 
       content: 26st of May 2022
       align: left
