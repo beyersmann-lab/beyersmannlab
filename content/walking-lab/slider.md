@@ -20,14 +20,14 @@ content:
       align: left
       background:
         position: center
-        color: '#F32626'
+        color: '#ECA9DF'
         brightness: 1
     - title: Null
       content: Null
       align: left
       background:
         position: center
-        color: '#666'
+        color: '#ECA9DF'
         brightness: 1
         media: centralcourtyard1.jpg
         fit: contain
