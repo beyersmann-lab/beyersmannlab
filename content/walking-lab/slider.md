@@ -213,7 +213,7 @@ content:
       align: right
       background:
         position: center
-        color: '#75E7F7'
+        color: '#C7E9FB'
         brightness: 1
         media: learningcircle4.jpg
         fit: contain
