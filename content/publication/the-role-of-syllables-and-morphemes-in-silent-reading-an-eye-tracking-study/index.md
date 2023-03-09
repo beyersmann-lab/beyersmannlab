@@ -1,14 +1,16 @@
 ---
-title: "The role of syllables and morphemes in silent reading: An eye-tracking study"
-subtitle: "*Quarterly Journal of Experimental Psychology*, in press"
+title: "EXPRESS: The role of syllables and morphemes in silent reading: An
+  eye-tracking study"
+subtitle: "*Quarterly Journal of Experimental Psychology*"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - E. De Simone
   - K. Moll
   - L. Feldmann
   - X. Schmalz
   - E. Beyersmann
+doi: https://doi.org.10.1177/17470218231160638
 abstract: German skilled readers have been found to engage in morphological and
   syllable-based processing in visual word recognition. However, the relative
   reliance on syllables and morphemes in reading multi-syllabic complex words is
@@ -31,6 +33,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "2022"
-date: 2022-12-16T00:29:17.404Z
+summary: "2023"
+date: 2023-02-20T00:29:17.404Z
 ---
