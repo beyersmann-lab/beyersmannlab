@@ -10,12 +10,15 @@ main:
   - name: Publications
     url: publication
     weight: 20
+  - name: Projects
+    url: project
+    weight: 30
   - name: Walking Lab
     url: walking-lab
-    weight: 30
+    weight: 40
   - name: Social Events
     url: event
-    weight: 40
+    weight: 50
   - name: Contact
     url: contact
-    weight: 50
+    weight: 60
