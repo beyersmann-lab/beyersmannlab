@@ -11,7 +11,7 @@ main:
     url: publication
     weight: 20
   - name: Projects
-    url: project
+    url: projects
     weight: 30
   - name: Walking Lab
     url: walking-lab
