@@ -1,6 +1,6 @@
 ---
 title: Reading and learning to read irregular words
-date: 2023-03-16T06:20:24.952Z
+date: 2023-03-16T05:30:30.640Z
 draft: false
 featured: false
 authors:
