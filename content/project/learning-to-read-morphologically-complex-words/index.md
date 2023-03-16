@@ -11,7 +11,7 @@ authors:
   - B. Mousikou
   - M. Ktori
   - D. Crepaldi
-  - J Hasenaecker
+  - J. Hasenaecker
 image:
   filename: featured
   focal_point: Smart
