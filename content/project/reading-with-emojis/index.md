@@ -1,6 +1,15 @@
 ---
 title: Reading with emojis
 date: 2023-03-16T05:31:30.640Z
+summary: >-
+  The use of emojis in digital communication has become increasingly popular,
+  and a growing number of emojis are now widely available across different chat
+  and email platforms. However, the cognitive underpinning of emoji processing,
+  and in particular the question of how emojis are integrated into online
+  reading processes, are not well understood.
+
+
+  This project uses eye-tracking and emoji priming techniques to explore the mechanisms by which readers incorporate the information conveyed by emojis in their reading.
 draft: false
 featured: false
 authors:
