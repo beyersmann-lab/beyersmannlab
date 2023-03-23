@@ -30,4 +30,4 @@ Lisi Beyersmann and her team are based at the <a href="https://www.mq.edu.au/abo
 
 <center>{{< figure src="home.jpg" caption="" numbered="" >}}</center>
   
-{{% cta cta_link="./researchers/" cta_text="Meet The Team →" %}}
+{{% cta cta_link="./researchers/" cta_text="Meet the Team →" %}}
