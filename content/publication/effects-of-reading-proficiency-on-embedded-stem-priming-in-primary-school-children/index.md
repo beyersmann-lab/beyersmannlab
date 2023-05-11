@@ -2,6 +2,7 @@
 title: Effects of reading proficiency on embedded stem priming in primary school
   children
 subtitle: "*Journal of Experimental Child Psychology*, *139*, 115–126"
+publication: "*Journal of Experimental Child Psychology*, *139*, 115–126"
 publication_types:
   - "2"
 authors:
