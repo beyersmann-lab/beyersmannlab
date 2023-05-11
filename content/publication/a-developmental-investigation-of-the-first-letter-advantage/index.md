@@ -1,8 +1,7 @@
 ---
 title: A developmental investigation of the first-letter advantage
 subtitle: "*Journal of Experimental Child Psychology*, *152*, 161–172"
-publication_types:
-  - "2"
+publication_types: ['2']
 authors:
   - J. Grainger
   - D. Bertrand
