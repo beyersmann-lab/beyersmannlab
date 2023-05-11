@@ -4,6 +4,10 @@ subtitle: "In I. Elgort, A. Siyanova, & M. Brysbart (Eds.), *Cross-language
   Influences in Second Language Acquisition and Processing: Interdisciplinary
   Insights and Perspectives (Bilingual Processing and Acquisition)*. John
   Benjamins."
+ publication: "In I. Elgort, A. Siyanova, & M. Brysbart (Eds.), *Cross-language
+  Influences in Second Language Acquisition and Processing: Interdisciplinary
+  Insights and Perspectives (Bilingual Processing and Acquisition)*. John
+  Benjamins."
 publication_types:
   - "6"
 authors:
