@@ -3,6 +3,7 @@ title: "Unpredictability and complexity of print-to-speech correspondences
   increase reliance on lexical processes: More evidence for the orthographic
   depth hypothesis"
 subtitle: "*Journal of Cognitive Psychology*, *28*(6), 658–672"
+publication: "*Journal of Cognitive Psychology*, *28*(6), 658–672"
 publication_types:
   - "2"
 authors:
