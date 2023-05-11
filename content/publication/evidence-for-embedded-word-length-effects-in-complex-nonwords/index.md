@@ -1,6 +1,7 @@
 ---
 title: Evidence for embedded word length effects in complex nonwords
 subtitle: "*Language, Cognition, & Neuroscience*, *35*(2), 235–245"
+publication: "*Language, Cognition, & Neuroscience*, *35*(2), 235–245"
 publication_types:
   - "2"
 authors:
