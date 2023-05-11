@@ -2,6 +2,7 @@
 title: "Morphological processing during visual word recognition in developing
   readers: Evidence from masked priming"
 subtitle: "*The Quarterly Journal of Experimental Psychology*, *65*(7), 1306–1326"
+publication: "*The Quarterly Journal of Experimental Psychology*, *65*(7), 1306–1326"
 publication_types:
   - "2"
 authors:
