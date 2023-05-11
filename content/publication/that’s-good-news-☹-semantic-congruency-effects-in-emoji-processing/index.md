@@ -1,6 +1,7 @@
 ---
 title: "That’s good news ☹: Semantic congruency effects in emoji processing"
 subtitle: "*Journal of Media Psychology*"
+publication: "*Journal of Media Psychology*"
 publication_types:
   - "2"
 authors:
