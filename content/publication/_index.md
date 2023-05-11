@@ -2,9 +2,7 @@
 title: Publications
 
 # Listing view
-design:
-  view: citation
-  columns: '2'
+view: citation
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
