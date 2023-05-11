@@ -2,6 +2,7 @@
 title: "Taking the book from the bookshelf: Masked constituent priming effects
   from compound words and nonwords "
 subtitle: "*Journal of Cognition*, *1*(1), 1–13"
+publication: "*Journal of Cognition*, *1*(1), 1–13"
 publication_types:
   - "2"
 authors:
