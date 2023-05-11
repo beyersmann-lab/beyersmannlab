@@ -2,6 +2,7 @@
 title: "Production of German -n plurals in aphasia: Effects of dominance and
   predictability"
 subtitle: "*Aphasiology*, *32*(9), 1087–1112"
+publication: "*Aphasiology*, *32*(9), 1087–1112"
 publication_types:
   - "2"
 authors:
