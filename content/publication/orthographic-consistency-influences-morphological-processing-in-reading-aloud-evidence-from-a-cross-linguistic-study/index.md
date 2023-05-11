@@ -2,6 +2,7 @@
 title: "Orthographic consistency influences morphological processing in reading
   aloud: Evidence from a cross-linguistic study"
 subtitle: "*Developmental Science*, *23*(6), 1–19"
+publication: "*Developmental Science*, *23*(6), 1–19"
 publication_types:
   - "2"
 authors:
