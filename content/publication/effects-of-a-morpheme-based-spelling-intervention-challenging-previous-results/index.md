@@ -1,6 +1,7 @@
 ---
 title: Effects of a morpheme-based spelling intervention challenging previous results
 subtitle: "*International Electronic Journal of Elementary Education*, *13*(5), 651–671"
+publication: "*International Electronic Journal of Elementary Education*, *13*(5), 651–671"
 publication_types:
   - "2"
 authors:
