@@ -1,6 +1,7 @@
 ---
 title: "Morphological processing without semantics: An ERP study with spoken words"
 subtitle: "*Cortex*, *116*, 55–73"
+publication: "*Cortex*, *116*, 55–73"
 publication_types:
   - "2"
 authors:
