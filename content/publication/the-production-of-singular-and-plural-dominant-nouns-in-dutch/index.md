@@ -1,6 +1,7 @@
 ---
 title: The production of singular- and plural-dominant nouns in Dutch
 subtitle: "*Language, Cognition and Neuroscience*, *30*(7), 867–876"
+publication: "*Language, Cognition and Neuroscience*, *30*(7), 867–876"
 publication_types:
   - "2"
 authors:
