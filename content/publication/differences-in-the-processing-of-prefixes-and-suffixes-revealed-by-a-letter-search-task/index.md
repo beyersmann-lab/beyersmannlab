@@ -2,6 +2,7 @@
 title: Differences in the processing of prefixes and suffixes revealed by a
   letter-search task
 subtitle: "*Scientific Studies of Reading*, *19*(5), 360–373"
+publication: "*Scientific Studies of Reading*, *19*(5), 360–373"
 publication_types:
   - "2"
 authors:
