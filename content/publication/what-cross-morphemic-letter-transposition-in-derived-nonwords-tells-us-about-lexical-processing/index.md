@@ -2,6 +2,7 @@
 title: What cross-morphemic letter transposition in derived nonwords tells us
   about lexical processing
 subtitle: "*Journal of Cognition*, *1*(1), 36"
+publication: "*Journal of Cognition*, *1*(1), 36"
 publication_types:
   - "2"
 authors:
