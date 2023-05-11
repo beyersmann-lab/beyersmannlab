@@ -3,6 +3,8 @@ title: Edge-aligned embedded word activation initiates morpho-orthographic
   segmentation
 subtitle: In B. H. Ross (Ed.), *Psychology of Learning and Motivation* (Vol. 67,
   pp. 285–317). Elsevier Academic Press.
+publication: In B. H. Ross (Ed.), *Psychology of Learning and Motivation* (Vol. 67,
+  pp. 285–317). Elsevier Academic Press.
 publication_types:
   - "6"
 authors:
