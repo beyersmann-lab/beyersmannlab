@@ -1,8 +1,8 @@
 ---
 title: "Masked morphological priming in German-speaking adults and children:
   Evidence from response time distributions"
-subtitle: "*Frontiers in Psychology*, *7*, 929."
-publication: "*Frontiers in Psychology*, *7*, 929."
+subtitle: "*Frontiers in Psychology*, *7*, 929"
+publication: "*Frontiers in Psychology*, *7*, 929"
 publication_types:
   - "2"
 authors:
