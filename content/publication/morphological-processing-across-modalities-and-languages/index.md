@@ -1,6 +1,7 @@
 ---
 title: Morphological processing across modalities and languages
 subtitle: "*Scientific Studies of Reading*, *24*(6), 500–519"
+publication: "*Scientific Studies of Reading*, *24*(6), 500–519"
 publication_types:
   - "2"
 authors:
