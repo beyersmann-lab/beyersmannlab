@@ -1,6 +1,7 @@
 ---
 title: Morphological processing in the flankers task
 subtitle: "*Language, Cognition, and Neuroscience*, *36*(3), 288–295"
+publication: "*Language, Cognition, and Neuroscience*, *36*(3), 288–295"
 publication_types:
   - "2"
 authors:
