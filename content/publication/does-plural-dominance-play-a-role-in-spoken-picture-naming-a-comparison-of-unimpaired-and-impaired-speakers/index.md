@@ -2,6 +2,7 @@
 title: Does plural dominance play a role in spoken picture naming? A comparison
   of unimpaired and impaired speakers
 subtitle: "*Journal of Neurolinguistics*, *26*(6), 712–736"
+publication: "*Journal of Neurolinguistics*, *26*(6), 712–736"
 publication_types:
   - "2"
 authors:
