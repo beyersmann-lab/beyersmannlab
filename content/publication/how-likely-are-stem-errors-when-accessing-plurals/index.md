@@ -1,6 +1,7 @@
 ---
 title: How likely are stem errors when accessing plurals
 subtitle: "*Stem-, Spraak- en Taalpathologie*, *17*, 20–23"
+publication: "*Stem-, Spraak- en Taalpathologie*, *17*, 20–23"
 publication_types:
   - "2"
 authors:
