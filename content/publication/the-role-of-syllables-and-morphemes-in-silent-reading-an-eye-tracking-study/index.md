@@ -5,7 +5,7 @@ subtitle: "*Quarterly Journal of Experimental Psychology*"
 publication_types:
   - "2"
 authors:
-  - E. De Simone
+  - De Simone, E.
   - K. Moll
   - L. Feldmann
   - X. Schmalz
