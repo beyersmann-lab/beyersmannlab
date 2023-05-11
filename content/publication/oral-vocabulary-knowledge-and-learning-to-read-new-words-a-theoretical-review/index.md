@@ -2,6 +2,7 @@
 title: "Oral vocabulary knowledge and learning to read new words: A theoretical
   review"
 subtitle: "*Australian Journal of Learning Difficulties*, *22*(2), 253-278"
+publication: "*Australian Journal of Learning Difficulties*, *22*(2), 253-278"
 publication_types:
   - "2"
 authors:
