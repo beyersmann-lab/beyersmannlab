@@ -2,6 +2,7 @@
 title: "Early morphological decomposition during visual word recognition:
   Evidence from masked transposed-letter priming"
 subtitle: "*Psychonomic Bulletin and Review*, *18*(5), 937–942"
+publication: "*Psychonomic Bulletin and Review*, *18*(5), 937–942"
 publication_types:
   - "2"
 authors:
