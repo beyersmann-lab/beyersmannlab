@@ -1,6 +1,7 @@
 ---
 title: Letter transpositions within morphemes and across morpheme boundaries
 subtitle: "*The Quarterly Journal of Experimental Psychology*, *66*(12), 2389–2410"
+publication: "*The Quarterly Journal of Experimental Psychology*, *66*(12), 2389–2410"
 publication_types:
   - "2"
 authors:
