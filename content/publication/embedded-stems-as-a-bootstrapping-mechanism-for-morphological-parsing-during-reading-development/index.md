@@ -2,6 +2,7 @@
 title: Embedded stems as a bootstrapping mechanism for morphological parsing
   during reading development
 subtitle: "*Journal of Experimental Child Psychology*, *182*, 196–210"
+publication: "*Journal of Experimental Child Psychology*, *182*, 196–210"
 publication_types:
   - "2"
 authors:
