@@ -2,6 +2,7 @@
 title: "Teaching children to read irregular words: A comparison of three
   instructional methods"
 subtitle: "*Scientific Studies of Reading*, *26*(6), 545-564"
+publication: "*Scientific Studies of Reading*, *26*(6), 545-564"
 publication_types:
   - "2"
 authors:
