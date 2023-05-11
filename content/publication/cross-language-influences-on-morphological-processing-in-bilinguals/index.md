@@ -4,15 +4,16 @@ subtitle: "In I. Elgort, A. Siyanova, & M. Brysbart (Eds.), *Cross-language
   Influences in Second Language Acquisition and Processing: Interdisciplinary
   Insights and Perspectives (Bilingual Processing and Acquisition)*. John
   Benjamins."
-publication: "In I. Elgort, A. Siyanova, & M. Brysbart (Eds.), *Cross-language
-  Influences in Second Language Acquisition and Processing: Interdisciplinary
-  Insights and Perspectives (Bilingual Processing and Acquisition)*. John
-  Benjamins."
 publication_types:
   - "6"
 authors:
   - H. Kahraman
   - E. Beyersmann
+doi: https://doi.org/10.1075/bpa.16.10kah
+publication: "In I. Elgort, A. Siyanova, & M. Brysbart (Eds.), *Cross-language
+  Influences in Second Language Acquisition and Processing: Interdisciplinary
+  Insights and Perspectives (Bilingual Processing and Acquisition)*. John
+  Benjamins."
 abstract: Several decades of reading research in bilinguals have revealed
   evidence for cross-language influences on the visual recognition of simple
   words (e.g., *farm*). However, comparatively little is known about
@@ -31,6 +32,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "2022"
-date: 2022-12-01T02:20:28.455Z
+summary: "2023"
+date: 2023-05-01T03:20:28.455Z
 ---
