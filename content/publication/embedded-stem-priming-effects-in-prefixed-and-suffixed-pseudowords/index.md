@@ -1,6 +1,7 @@
 ---
 title: Embedded stem priming effects in prefixed and suffixed pseudowords
 subtitle: "*Scientific Studies of Reading*, *20*(3), 220–230"
+publication: "*Scientific Studies of Reading*, *20*(3), 220–230"
 publication_types:
   - "2"
 authors:
