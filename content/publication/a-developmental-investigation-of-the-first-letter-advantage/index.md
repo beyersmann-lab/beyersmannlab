@@ -9,6 +9,7 @@ authors:
   - E. Beyersmann
   - J. C. Ziegler
 doi: https://doi.org/10.1016/j.jecp.2016.07.016
+publishDate: '2017-01-01T00:00:00Z'
 publication_short: ""
 abstract: Skilled adult readers identify the first letter in a string of random
   consonants better than letters at any other position, and this advantage for
