@@ -2,6 +2,7 @@
 title: "Early morphological decomposition of suffixed words: Masked-priming
   evidence with transposed-letter nonword primes"
 subtitle: "*Applied Psycholinguistics*, *34*(5), 869–892"
+publication: "*Applied Psycholinguistics*, *34*(5), 869–892"
 publication_types:
   - "2"
 authors:
