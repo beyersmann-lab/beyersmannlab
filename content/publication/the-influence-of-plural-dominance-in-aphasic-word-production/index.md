@@ -1,6 +1,7 @@
 ---
 title: The influence of plural dominance in aphasic word production
 subtitle: "*Aphasiology*, *26*(8), 985–1004"
+publication: "*Aphasiology*, *26*(8), 985–1004"
 publication_types:
   - "2"
 authors:
