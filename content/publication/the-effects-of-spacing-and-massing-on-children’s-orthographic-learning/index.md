@@ -1,6 +1,7 @@
 ---
 title: The effects of spacing and massing on children’s orthographic learning
 subtitle: "*Journal of Experimental Child Psychology*, *214*, 105309–105309"
+publication: "*Journal of Experimental Child Psychology*, *214*, 105309–105309"
 publication_types:
   - "2"
 authors:
