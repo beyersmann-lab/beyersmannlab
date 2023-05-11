@@ -1,6 +1,7 @@
 ---
 title: The influence of textese on adolescents’ perceptions of text message writers
 subtitle: "*Telematics and Informatics*, *65*, 101720"
+publication: "*Telematics and Informatics*, *65*, 101720"
 publication_types:
   - "2"
 authors:
