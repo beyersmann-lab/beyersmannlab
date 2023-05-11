@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: publication
 design:
-  view: compact
+  view: citation
   columns: '1'
 ---
