@@ -1,7 +1,7 @@
 ---
 title: Morpho-orthographic segmentation without semantics
-subtitle: "*Psychonomic Bulletin and Review*, *23*(2), 533–539."
-publication: "*Psychonomic Bulletin and Review*, *23*(2), 533–539."
+subtitle: "*Psychonomic Bulletin and Review*, *23*(2), 533–539"
+publication: "*Psychonomic Bulletin and Review*, *23*(2), 533–539"
 publication_types:
   - "2"
 authors:
