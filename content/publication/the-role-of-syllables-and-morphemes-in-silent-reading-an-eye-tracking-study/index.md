@@ -2,6 +2,7 @@
 title: "EXPRESS: The role of syllables and morphemes in silent reading: An
   eye-tracking study"
 subtitle: "*Quarterly Journal of Experimental Psychology*"
+publication: "*Quarterly Journal of Experimental Psychology*"
 publication_types:
   - "2"
 authors:
