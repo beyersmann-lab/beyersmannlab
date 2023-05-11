@@ -2,10 +2,7 @@
 title: Language proficiency moderates morphological priming in children and adults
 subtitle: "In Pirrelli, V., Marzi, C., & Ferro, M. (eds.): Word Structure and
   Word Usage. Proceedings of the NetWordS Final Conference, Pisa, published at
-  https://ceur-ws.org/."
-publication: "In Pirrelli, V., Marzi, C., & Ferro, M. (eds.): Word Structure and
-  Word Usage. Proceedings of the NetWordS Final Conference, Pisa, published at
-  https://ceur-ws.org/."
+  https://ceur-ws.org/"
 publication_types:
   - "1"
 authors:
@@ -13,6 +10,9 @@ authors:
   - E. Beyersmann
   - S. Schroeder
 doi: ""
+publication: "In Pirrelli, V., Marzi, C., & Ferro, M. (eds.): Word Structure and
+  Word Usage. Proceedings of the NetWordS Final Conference, Pisa, published at
+  https://ceur-ws.org/"
 draft: false
 featured: false
 image:
