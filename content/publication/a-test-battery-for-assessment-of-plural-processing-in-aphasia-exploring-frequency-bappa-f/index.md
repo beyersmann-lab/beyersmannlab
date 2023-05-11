@@ -1,8 +1,8 @@
 ---
 title: A test battery for assessment of plural processing in aphasia exploring
   frequency (BAPPA-F)
-subtitle: Macquarie Online Test Interface. Retrieved from http://www.motif.org.au
-publication: Macquarie Online Test Interface. Retrieved from http://www.motif.org.au
+subtitle: "Macquarie Online Test Interface. Retrieved from http://www.motif.org.au"
+publication: "Macquarie Online Test Interface. Retrieved from http://www.motif.org.au"
 publication_types:
   - "0"
 authors:
