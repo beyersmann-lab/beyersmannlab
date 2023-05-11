@@ -1,6 +1,7 @@
 ---
 title: The effect of spacing versus massing on orthographic learning
 subtitle: "*Reading Research Quarterly*"
+publication: "*Reading Research Quarterly*"
 publication_types:
   - "2"
 authors:
