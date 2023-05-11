@@ -3,6 +3,8 @@ title: Effects of lexicality and pseudo-morphological complexity on embedded
   word priming
 subtitle: "*Journal of Experimental Psychology: Learning, Memory, & Cognition*,
   *47*(3), 518–531"
+publication: "*Journal of Experimental Psychology: Learning, Memory, & Cognition*,
+  *47*(3), 518–531"
 publication_types:
   - "2"
 authors:
