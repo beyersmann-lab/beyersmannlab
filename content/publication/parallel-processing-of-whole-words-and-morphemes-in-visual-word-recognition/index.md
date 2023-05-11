@@ -1,6 +1,7 @@
 ---
 title: Parallel processing of whole-words and morphemes in visual word recognition
 subtitle: "*The Quarterly Journal of Experimental Psychology*, *65*(9), 1798–1819"
+publication: "*The Quarterly Journal of Experimental Psychology*, *65*(9), 1798–1819"
 publication_types:
   - "2"
 authors:
