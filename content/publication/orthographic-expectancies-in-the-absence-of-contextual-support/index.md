@@ -1,6 +1,7 @@
 ---
 title: Orthographic expectancies in the absence of contextual support
 subtitle: "*Scientific Studies of Reading*"
+publication: "*Scientific Studies of Reading*"
 publication_types:
   - "2"
 authors:
