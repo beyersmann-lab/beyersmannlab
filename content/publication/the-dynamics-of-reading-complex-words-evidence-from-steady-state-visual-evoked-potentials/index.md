@@ -2,6 +2,7 @@
 title: "The dynamics of reading complex words: Evidence from steady-state visual
   evoked potentials"
 subtitle: "*Scientific Reports*, *11*, Article 15919"
+publication: "*Scientific Reports*, *11*, Article 15919"
 publication_types:
   - "2"
 authors:
