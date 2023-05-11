@@ -1,6 +1,7 @@
 ---
 title: Plural dominance and the production of determiner-noun phrases in French
 subtitle: "*PLOS One*, *13*(7), e0200723"
+publication: "*PLOS One*, *13*(7), e0200723"
 publication_types:
   - "2"
 authors:
