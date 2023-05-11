@@ -2,6 +2,7 @@
 title: "The dynamics of morphological processing in developing readers: A
   cross-linguistic masked priming study"
 subtitle: "*Journal of Experimental Child Psychology*, *208*, 105140"
+publication: "*Journal of Experimental Child Psychology*, *208*, 105140"
 publication_types:
   - "2"
 authors:
