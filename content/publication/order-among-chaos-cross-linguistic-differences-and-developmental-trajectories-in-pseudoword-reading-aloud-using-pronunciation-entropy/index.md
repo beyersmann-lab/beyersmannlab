@@ -2,6 +2,7 @@
 title: "Order among chaos: Cross-linguistic differences and developmental
   trajectories in pseudoword reading aloud using pronunciation Entropy"
 subtitle: "*PLOS One*, *16*(5), e0251629"
+publication: "*PLOS One*, *16*(5), e0251629"
 publication_types:
   - "2"
 authors:
