@@ -2,7 +2,9 @@
 title: "Organisation of 'number' information in the lexicon: Insights from
   aphasic plural errors"
 subtitle: In Otsu, Y. (Ed.), The Proceedings of the 10th Tokyo Conference on
-  Psycholinguistics (pp. 27–42). Hituzi Syobo Publishing.
+  Psycholinguistics (pp. 27–42). Hituzi Syobo Publishing
+publication: In Otsu, Y. (Ed.), The Proceedings of the 10th Tokyo Conference on
+  Psycholinguistics (pp. 27–42). Hituzi Syobo Publishing
 publication_types:
   - "1"
 authors:
