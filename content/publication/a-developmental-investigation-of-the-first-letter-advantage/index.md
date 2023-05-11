@@ -1,7 +1,8 @@
 ---
 title: A developmental investigation of the first-letter advantage
 subtitle: "*Journal of Experimental Child Psychology*, *152*, 161–172"
-font_size: XS
+font_size: 
+  - "XS"
 publication: "*Journal of Experimental Child Psychology*, *152*, 161–172"
 publication_types:
   - "2"
