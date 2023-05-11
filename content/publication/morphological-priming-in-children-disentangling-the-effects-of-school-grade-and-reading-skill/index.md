@@ -2,6 +2,7 @@
 title: "Morphological priming in children: Disentangling the effects of
   school-grade and reading skill"
 subtitle: "*Scientific Studies of Reading*, *24*(6), 484–499"
+publication: "*Scientific Studies of Reading*, *24*(6), 484–499"
 publication_types:
   - "2"
 authors:
