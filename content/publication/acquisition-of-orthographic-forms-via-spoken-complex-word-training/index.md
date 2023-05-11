@@ -1,7 +1,7 @@
 ---
 title: Acquisition of orthographic forms via spoken complex word training
 subtitle: "*Psychonomic Bulletin & Review*"
-publication: "*Psychonomic Bulletin & Review*"
+publication: "*Psychonomic Bulletin & Review* "
 publication_types:
   - "2"
 authors:
