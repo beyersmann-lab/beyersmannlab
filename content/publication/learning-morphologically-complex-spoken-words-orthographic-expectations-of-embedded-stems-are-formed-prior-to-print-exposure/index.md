@@ -2,9 +2,9 @@
 title: "Learning morphologically complex spoken words: Orthographic expectations
   of embedded stems are formed prior to print exposure"
 subtitle: "*Journal of Experimental Psychology: Learning, Memory, & Cognition*,
-  *47*(1), 87–98."
+  *47*(1), 87–98"
 publication: "*Journal of Experimental Psychology: Learning, Memory, & Cognition*,
-  *47*(1), 87–98."
+  *47*(1), 87–98"
 publication_types:
   - "2"
 authors:
