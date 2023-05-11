@@ -4,7 +4,7 @@ title: Publications
 # Listing view
 view: citation
 font_size: 
-  - "XS"
+  - "xs"
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
