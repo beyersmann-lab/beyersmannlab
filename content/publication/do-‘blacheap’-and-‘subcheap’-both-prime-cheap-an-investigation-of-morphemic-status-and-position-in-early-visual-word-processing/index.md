@@ -2,6 +2,7 @@
 title: Do ‘blacheap’ and ‘subcheap’ both prime 'cheap'? An investigation of
   morphemic status and position in early visual word processing
 subtitle: "*The Quarterly Journal of Experimental Psychology*, *71*(8), 1645–1654"
+publication: "*The Quarterly Journal of Experimental Psychology*, *71*(8), 1645–1654"
 publication_types:
   - "2"
 authors:
