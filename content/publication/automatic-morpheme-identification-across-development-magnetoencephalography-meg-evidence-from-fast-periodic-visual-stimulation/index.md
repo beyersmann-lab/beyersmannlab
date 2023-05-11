@@ -2,6 +2,7 @@
 title: "Automatic morpheme identification across development:
   Magnetoencephalography (MEG) evidence from fast periodic visual stimulation"
 subtitle: "*Frontiers in Psychology*, *13*"
+publication: "*Frontiers in Psychology*, *13*"
 publication_types:
   - "2"
 authors:
