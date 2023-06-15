@@ -5,7 +5,7 @@ url_pdf: ""
 summary: null
 title: Demian and Hasibe's Birthdays
 location: Australian Hearing Hub, Macquarie University
-date: 2023-04-13T15:00:35.648Z
+date: 2023-04-13T14:00:35.648Z
 all_day: false
 event: null
 event_url: null
