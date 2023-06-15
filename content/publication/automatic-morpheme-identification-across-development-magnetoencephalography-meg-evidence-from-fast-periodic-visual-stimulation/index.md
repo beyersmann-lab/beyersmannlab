@@ -1,8 +1,7 @@
 ---
 title: "Automatic morpheme identification across development:
   Magnetoencephalography (MEG) evidence from fast periodic visual stimulation"
-subtitle: "*Frontiers in Psychology*, *13*"
-publication: "*Frontiers in Psychology*, *13*"
+subtitle: "*Frontiers in Psychology*, *13*."
 publication_types:
   - "2"
 authors:
@@ -12,7 +11,9 @@ authors:
   - P. F. Sowman
   - A. Castles
   - D. Crepaldi
-doi: https://doi.org/10.3389/fpsyg.2022.932952
+doi: ""
+publication: "*Frontiers in Psychology*, *13*"
+publication_short: https://doi.org/10.3389/fpsyg.2022.932952
 abstract: "The present study combined magnetoencephalography (MEG) recordings
   with fast periodic visual stimulation (FPVS) to investigate automatic neural
   responses to morphemes in developing and skilled readers. Native
