@@ -11,8 +11,8 @@ authors:
   - K. Nation
   - A. Castles
 doi: ""
-publication: "*Reading Research Quarterly*"
-publication_short: https://doi.org/10.1002/rrq.492
+publication: "*Reading Research Quarterly*. https://doi.org/10.1002/rrq.492"
+publication_short: ""
 abstract: "Distributing study opportunities over time typically improves the
   retention of verbal material compared to consecutive study trials, yet little
   is known about the influence of temporal spacing on the learning of
