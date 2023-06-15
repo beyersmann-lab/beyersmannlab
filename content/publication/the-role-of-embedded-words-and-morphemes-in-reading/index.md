@@ -7,8 +7,9 @@ authors:
   - E. Beyersmann
   - J. Grainger
 doi: ""
-publication: In D. Crepaldi (Ed.), *Linguistic Morphology in the Mind and Brain*. Routledge
-publication_short: https://doi.org/10.4324/9781003159759-3
+publication: In D. Crepaldi (Ed.), *Linguistic Morphology in the Mind and
+  Brain*. Routledge. https://doi.org/10.4324/9781003159759-3
+publication_short: ""
 abstract: This chapter describes a model that accounts for various phenomena
   related to morphological processing in skilled reading and reading
   acquisition. The model implements a non-morphological mechanism of embedded
