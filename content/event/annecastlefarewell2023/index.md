@@ -9,7 +9,7 @@ date: 2023-05-18T15:00:35.648Z
 all_day: false
 event: null
 event_url: null
-featured: alipdhsubmissionparty2023_1.jpg
+featured: annecastlefarewell2023.jpg
 authors: null
 url_video: ""
 url_slides: ""
