@@ -1,6 +1,6 @@
 ---
 title: Orthographic expectancies in the absence of contextual support
-subtitle: "*Scientific Studies of Reading*"
+subtitle: "*Scientific Studies of Reading*."
 publication_types:
   - "2"
 authors:
@@ -10,8 +10,9 @@ authors:
   - K. Nation
   - D. Colenbrander
   - A. Castles
-doi: https://doi.org/10.1080/10888438.2022.2127356
+doi: ""
 publication: "*Scientific Studies of Reading*"
+publication_short: https://doi.org/10.1080/10888438.2022.2127356
 abstract: >-
   **Purpose:** Readers can draw on their knowledge of sound-to-letter mappings
    to form expectations about the spellings of known spoken words prior to seeing
