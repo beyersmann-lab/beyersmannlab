@@ -1,6 +1,6 @@
 ---
 title: Acquisition of orthographic forms via spoken complex word training
-subtitle: "*Psychonomic Bulletin & Review*"
+subtitle: "*Psychonomic Bulletin & Review*."
 publication_types:
   - "2"
 authors:
@@ -8,8 +8,9 @@ authors:
   - S. Wegener
   - J. Spencer
   - A. Castles
-doi: https://doi.org/10.3758/s13423-022-02185-y
+doi: ""
 publication: "*Psychonomic Bulletin & Review*"
+publication_short: https://doi.org/10.3758/s13423-022-02185-y
 abstract: >-
   This study used a novel word-training paradigm to examine the integration of
   spoken word knowledge when learning to read morphologically complex novel
