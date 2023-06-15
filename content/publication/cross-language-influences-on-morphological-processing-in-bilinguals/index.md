@@ -10,10 +10,7 @@ authors:
   - H. Kahraman
   - E. Beyersmann
 doi: ""
-publication: "In I. Elgort, A. Siyanova, & M. Brysbart (Eds.), *Cross-language
-  Influences in Second Language Acquisition and Processing: Interdisciplinary
-  Insights and Perspectives (Bilingual Processing and Acquisition)*. John
-  Benjamins. https://doi.org/10.1075/bpa.16.10kah"
+publication: f
 publication_short: ""
 abstract: Several decades of reading research in bilinguals have revealed
   evidence for cross-language influences on the visual recognition of simple
