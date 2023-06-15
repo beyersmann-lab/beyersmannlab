@@ -11,8 +11,9 @@ authors:
   - D. Colenbrander
   - A. Castles
 doi: ""
-publication: "*Scientific Studies of Reading*"
-publication_short: https://doi.org/10.1080/10888438.2022.2127356
+publication: "*Scientific Studies of Reading*.
+  https://doi.org/10.1080/10888438.2022.2127356"
+publication_short: ""
 abstract: >-
   **Purpose:** Readers can draw on their knowledge of sound-to-letter mappings
    to form expectations about the spellings of known spoken words prior to seeing
