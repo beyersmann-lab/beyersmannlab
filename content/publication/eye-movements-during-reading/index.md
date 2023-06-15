@@ -11,8 +11,8 @@ authors:
   - R. Parrila
   - A. Castles
 doi: ""
-publication: "*Frontiers for Young Minds*"
-publication_short: https://doi.org/10.3389/frym.2023.769381
+publication: "*Frontiers for Young Minds*. https://doi.org/10.3389/frym.2023.769381"
+publication_short: ""
 abstract: "Written words are everywhere. Learning to read is one of the main
   tasks of our early school years, and the ability to read opens up a world of
   possibilities—we can absorb ourselves in stories, remind ourselves of
