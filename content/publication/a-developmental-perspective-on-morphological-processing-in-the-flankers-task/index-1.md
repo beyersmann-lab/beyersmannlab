@@ -1,7 +1,7 @@
 ---
 title: A developmental perspective on morphological processing in the flankers task
 subtitle: '*Journal of Experimental Child Psychology*, *221*, 105448"
-  publication: "*Journal of Experimental Child Psychology*, *221*, 105448'
+  publication: "*Journal of Experimental Child Psychology*, *221*, 105448.'
 publication_types:
   - "2"
 authors:
@@ -9,9 +9,10 @@ authors:
   - E. Beyersmann
   - B. Lété
   - J. Grainger
-doi: https://doi.org/10.1016/j.jecp.2022.105448
+doi: ""
 publication: '*Journal of Experimental Child Psychology*, *221*, 105448"
   publication: "*Journal of Experimental Child Psychology*, *221*, 105448'
+publication_short: https://doi.org/10.1016/j.jecp.2022.105448
 abstract: >-
   Recent research with adult participants using the flankers task has
     shown that the recognition of central target words is facilitated by the
