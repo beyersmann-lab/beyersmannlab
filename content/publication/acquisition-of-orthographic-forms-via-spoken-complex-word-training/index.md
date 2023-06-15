@@ -9,8 +9,8 @@ authors:
   - J. Spencer
   - A. Castles
 doi: ""
-publication: "*Psychonomic Bulletin & Review*"
-publication_short: https://doi.org/10.3758/s13423-022-02185-y
+publication: "*Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-022-02185-y"
+publication_short: ""
 abstract: >-
   This study used a novel word-training paradigm to examine the integration of
   spoken word knowledge when learning to read morphologically complex novel
