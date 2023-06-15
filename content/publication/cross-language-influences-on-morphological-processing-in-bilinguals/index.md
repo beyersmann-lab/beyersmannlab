@@ -1,15 +1,16 @@
 ---
 title: Cross-language influences on morphological processing in bilinguals
-subtitle: "In I. Elgort, A. Siyanova, & M. Brysbart (Eds.), *Cross-language
+subtitle: 'In I. Elgort, A. Siyanova, & M. Brysbart (Eds.), *Cross-language
   Influences in Second Language Acquisition and Processing: Interdisciplinary
   Insights and Perspectives (Bilingual Processing and Acquisition)*. John
-  Benjamins."
+  Benjamins. <a href="https://doi.org/10.1075/bpa.16.10kah"
+  target="_blank">https://doi.org/10.1075/bpa.16.10kah</a>'
 publication_types:
   - "6"
 authors:
   - H. Kahraman
   - E. Beyersmann
-doi: https://doi.org/10.1075/bpa.16.10kah
+doi: ""
 publication: "In I. Elgort, A. Siyanova, & M. Brysbart (Eds.), *Cross-language
   Influences in Second Language Acquisition and Processing: Interdisciplinary
   Insights and Perspectives (Bilingual Processing and Acquisition)*. John
