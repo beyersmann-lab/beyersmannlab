@@ -5,7 +5,7 @@ url_pdf: ""
 summary: null
 title: Ali's PhD Submission Party
 location: Macquarie Lake and Australian Hearing Hub, Macquarie University
-date: 2023-03-31T15:00:35.648Z
+date: 2023-03-31T13:00:35.648Z
 all_day: false
 event: null
 event_url: null
