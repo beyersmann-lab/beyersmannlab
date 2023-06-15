@@ -1,6 +1,6 @@
 ---
 title: Acquisition of orthographic forms via spoken complex word training
-subtitle: "*Psychonomic Bulletin & Review*."
+subtitle: "*Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-022-02185-y"
 publication_types:
   - "2"
 authors:
@@ -9,7 +9,7 @@ authors:
   - J. Spencer
   - A. Castles
 doi: ""
-publication: "*Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-022-02185-y"
+publication: "*Psychonomic Bulletin & Review*"
 publication_short: ""
 abstract: >-
   This study used a novel word-training paradigm to examine the integration of
