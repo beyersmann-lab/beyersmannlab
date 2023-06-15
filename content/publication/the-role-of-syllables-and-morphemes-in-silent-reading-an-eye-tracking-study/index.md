@@ -11,8 +11,9 @@ authors:
   - X. Schmalz
   - E. Beyersmann
 doi: ""
-publication: "*Quarterly Journal of Experimental Psychology*"
-publication_short: https://doi.org/10.1177/17470218231160638
+publication: "*Quarterly Journal of Experimental Psychology*.
+  https://doi.org/10.1177/17470218231160638"
+publication_short: ""
 abstract: German skilled readers have been found to engage in morphological and
   syllable-based processing in visual word recognition. However, the relative
   reliance on syllables and morphemes in reading multi-syllabic complex words is
