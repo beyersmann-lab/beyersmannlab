@@ -1,14 +1,15 @@
 ---
 title: Letter transpositions within morphemes and across morpheme boundaries
-subtitle: "*The Quarterly Journal of Experimental Psychology*, *66*(12), 2389–2410"
-publication: "*The Quarterly Journal of Experimental Psychology*, *66*(12), 2389–2410"
+subtitle: "*The Quarterly Journal of Experimental Psychology*, *66*(12),
+  2389–2410. https://doi.org/10.1080/17470218.2013.782326"
 publication_types:
   - "2"
 authors:
   - E. Beyersmann
   - S. McCormick
   - K. Rastle
-doi: https://doi.org/10.1080/17470218.2013.782326
+doi: ""
+publication: "*The Quarterly Journal of Experimental Psychology*, *66*(12), 2389–2410"
 abstract: Recent evidence has revealed conflicting results regarding the
   influence of letter transpositions during the recognition of morphologically
   complex words. While some studies suggest that the disruption of the morpheme
