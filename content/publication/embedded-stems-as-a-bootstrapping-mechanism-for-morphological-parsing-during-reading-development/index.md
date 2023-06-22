@@ -1,15 +1,16 @@
 ---
 title: Embedded stems as a bootstrapping mechanism for morphological parsing
   during reading development
-subtitle: "*Journal of Experimental Child Psychology*, *182*, 196–210"
-publication: "*Journal of Experimental Child Psychology*, *182*, 196–210"
+subtitle: "*Journal of Experimental Child Psychology*, *182*, 196–210.
+  https://doi.org/10.1016/j.jecp.2019.01.010"
 publication_types:
   - "2"
 authors:
   - E. Beyersmann
   - J. Grainger
   - A. Castles
-doi: https://doi.org/10.1016/j.jecp.2019.01.010
+doi: ""
+publication: "*Journal of Experimental Child Psychology*, *182*, 196–210"
 abstract: The aim of the current research was to test the hypothesis that the
   activation of embedded words (e.g., the *farm* in *farmhouse*) is the starting
   point for the development of an abstract morphological parsing system in
