@@ -1,7 +1,7 @@
 ---
 title: The influence of textese on adolescents’ perceptions of text message writers
-subtitle: "*Telematics and Informatics*, *65*, 101720"
-publication: "*Telematics and Informatics*, *65*, 101720"
+subtitle: "*Telematics and Informatics*, *65*, 101720.
+  https://doi.org/10.1016/j.tele.2021.101720"
 publication_types:
   - "2"
 authors:
@@ -9,7 +9,8 @@ authors:
   - J. Graham
   - R. Grieve
   - E. Beyersmann
-doi: https://doi.org/10.1016/j.tele.2021.101720
+doi: ""
+publication: "*Telematics and Informatics*, *65*, 101720"
 abstract: Text messages are characterised by a casual language style, ‘textese’
   (e.g., *c u on thurs*). This study investigated adolescents’ perceptions of
   the use of different levels of textese in digital messages which varied in
