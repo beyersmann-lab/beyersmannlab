@@ -1,8 +1,8 @@
 ---
 title: "The dynamics of reading complex words: Evidence from steady-state visual
   evoked potentials"
-subtitle: "*Scientific Reports*, *11*, Article 15919"
-publication: "*Scientific Reports*, *11*, Article 15919"
+subtitle: "*Scientific Reports*, *11*, Article 15919.
+  https://doi.org/10.1038/s41598-021-95292-0"
 publication_types:
   - "2"
 authors:
@@ -11,7 +11,8 @@ authors:
   - J. C. Ziegler
   - J. Grainger
   - I. P. Stoianov
-doi: https://doi.org/10.1038/s41598-021-95292-0
+doi: ""
+publication: "*Scientific Reports*, *11*, Article 15919"
 abstract: "The present study used steady-state visual evoked potentials (SSVEPs)
   to examine the spatio-temporal dynamics of reading morphologically complex
   words and test the neurophysiological activation pattern elicited by stems and
