@@ -1,7 +1,7 @@
 ---
 title: A developmental investigation of the first-letter advantage
-subtitle: "*Journal of Experimental Child Psychology*, *152*, 161–172"
-publication: "*Journal of Experimental Child Psychology*, *152*, 161–172"
+subtitle: "*Journal of Experimental Child Psychology*, *152*, 161–172.
+  https://doi.org/10.1016/j.jecp.2016.07.016"
 publication_types:
   - "2"
 authors:
@@ -10,7 +10,8 @@ authors:
   - B. Lété
   - E. Beyersmann
   - J. C. Ziegler
-doi: https://doi.org/10.1016/j.jecp.2016.07.016
+doi: ""
+publication: "*Journal of Experimental Child Psychology*, *152*, 161–172"
 publication_short: ""
 abstract: Skilled adult readers identify the first letter in a string of random
   consonants better than letters at any other position, and this advantage for
