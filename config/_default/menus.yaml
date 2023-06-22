@@ -13,7 +13,7 @@ main:
   - name: Projects
     url: project
     weight: 30
- - name: Lab Work
+  - name: Lab Work
     url: lab-work
     weight: 40
   - name: Walking Lab
