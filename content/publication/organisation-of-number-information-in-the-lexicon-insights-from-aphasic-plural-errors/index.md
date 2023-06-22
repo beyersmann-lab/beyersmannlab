@@ -12,8 +12,7 @@ authors:
   - E. Beyersmann
 doi: ""
 publication: In Otsu, Y. (Ed.), The Proceedings of the 10th Tokyo Conference on
-  Psycholinguistics (pp. 27–42). Hituzi Syobo Publishing. Retrieved from
-  tinyurl.com/2nadnk7n
+  Psycholinguistics (pp. 27–42). Hituzi Syobo Publishing
 draft: false
 featured: false
 image:
