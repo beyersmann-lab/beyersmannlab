@@ -1,8 +1,7 @@
 ---
 title: "Orthographic consistency influences morphological processing in reading
   aloud: Evidence from a cross-linguistic study"
-subtitle: "*Developmental Science*, *23*(6), 1–19"
-publication: "*Developmental Science*, *23*(6), 1–19"
+subtitle: "*Developmental Science*, *23*(6), 1–19. https://doi.org/10.1111/desc.12952"
 publication_types:
   - "2"
 authors:
@@ -14,7 +13,8 @@ authors:
   - J. C. Ziegler
   - J. Grainger
   - S. Schroeder
-doi: https://doi.org/10.1111/desc.12952
+doi: ""
+publication: "*Developmental Science*, *23*(6), 1–19"
 abstract: The present study investigated whether morphological processing in
   reading is influenced by the orthographic consistency of a language or its
   morphological complexity. Developing readers in Grade 3 and skilled adult
