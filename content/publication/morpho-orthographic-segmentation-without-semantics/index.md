@@ -1,7 +1,7 @@
 ---
 title: Morpho-orthographic segmentation without semantics
-subtitle: "*Psychonomic Bulletin and Review*, *23*(2), 533–539"
-publication: "*Psychonomic Bulletin and Review*, *23*(2), 533–539"
+subtitle: "*Psychonomic Bulletin and Review*, *23*(2), 533–539.
+  https://doi.org/10.3758/s13423-015-0927-z"
 publication_types:
   - "2"
 authors:
@@ -11,7 +11,8 @@ authors:
   - M. Coltheart
   - Y. Kezilas
   - J. Grainger
-doi: https://doi.org/10.3758/s13423-015-0927-z
+doi: ""
+publication: "*Psychonomic Bulletin and Review*, *23*(2), 533–539"
 abstract: Masked priming studies have repeatedly provided evidence for a
   form-based morpho-orthographic segmentation mechanism that blindly decomposes
   any word with the mere appearance of morphological complexity (e.g., *corn* +
