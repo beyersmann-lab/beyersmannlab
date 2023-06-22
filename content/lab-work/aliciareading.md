@@ -10,10 +10,10 @@ headless: true
 weight: 10
 
 # Section title
-title: Sentence Reading Task
+title: Sentence Reading Experiment
 
 # Section subtitle
-subtitle: A participant engaging in a sentence reading task, which was facilitated by Alicia Ormond (12 May 2023).
+subtitle: A participant engaging in a sentence reading experiment, facilitated by Alicia Ormond (12 May 2023).
 
 # Section design
 design:
