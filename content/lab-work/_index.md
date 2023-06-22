@@ -1,21 +1,8 @@
 ---
-# Page title
-title: Lab Work
-# Page type - we want a landing page (such as a homepage)
-type: landing
+title: "Lab Work"  # Add a page title.
+summary: ""  # Add a page description.
+date: "2023-22-06T00:00:00Z"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
 
-# Your landing page sections - add as many different content blocks as you like
-sections:
-  - block: markdown
-    id: section-1
-    content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-  - block: markdown
-    id: section-2
-    content:
-      title: "A Problematic Orthography by Elisabetta DeSimone"
-      subtitle: "Elisabetta was tasked to explain her research in a funny and engaging way!"
-      text: {{< video src="https://www.youtube.com/watch?v=w7Ft2ymGmfc" controls="yes" >}}
 ---
+
