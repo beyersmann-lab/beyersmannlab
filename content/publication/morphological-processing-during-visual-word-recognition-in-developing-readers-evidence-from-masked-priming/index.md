@@ -1,15 +1,16 @@
 ---
 title: "Morphological processing during visual word recognition in developing
   readers: Evidence from masked priming"
-subtitle: "*The Quarterly Journal of Experimental Psychology*, *65*(7), 1306–1326"
-publication: "*The Quarterly Journal of Experimental Psychology*, *65*(7), 1306–1326"
+subtitle: "*The Quarterly Journal of Experimental Psychology*, *65*(7),
+  1306–1326. https://doi.org/10.1080/17470218.2012.656661"
 publication_types:
   - "2"
 authors:
   - E. Beyersmann
   - A. Castles
   - M. Coltheart
-doi: https://doi.org/10.1080/17470218.2012.656661
+doi: ""
+publication: "*The Quarterly Journal of Experimental Psychology*, *65*(7), 1306–1326"
 abstract: Masked priming studies with adult readers have provided evidence for a
   form-based morpho-orthographic segmentation mechanism that "blindly"
   decomposes any word with the appearance of morphological complexity. The
