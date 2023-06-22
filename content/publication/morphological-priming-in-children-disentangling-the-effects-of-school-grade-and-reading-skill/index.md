@@ -1,15 +1,16 @@
 ---
 title: "Morphological priming in children: Disentangling the effects of
   school-grade and reading skill"
-subtitle: "*Scientific Studies of Reading*, *24*(6), 484–499"
-publication: "*Scientific Studies of Reading*, *24*(6), 484–499"
+subtitle: "*Scientific Studies of Reading*, *24*(6), 484–499.
+  https://doi.org/10.1080/10888438.2020.1729768"
 publication_types:
   - "2"
 authors:
   - J. Hasenaecker
   - E. Beyersmann
   - S. Schroeder
-doi: https://doi.org/10.1080/10888438.2020.1729768
+doi: ""
+publication: "*Scientific Studies of Reading*, *24*(6), 484–499"
 abstract: "Masked priming studies have shown that readers decompose
   morphologically complex words (*read+er*). Interindividual differences have
   been suggested to affect this phenomenon. However, its development is poorly
