@@ -1,7 +1,7 @@
 ---
 title: Morphological processing across modalities and languages
-subtitle: "*Scientific Studies of Reading*, *24*(6), 500–519"
-publication: "*Scientific Studies of Reading*, *24*(6), 500–519"
+subtitle: "*Scientific Studies of Reading*, *24*(6), 500–519.
+  https://doi.org/10.1080/10888438.2020.1730847"
 publication_types:
   - "2"
 authors:
@@ -11,7 +11,8 @@ authors:
   - S. Schroeder
   - J. C. Ziegler
   - J. Grainger
-doi: https://doi.org/10.1080/10888438.2020.1730847
+doi: ""
+publication: "*Scientific Studies of Reading*, *24*(6), 500–519"
 abstract: The present study examined cross-linguistic differences in
   morphological processing in the visual and auditory modality. French and
   German adults performed a visual and auditory lexical decision task that
