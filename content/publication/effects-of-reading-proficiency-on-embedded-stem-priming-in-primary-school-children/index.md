@@ -1,8 +1,8 @@
 ---
 title: Effects of reading proficiency on embedded stem priming in primary school
   children
-subtitle: "*Journal of Experimental Child Psychology*, *139*, 115–126"
-publication: "*Journal of Experimental Child Psychology*, *139*, 115–126"
+subtitle: "*Journal of Experimental Child Psychology*, *139*, 115–126.
+  https://doi.org/10.1016/j.jecp.2015.06.001 "
 publication_types:
   - "2"
 authors:
@@ -10,7 +10,8 @@ authors:
   - J. Grainger
   - S. Casalis
   - J. C. Ziegler
-doi: "https://doi.org/10.1016/j.jecp.2015.06.001 "
+doi: ""
+publication: "*Journal of Experimental Child Psychology*, *139*, 115–126"
 abstract: Prior evidence from masked morphological priming has revealed
   conflicting findings regarding the acquisition of morpho-orthographic
   segmentation mechanisms in developing readers. Here, we examined changes in
