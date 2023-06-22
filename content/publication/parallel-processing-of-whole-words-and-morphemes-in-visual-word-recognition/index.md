@@ -1,14 +1,15 @@
 ---
 title: Parallel processing of whole-words and morphemes in visual word recognition
-subtitle: "*The Quarterly Journal of Experimental Psychology*, *65*(9), 1798–1819"
-publication: "*The Quarterly Journal of Experimental Psychology*, *65*(9), 1798–1819"
+subtitle: "*The Quarterly Journal of Experimental Psychology*, *65*(9),
+  1798–1819. https://doi.org/10.1080/17470218.2012.672437"
 publication_types:
   - "2"
 authors:
   - E. Beyersmann
   - M. Coltheart
   - A. Castles
-doi: https://doi.org/10.1080/17470218.2012.672437
+doi: ""
+publication: "*The Quarterly Journal of Experimental Psychology*, *65*(9), 1798–1819"
 abstract: Models of morphological processing make different predictions about
   whether morphologically complex written words are initially decomposed and
   recognized on the basis of their morphemic subunits or whether they can
