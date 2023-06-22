@@ -1,7 +1,7 @@
 ---
 title: Language proficiency and morpho-orthographic segmentation
-subtitle: "*Psychonomic Bulletin and Review*, *22*, 1054–1061"
-publication: "*Psychonomic Bulletin and Review*, *22*, 1054–1061"
+subtitle: "*Psychonomic Bulletin and Review*, *22*, 1054–1061.
+  https://doi.org/10.3758/s13423-014-0752-9"
 publication_types:
   - "2"
 authors:
@@ -9,7 +9,8 @@ authors:
   - S. Casalis
   - J. C. Ziegler
   - J. Grainger
-doi: https://doi.org/10.3758/s13423-014-0752-9
+doi: ""
+publication: "*Psychonomic Bulletin and Review*, *22*, 1054–1061"
 abstract: One key finding in support of the hypothesis that written words are
   automatically parsed into component morphemes independently of the true
   morphological structure of the stimuli, so-called morpho-orthographic
