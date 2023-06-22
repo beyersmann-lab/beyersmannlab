@@ -1,7 +1,7 @@
 ---
 title: Morphological segmentation of nonwords in patients with acquired dyslexia
-subtitle: "*Journal of Memory and Language*, *125*, 1–16"
-publication: "*Journal of Memory and Language*, *125*, 1–16"
+subtitle: "*Journal of Memory and Language*, *125*, 1–16.
+  https://doi.org/10.1016/j.jml.2022.104331"
 publication_types:
   - "2"
 authors:
@@ -9,7 +9,8 @@ authors:
   - A. Turney
   - T. Arrow
   - S. Fischer-Baum
-doi: https://doi.org/10.1016/j.jml.2022.104331
+doi: ""
+publication: "*Journal of Memory and Language*, *125*, 1–16"
 abstract: "The current study investigated the influence of morphological
   structure in nonword reading in a case series of individuals with acquired
   dyslexia following brain damage. The aim of the study was to test the separate
