@@ -1,15 +1,15 @@
 ---
 title: "Masked morphological priming in German-speaking adults and children:
   Evidence from response time distributions"
-subtitle: "*Frontiers in Psychology*, *7*, 929"
-publication: "*Frontiers in Psychology*, *7*, 929"
+subtitle: "*Frontiers in Psychology*, *7*, 929. https://doi.org/10.3389/fpsyg.2016.00929"
 publication_types:
   - "2"
 authors:
   - J. Hasenäcker
   - E. Beyersmann
   - S. Schroeder
-doi: https://doi.org/10.3389/fpsyg.2016.00929
+doi: ""
+publication: "*Frontiers in Psychology*, *7*, 929"
 abstract: In this study, we looked at masked morphological priming effects in
   German children and adults beyond mean response times by taking into account
   response time distributions. We conducted an experiment comparing suffixed
