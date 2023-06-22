@@ -1,8 +1,8 @@
 ---
 title: "Early morphological decomposition of suffixed words: Masked-priming
   evidence with transposed-letter nonword primes"
-subtitle: "*Applied Psycholinguistics*, *34*(5), 869–892"
-publication: "*Applied Psycholinguistics*, *34*(5), 869–892"
+subtitle: "*Applied Psycholinguistics*, *34*(5), 869–892.
+  https://doi.org/10.1017/S0142716412000057"
 publication_types:
   - "2"
 authors:
@@ -11,7 +11,8 @@ authors:
   - M. Carreiras
   - M. Coltheart
   - A. Castles
-doi: https://doi.org/10.1017/S0142716412000057
+doi: ""
+publication: "*Applied Psycholinguistics*, *34*(5), 869–892"
 abstract: Many studies have previously reported that the recognition of a stem
   target (e.g., *teach*) is facilitated by the prior masked presentation of a
   prime consisting of a derived form of it (e.g., *teacher*). We conducted two
