@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 # Section title
 title: A Problematic Orthography - Elisabetta DeSimone
@@ -26,6 +26,4 @@ banner:
     
 ---
 
-<center>{{< video src="https://www.youtube.com/watch?v=x01BVVZVQE8" controls="yes" >}}</center>
-  
-{{% cta cta_link="./researchers/" cta_text="Meet the Team →" %}}
+<center>{{< youtube x01BVVZVQE8 >}}</center>
