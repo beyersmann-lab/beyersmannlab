@@ -1,8 +1,8 @@
 ---
 title: Does plural dominance play a role in spoken picture naming? A comparison
   of unimpaired and impaired speakers
-subtitle: "*Journal of Neurolinguistics*, *26*(6), 712–736"
-publication: "*Journal of Neurolinguistics*, *26*(6), 712–736"
+subtitle: "*Journal of Neurolinguistics*, *26*(6), 712–736.
+  https://doi.org/10.1016/j.jneuroling.2013.05.001"
 publication_types:
   - "2"
 authors:
@@ -10,7 +10,8 @@ authors:
   - E. Beyersmann
   - C. Mason
   - L. Nickels
-doi: https://doi.org/10.1016/j.jneuroling.2013.05.001
+doi: ""
+publication: "*Journal of Neurolinguistics*, *26*(6), 712–736"
 abstract: "This study investigates the effect of frequency on plural processing.
   In particular it explores the effect of relative frequency differences between
   plurals and their singular forms on the representation of plurals. This paper
