@@ -310,5 +310,20 @@ content:
         brightness: 1
         media: graduationsculptures2.jpg
         fit: contain
-        
+    - title: Walking Lab Meeting to the Learning Circle 
+      content: 11th of May 2023
+      align: left
+      background:
+        position: center
+        color: '#277ADE'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: left
+      background:
+        position: center
+        color: '#277ADE'
+        brightness: 1
+        media: learningcircleagain1.jpg
+        fit: contain       
 ---
