@@ -1,7 +1,7 @@
 ---
 title: Embedded stem priming effects in prefixed and suffixed pseudowords
-subtitle: "*Scientific Studies of Reading*, *20*(3), 220–230"
-publication: "*Scientific Studies of Reading*, *20*(3), 220–230"
+subtitle: "*Scientific Studies of Reading*, *20*(3), 220–230.
+  https://doi.org/10.1080/10888438.2016.1140769"
 publication_types:
   - "2"
 authors:
@@ -9,7 +9,8 @@ authors:
   - E. Cavalli
   - S. Casalis
   - P. Colé
-doi: https://doi.org/10.1080/10888438.2016.1140769
+doi: ""
+publication: "*Scientific Studies of Reading*, *20*(3), 220–230"
 abstract: Previous research has repeatedly revealed evidence for
   morpho-orthographic priming effects in suffixed words. However, evidence for
   the morphological chunking of prefixed words is sparse and ambiguous. The goal
