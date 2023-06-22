@@ -1,7 +1,7 @@
 ---
 title: "Semantic processing during morphological priming: An ERP study"
-subtitle: "*Brain Research*, *1579*, 45–55"
-publication: "*Brain Research*, *1579*, 45–55"
+subtitle: "*Brain Research*, *1579*, 45–55.
+  https://doi.org/10.1016/j.brainres.2014.07.010"
 publication_types:
   - "2"
 authors:
@@ -9,7 +9,8 @@ authors:
   - G. Iakimova
   - J. C. Ziegler
   - P. Colé
-doi: https://doi.org/10.1016/j.brainres.2014.07.010
+doi: ""
+publication: "*Brain Research*, *1579*, 45–55"
 abstract: Previous research has yielded conflicting results regarding the onset
   of semantic processing during morphological priming. The present study was
   designed to further explore the time-course of morphological processing using
