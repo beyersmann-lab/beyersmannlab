@@ -11,8 +11,7 @@ authors:
   - S. Schroeder
 doi: ""
 publication: "In Pirrelli, V., Marzi, C., & Ferro, M. (eds.): Word Structure and
-  Word Usage. Proceedings of the NetWordS Final Conference, Pisa, published at
-  https://ceur-ws.org/"
+  Word Usage. Proceedings of the NetWordS Final Conference, Pisa."
 draft: false
 featured: false
 image:
