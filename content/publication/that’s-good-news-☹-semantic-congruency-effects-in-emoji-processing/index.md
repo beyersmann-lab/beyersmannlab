@@ -1,14 +1,14 @@
 ---
 title: "That’s good news ☹: Semantic congruency effects in emoji processing"
-subtitle: "*Journal of Media Psychology*"
-publication: "*Journal of Media Psychology*"
+subtitle: "*Journal of Media Psychology*. https://doi.org/10.1027/1864-1105/a000342"
 publication_types:
   - "2"
 authors:
   - E. Beyersmann
   - S. Wegener
   - N. Kemp
-doi: https://doi.org/10.1027/1864-1105/a000342
+doi: ""
+publication: "*Journal of Media Psychology*"
 abstract: "The use of emojis in digital communication has become increasingly
   popular, but how emojis are processed and integrated in reading processes
   remains underexplored. This study used eye-tracking to monitor university
