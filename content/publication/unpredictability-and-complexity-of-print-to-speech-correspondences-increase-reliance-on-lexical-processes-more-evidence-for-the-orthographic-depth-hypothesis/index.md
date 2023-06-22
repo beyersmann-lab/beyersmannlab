@@ -2,8 +2,8 @@
 title: "Unpredictability and complexity of print-to-speech correspondences
   increase reliance on lexical processes: More evidence for the orthographic
   depth hypothesis"
-subtitle: "*Journal of Cognitive Psychology*, *28*(6), 658–672"
-publication: "*Journal of Cognitive Psychology*, *28*(6), 658–672"
+subtitle: "*Journal of Cognitive Psychology*, *28*(6), 658–672.
+  https://doi.org/10.1080/20445911.2016.1182172"
 publication_types:
   - "2"
 authors:
@@ -11,7 +11,8 @@ authors:
   - E. Beyersmann
   - E. Cavalli
   - E. Marinus
-doi: https://doi.org/10.1080/20445911.2016.1182172
+doi: ""
+publication: "*Journal of Cognitive Psychology*, *28*(6), 658–672"
 abstract: "The Orthographic Depth Hypothesis [Katz, L., & Frost, R. (1992). The
   reading process is different for different orthographies: The orthographic
   depth hypothesis. In R. Frost & L. Katz (Eds.), *Orthography, phonology,
