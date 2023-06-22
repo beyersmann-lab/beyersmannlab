@@ -10,10 +10,10 @@ headless: true
 weight: 20
 
 # Section title
-title: A Problematic Orthography - Elisabetta DeSimone
+title: A Problematic Orthography
 
 # Section subtitle
-subtitle: Elisabetta was tasked with creating an engaging summary of her research (22 May 2023).
+subtitle: Elisabetta DeSimone was tasked with creating an engaging summary of her research (22 May 2023).
 
 # Section design
 design:
