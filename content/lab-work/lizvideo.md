@@ -13,7 +13,7 @@ weight: 20
 title: A Problematic Orthography - Elisabetta DeSimone
 
 # Section subtitle
-subtitle: Elisabetta was tasked with creating an engaging summary of her research.
+subtitle: Elisabetta was tasked with creating an engaging summary of her research (22 May 2023).
 
 # Section design
 design:
