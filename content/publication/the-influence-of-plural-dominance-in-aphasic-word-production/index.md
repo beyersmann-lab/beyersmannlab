@@ -1,7 +1,7 @@
 ---
 title: The influence of plural dominance in aphasic word production
-subtitle: "*Aphasiology*, *26*(8), 985–1004"
-publication: "*Aphasiology*, *26*(8), 985–1004"
+subtitle: "*Aphasiology*, *26*(8), 985–1004.
+  https://doi.org/10.1080/02687038.2012.660459"
 publication_types:
   - "2"
 authors:
@@ -9,7 +9,8 @@ authors:
   - A. Lorenz
   - E. Beyersmann
   - L. A. Nickels
-doi: https://doi.org/10.1080/02687038.2012.660459
+doi: ""
+publication: "*Aphasiology*, *26*(8), 985–1004"
 abstract: >-
   **Background:** Plural dominance refers to the relative difference between the
   frequencies of a word in its singular and plural forms. Most of the evidence
