@@ -1,14 +1,15 @@
 ---
 title: Morphological processing in the flankers task
-subtitle: "*Language, Cognition, and Neuroscience*, *36*(3), 288–295"
-publication: "*Language, Cognition, and Neuroscience*, *36*(3), 288–295"
+subtitle: "*Language, Cognition, and Neuroscience*, *36*(3), 288–295.
+  https://doi.org/10.1080/23273798.2020.1810292"
 publication_types:
   - "2"
 authors:
   - J. Grainger
   - J. Snell
   - E. Beyersmann
-doi: https://doi.org/10.1080/23273798.2020.1810292
+doi: ""
+publication: "*Language, Cognition, and Neuroscience*, *36*(3), 288–295"
 abstract: Does the processing of words with a transparent morphological
   structure benefit from this structure? Here we show that the flankers task
   provides an interesting novel angle on this well-researched issue.
