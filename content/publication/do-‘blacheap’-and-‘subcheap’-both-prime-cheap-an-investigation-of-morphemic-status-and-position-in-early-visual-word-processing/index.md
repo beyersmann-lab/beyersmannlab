@@ -1,8 +1,8 @@
 ---
 title: Do ‘blacheap’ and ‘subcheap’ both prime 'cheap'? An investigation of
   morphemic status and position in early visual word processing
-subtitle: "*The Quarterly Journal of Experimental Psychology*, *71*(8), 1645–1654"
-publication: "*The Quarterly Journal of Experimental Psychology*, *71*(8), 1645–1654"
+subtitle: "*The Quarterly Journal of Experimental Psychology*, *71*(8),
+  1645–1654. https://doi.org/10.1080/17470218.2017.1362704"
 publication_types:
   - "2"
 authors:
@@ -10,7 +10,8 @@ authors:
   - K. Nation
   - A. Castles
   - E. Beyersmann
-doi: https://doi.org/10.1080/17470218.2017.1362704
+doi: ""
+publication: "*The Quarterly Journal of Experimental Psychology*, *71*(8), 1645–1654"
 abstract: "Much research suggests that words comprising more than one morpheme
   are decomposed into morphemes in the early stages of visual word recognition.
   In the present masked primed lexical decision study, we investigated whether
