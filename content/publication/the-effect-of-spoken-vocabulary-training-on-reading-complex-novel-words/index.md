@@ -1,6 +1,7 @@
 ---
 title: The effect of spoken vocabulary training on reading complex novel words
-subtitle: "*Quarterly Journal of Experimental Psychology*"
+subtitle: "*Quarterly Journal of Experimental Psychology*.
+  https://doi.org/10.1177/17470218221113949"
 publication_types:
   - "2"
 authors:
@@ -10,7 +11,7 @@ authors:
   - K. Nation
   - D. Colenbrander
   - A. Castles
-doi: https://doi.org/10.1177/17470218221113949
+doi: ""
 publication: "*Quarterly Journal of Experimental Psychology*"
 abstract: >
   Do readers benefit from their knowledge of the phonological form and
