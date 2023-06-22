@@ -2,15 +2,15 @@
 title: Effects of lexicality and pseudo-morphological complexity on embedded
   word priming
 subtitle: "*Journal of Experimental Psychology: Learning, Memory, & Cognition*,
-  *47*(3), 518–531"
-publication: "*Journal of Experimental Psychology: Learning, Memory, & Cognition*,
-  *47*(3), 518–531"
+  *47*(3), 518–531. https://doi.org/10.1037/xlm0000878"
 publication_types:
   - "2"
 authors:
   - J. Grainger
   - E. Beyersmann
-doi: https://doi.org/10.1037/xlm0000878
+doi: ""
+publication: "*Journal of Experimental Psychology: Learning, Memory, &
+  Cognition*, *47*(3), 518–531"
 abstract: "Two masked priming experiments investigated the impact of prime
   lexicality (word vs. nonword) and the pseudo-morphological structure of prime
   stimuli (pseudosuffixed vs. nonsuffixed) on embedded word priming effects. In
