@@ -1,7 +1,7 @@
 ---
 title: Effects of a morpheme-based spelling intervention challenging previous results
-subtitle: "*International Electronic Journal of Elementary Education*, *13*(5), 651–671"
-publication: "*International Electronic Journal of Elementary Education*, *13*(5), 651–671"
+subtitle: "*International Electronic Journal of Elementary Education*, *13*(5),
+  651–671. https://doi.org/10.26822/iejee.2021.219"
 publication_types:
   - "2"
 authors:
@@ -10,7 +10,8 @@ authors:
   - A. E. Prattes
   - E. Beyersmann
   - K. Landerl
-doi: https://doi.org/10.26822/iejee.2021.219
+doi: ""
+publication: "*International Electronic Journal of Elementary Education*, *13*(5), 651–671"
 abstract: Morpheme-based training programs to improve literacy skills are widely
   used with older children in the morphologically complex German language. This
   study investigated whether (1) morphological training is effective early in
