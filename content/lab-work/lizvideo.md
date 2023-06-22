@@ -17,5 +17,5 @@ sections:
     content:
       title: A Problematic Orthography by Elisabetta DeSimone
       subtitle: Elisabetta was tasked to explain her research in a funny and engaging way!
-      text: {{< youtube w7Ft2ymGmfc="https://youtu.be/x01BVVZVQE8" controls="yes" >}}
+      text: {{< video src="https://youtu.be/x01BVVZVQE8" controls="yes" >}}
 ---
