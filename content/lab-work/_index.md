@@ -15,7 +15,7 @@ sections:
   - block: markdown
     id: section-2
     content:
-      title: A Problematic Orthography by Elisabetta DeSimone
-      subtitle: Elisabetta was tasked to explain her research in a funny and engaging way!
+      title: "A Problematic Orthography by Elisabetta DeSimone"
+      subtitle: "Elisabetta was tasked to explain her research in a funny and engaging way!"
       text: {{< [youtube x01BVVZVQE8](https://www.youtube.com/watch?v=x01BVVZVQE8)https://www.youtube.com/watch?v=x01BVVZVQE8 >}}
 ---
