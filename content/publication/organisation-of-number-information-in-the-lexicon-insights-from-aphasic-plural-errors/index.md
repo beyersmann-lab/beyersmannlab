@@ -3,7 +3,7 @@ title: "Organisation of 'number' information in the lexicon: Insights from
   aphasic plural errors"
 subtitle: In Otsu, Y. (Ed.), The Proceedings of the 10th Tokyo Conference on
   Psycholinguistics (pp. 27–42). Hituzi Syobo Publishing. Retrieved from
-  https://www.researchgate.net/publication/260189729_Organisation_of_'number'_information_in_the_lexicon_Insights_from_aphasic_plural_errors
+  https://tinyurl.com/2nadnk7n
 publication_types:
   - "1"
 authors:
