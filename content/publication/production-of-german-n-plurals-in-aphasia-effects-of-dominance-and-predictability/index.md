@@ -1,8 +1,8 @@
 ---
 title: "Production of German -n plurals in aphasia: Effects of dominance and
   predictability"
-subtitle: "*Aphasiology*, *32*(9), 1087–1112"
-publication: "*Aphasiology*, *32*(9), 1087–1112"
+subtitle: "*Aphasiology*, *32*(9), 1087–1112.
+  https://doi.org/10.1080/02687038.2017.1387228"
 publication_types:
   - "2"
 authors:
@@ -12,7 +12,8 @@ authors:
   - F. Machlab
   - M. Moorman
   - A. Lorenz
-doi: https://doi.org/10.1080/02687038.2017.1387228
+doi: ""
+publication: "*Aphasiology*, *32*(9), 1087–1112"
 abstract: >-
   **Background:** In picture naming, both unimpaired and impaired speakers are
   usually better in naming singular than plural forms of the same noun, such as
