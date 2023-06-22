@@ -1,8 +1,8 @@
 ---
 title: "The dynamics of morphological processing in developing readers: A
   cross-linguistic masked priming study"
-subtitle: "*Journal of Experimental Child Psychology*, *208*, 105140"
-publication: "*Journal of Experimental Child Psychology*, *208*, 105140"
+subtitle: "*Journal of Experimental Child Psychology*, *208*, 105140.
+  https://doi.org/10.1016/j.jecp.2021.105140"
 publication_types:
   - "2"
 authors:
@@ -12,7 +12,8 @@ authors:
   - L. Javourey-Drevet
   - J. C. Ziegler
   - J. Grainger
-doi: https://doi.org/10.1016/j.jecp.2021.105140
+doi: ""
+publication: "*Journal of Experimental Child Psychology*, *208*, 105140"
 abstract: "Empirical evidence from masked priming research shows that skilled
   readers can rapidly identify morphological structure in written language.
   However, comparatively little is known about how and when this skill is
