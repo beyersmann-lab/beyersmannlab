@@ -1,15 +1,16 @@
 ---
 title: Differences in the processing of prefixes and suffixes revealed by a
   letter-search task
-subtitle: "*Scientific Studies of Reading*, *19*(5), 360–373"
-publication: "*Scientific Studies of Reading*, *19*(5), 360–373"
+subtitle: "*Scientific Studies of Reading*, *19*(5), 360–373.
+  https://doi.org/10.1080/10888438.2015.1057824"
 publication_types:
   - "2"
 authors:
   - E. Beyersmann
   - J. C. Ziegler
   - J. Grainger
-doi: https://doi.org/10.1080/10888438.2015.1057824
+doi: ""
+publication: "*Scientific Studies of Reading*, *19*(5), 360–373"
 abstract: A letter-search task was used to test the hypothesis that affixes are
   chunked during morphological processing and that such chunking might operate
   differently for prefixes and suffixes. Participants had to detect a letter
