@@ -1,11 +1,7 @@
 ---
-title: Lab Work
-
-# Listing view
-view: card
-
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+title: "Lab Work"  # Add a page title.
+summary: ""  # Add a page description.
+date: ""  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
 ---
+
