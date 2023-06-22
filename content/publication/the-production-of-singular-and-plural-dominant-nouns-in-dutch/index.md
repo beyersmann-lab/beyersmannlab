@@ -1,7 +1,7 @@
 ---
 title: The production of singular- and plural-dominant nouns in Dutch
-subtitle: "*Language, Cognition and Neuroscience*, *30*(7), 867–876"
-publication: "*Language, Cognition and Neuroscience*, *30*(7), 867–876"
+subtitle: "*Language, Cognition and Neuroscience*, *30*(7), 867–876.
+  https://doi.org/10.1080/23273798.2015.1027236"
 publication_types:
   - "2"
 authors:
@@ -10,7 +10,8 @@ authors:
   - S. Amer
   - N. Schiller
   - B. Biedermann
-doi: https://doi.org/10.1080/23273798.2015.1027236
+doi: ""
+publication: "*Language, Cognition and Neuroscience*, *30*(7), 867–876"
 abstract: The role of number dominance (singular vs. plural) in word production
   has revealed contrasting results in Dutch and English. Here, we compared the
   production of Dutch regular plural forms that are more frequent than their
