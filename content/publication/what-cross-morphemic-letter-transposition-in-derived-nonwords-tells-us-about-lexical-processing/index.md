@@ -1,15 +1,15 @@
 ---
 title: What cross-morphemic letter transposition in derived nonwords tells us
   about lexical processing
-subtitle: "*Journal of Cognition*, *1*(1), 36"
-publication: "*Journal of Cognition*, *1*(1), 36"
+subtitle: "*Journal of Cognition*, *1*(1), 36. http://doi.org/10.5334/joc.39"
 publication_types:
   - "2"
 authors:
   - M. Taft
   - S. Li
   - E. Beyersmann
-doi: http://doi.org/10.5334/joc.39
+doi: ""
+publication: "*Journal of Cognition*, *1*(1), 36"
 abstract: According to an obligatory decomposition account of polymorphemic word
   recognition, a nonword that is composed of a real word plus derivational affix
   (e.g., teachen) should prime its stem (TEACH) to the same extent that a truly
