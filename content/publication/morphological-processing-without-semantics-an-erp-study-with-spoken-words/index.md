@@ -1,7 +1,6 @@
 ---
 title: "Morphological processing without semantics: An ERP study with spoken words"
-subtitle: "*Cortex*, *116*, 55–73"
-publication: "*Cortex*, *116*, 55–73"
+subtitle: "*Cortex*, *116*, 55–73. https://doi.org/10.1016/j.cortex.2019.02.008"
 publication_types:
   - "2"
 authors:
@@ -11,7 +10,8 @@ authors:
   - B. New
   - J. Grainger
   - J. C. Ziegler
-doi: https://doi.org/10.1016/j.cortex.2019.02.008
+doi: ""
+publication: "*Cortex*, *116*, 55–73"
 abstract: "The time-course of morphological processing during spoken word
   recognition was investigated using event-related brain potentials (ERPs) in an
   auditory lexical decision task. We compared three different types of French
