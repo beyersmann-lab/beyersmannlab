@@ -1,0 +1,21 @@
+---
+# Page title
+title: Lab Work
+# Page type - we want a landing page (such as a homepage)
+type: landing
+
+# Your landing page sections - add as many different content blocks as you like
+sections:
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+  - block: markdown
+    id: section-2
+    content:
+      title: A Problematic Orthography by Elisabetta DeSimone
+      subtitle: Elisabetta was tasked to explain her research in a funny and engaging way!
+      text: {{< video src="[https://example.com/my_video.mp4](https://youtu.be/x01BVVZVQE8)" controls="yes" >}}
+---
