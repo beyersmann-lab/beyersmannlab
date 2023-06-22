@@ -21,7 +21,9 @@ design:
   columns: "1"
   
 banner:
-  image: "sentencereadingtask.jpg"
-  image_position: center
+  image: 
+  image_position: 
     
 ---
+
+<center>{{< figure src="sentencereadingtask.jpg" caption="" numbered="" >}}</center>
