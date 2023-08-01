@@ -31,7 +31,7 @@ content:
         brightness: 1
         media: centralcourtyard1.jpg
         fit: contain
-    - title: Walking Lab Meeting to the Bush Tucker Garden 
+    - title: The Bush Tucker Garden 
       content: 26st of May 2022
       align: left
       background:
@@ -47,7 +47,7 @@ content:
         brightness: 1
         media: bushtuckergarden1.jpg
         fit: contain
-    - title: Walking Lab Meeting to Lake Macquarie's Sculptures Walk
+    - title: Lake Macquarie's Sculptures Walk
       content: 26st of May 2022, pictured sculpture is the Coil by Andrew Rogers (2003)
       align: left
       background:
@@ -81,7 +81,7 @@ content:
         brightness: 1
         media: sculptureswalk3.jpg
         fit: contain
-    - title: Walking Lab Meeting to the Arts Precinct Terrace
+    - title: The Arts Precinct Terrace
       content: 14th of July 2022
       align: left
       background:
@@ -106,7 +106,7 @@ content:
         brightness: 1
         media: artsprecinctterrace2.jpg
         fit: contain
-    - title: Walking Lab Meeting to Walanga Muru Pavilion
+    - title: Walanga Muru Pavilion
       content: 28th of July 2022
       align: left
       background:
@@ -122,7 +122,7 @@ content:
         brightness: 1
         media: walangamurupavilion1.jpg
         fit: contain
-    - title: Walking Lab Meeting to the Graduation Lawn
+    - title: The Graduation Lawn
       content: 4th of August 2022
       align: left
       background:
@@ -147,7 +147,7 @@ content:
         brightness: 1
         media: graduationlawn2.jpg
         fit: contain
-    - title: Walking Lab Meeting to the Learning Circle and Macquarie Lake
+    - title: The Learning Circle and Macquarie Lake
       content: 13th of October 2022
       align: left
       background:
@@ -260,7 +260,7 @@ content:
         brightness: 1
         media: incubator1.jpg
         fit: contain
-    - title: Walking Lab Meeting to the Department of Media, Communications, Creative Arts, Language, and Literature
+    - title: The Department of Media, Communications, Creative Arts, Language, and Literature
       content: 10th of November 2022
       align: left
       background:
@@ -285,7 +285,7 @@ content:
         brightness: 1
         media: media2.jpg
         fit: contain
-    - title: Walking Lab Meeting to the Graduation Sculptures
+    - title: The Graduation Sculptures
       content: 2nd of March 2023
       align: left
       background:
@@ -310,7 +310,7 @@ content:
         brightness: 1
         media: graduationsculptures2.jpg
         fit: contain
-    - title: Walking Lab Meeting to the Learning Circle 
+    - title: The Learning Circle 
       content: 11th of May 2023
       align: left
       background:
@@ -325,5 +325,30 @@ content:
         color: '#277ADE'
         brightness: 1
         media: learningcircleagain1.jpg
-        fit: contain       
+        fit: contain   
+    - title: Mars Creek 
+      content: 25th of May 2023
+      align: left
+      background:
+        position: center
+        color: '#AB69F6'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: left
+      background:
+        position: center
+        color: '#AB69F6'
+        brightness: 1
+        media: marscreek1.jpg
+        fit: contain  
+    - title: Null
+      content: Null
+      align: left
+      background:
+        position: center
+        color: '#AB69F6'
+        brightness: 1
+        media: marscreek2.jpg
+        fit: contain   
 ---
