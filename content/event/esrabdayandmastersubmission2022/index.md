@@ -9,7 +9,7 @@ date: 2022-06-03T16:00:35.648Z
 all_day: false
 event: null
 event_url: null
-featured: esramastersubmission_1.jpg
+featured: null
 authors: null
 url_video: ""
 url_slides: ""
