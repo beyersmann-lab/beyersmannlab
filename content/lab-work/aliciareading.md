@@ -26,4 +26,5 @@ banner:
     
 ---
 
+<br/>
 <center>{{< figure src="sentencereadingtask.jpg" caption="" numbered="" >}}</center>
