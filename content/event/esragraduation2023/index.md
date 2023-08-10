@@ -9,7 +9,7 @@ date: 2023-03-16T10:30:35.648Z
 all_day: false
 event: null
 event_url: null
-featured: esragraduation.jpg
+featured: null
 authors: null
 url_video: ""
 url_slides: ""
