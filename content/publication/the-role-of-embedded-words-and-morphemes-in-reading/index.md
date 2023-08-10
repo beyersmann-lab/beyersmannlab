@@ -1,7 +1,8 @@
 ---
 title: The role of embedded words and morphemes in reading
 subtitle: In D. Crepaldi (Ed.), *Linguistic Morphology in the Mind and Brain*.
-  Routledge. https://doi.org/10.4324/9781003159759-3
+  Routledge.
+  https://beyersmannlab.cogscience.org/project/Beyersmann-Grainger-WordAndAffixModel-2023.pdf
 publication_types:
   - "6"
 authors:
