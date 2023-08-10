@@ -9,7 +9,7 @@ date: 2023-06-22T14:00:35.648Z
 all_day: false
 event: null
 event_url: null
-featured: 
+featured: null
 authors: null
 url_video: ""
 url_slides: ""
