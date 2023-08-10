@@ -8,7 +8,9 @@ summary: >-
   important skill. 
 
 
-  Here, we examine reading development cross-sectionally and longitudinally in a variety of different languages, including German, French, Italian and English primary school children. The aim of this project is to explore the developmental trajectory of children’s morphological processing skills in visual word recognition and to provide a more fine-tuned theoretical perspective of the mechanisms involved in identifying morphological substructures during reading.                                        
+  Here, we examine reading development cross-sectionally and longitudinally in a variety of different languages, including German, French, Italian and English primary school children. The aim of this project is to explore the developmental trajectory of children’s morphological processing skills in visual word recognition and to provide a more fine-tuned theoretical perspective of the mechanisms involved in identifying morphological substructures during reading.       
+
+  /                                 
 
   <p style="color:#FFFFFF">.﻿</p>
 
