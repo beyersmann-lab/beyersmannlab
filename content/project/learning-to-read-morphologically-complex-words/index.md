@@ -12,7 +12,7 @@ summary: >-
 
 
 
-  One of the key outcomes of this project has been the development of the <a href="Beyersmann-Grainger-WordAndAffixModel-2023.pdf" target="_blank">*word and affix model*</a>, which aims to capture the core mechanisms of complex word recognition in skilled readers as well as the developmental trajectory of complex word processing in children. 
+  /One of the key outcomes of this project has been the development of the <a href="Beyersmann-Grainger-WordAndAffixModel-2023.pdf" target="_blank">*word and affix model*</a>, which aims to capture the core mechanisms of complex word recognition in skilled readers as well as the developmental trajectory of complex word processing in children. 
 
 
   This project has attracted funding from a number of different funding agencies, including the Deutsche Forschungsgemeinschaft (DFG), l'Agence Nationale de la Recherche (ANR), and the Australian Research Council (ARC).
