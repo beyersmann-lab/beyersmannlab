@@ -9,7 +9,7 @@ date: 2022-04-12T12:00:35.648Z
 all_day: false
 event: null
 event_url: null
-featured: hasibebday2022_1.jpg
+featured: null
 authors: null
 url_video: ""
 url_slides: ""
