@@ -350,5 +350,21 @@ content:
         color: '#AB69F6'
         brightness: 1
         media: marscreek2.jpg
-        fit: contain   
+        fit: contain  
+    - title: Central Courtyard Building Balcony
+      content: 20th of July 2023
+      align: left
+      background:
+        position: center
+        color: '#43D8C2'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: left
+      background:
+        position: center
+        color: '#43D8C2'
+        brightness: 1
+        media: centralcourtyardbalcony1.jpg
+        fit: contain  
 ---
