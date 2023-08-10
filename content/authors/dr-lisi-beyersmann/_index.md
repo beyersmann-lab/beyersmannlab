@@ -59,6 +59,6 @@ Following her PhD, she was awarded four consecutive internationally competitive 
 
 She spent 3.5 years (2013-2016) as a postdoctoral research fellow within the Cognitive Psychology Laboratory (LPC) at *Aix-Marseille University, France*, which was funded by the award of an internationally competitive full-time Fyssen Foundation research fellowship (2 years), followed by a prestigeous Post-Doctoral Research Fellowship from the Brain & Language Research Institute (1.5 years).
 
-In October 2016, she moved back to Australia to take up a 3-year full-time Macquarie University Research Fellowship (MQRF).
+In October 2016, she moved back to Australia to take up a 3-year full-time Macquarie University Research Fellowship (MQRF), followed by a 3-year full-time ARC Discovery Early Career Researcher Award (DECRA). 
 
-She is currently employed as an ARC Discovery Early Career Researcher Award (DECRA) Fellow at the Department of Cognitive Science at *Macquarie University*.
+She is currently employed as a Senior Lecturer at the School of Psychological Sciences (formerly the Department of Cognitive Science) at *Macquarie University*.
