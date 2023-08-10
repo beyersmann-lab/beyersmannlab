@@ -26,6 +26,6 @@ banner:
     
 ---
 
-<center><a href="[url](https://lighthouse.mq.edu.au/article/october-2022/Study-aims-to-show-how-Dolly-Parton-project-inspires-Aussie-kids-to-read)">Skelly, S. (2022, November 2). Study to show how Dolly Parton project inspires Aussie kids to read. *The Lighthouse*. </a></center>
+<center><a href="[url](https://lighthouse.mq.edu.au/article/october-2022/Study-aims-to-show-how-Dolly-Parton-project-inspires-Aussie-kids-to-read)">Skelly, S. (2022, November 2). Study to show how Dolly Parton project inspires Aussie kids to read. <em>The Lighthouse</em>em>. </a></center>
 <br/>
 <center>{{< audio src="dollypartonprojectradiointerview2023.mp3" >}}</center>
