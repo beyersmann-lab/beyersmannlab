@@ -9,7 +9,7 @@ date: 2023-03-31T13:00:35.648Z
 all_day: false
 event: null
 event_url: null
-featured: alipdhsubmissionparty2023_1.jpg
+featured: null
 authors: null
 url_video: ""
 url_slides: ""
