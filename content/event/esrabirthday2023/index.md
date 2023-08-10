@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="esrabday2023" resize_options="250x250" >}}
+{{< gallery album="esrabday2023" >}}
