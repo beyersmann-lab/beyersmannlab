@@ -13,7 +13,7 @@ weight: 10
 title: Dolly Parton Project 
 
 # Section subtitle
-subtitle: Media coverage of the Dolly Parton Project, led by Claire Galea (November 2022 and July 2023).
+subtitle: Media coverage of the Dolly Parton Project, led by Claire Galea (2023, July & 2022, November).
 
 # Section design
 design:
