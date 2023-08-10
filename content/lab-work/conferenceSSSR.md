@@ -26,5 +26,6 @@ banner:
     
 ---
 
+<br/>
 <center>{{< figure src="posterpresentationSSSR_1.jpg" caption="" numbered="" >}}</center>
 <center>{{< figure src="posterpresentationSSSR_2.jpg" caption="" numbered="" >}}</center>
