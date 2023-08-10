@@ -9,7 +9,7 @@ date: 2023-04-13T14:00:35.648Z
 all_day: false
 event: null
 event_url: null
-featured: demianhasibebday2023_1.jpg
+featured: null
 authors: null
 url_video: ""
 url_slides: ""
