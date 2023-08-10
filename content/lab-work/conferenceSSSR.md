@@ -13,7 +13,7 @@ weight: 20
 title: Society for the Scientific Study of Reading (SSSR) Conference 
 
 # Section subtitle
-subtitle: Poster Presentation, by Demian Stoyanov (2023, 20 July).
+subtitle: Presentations (2023, 20 July).
 
 # Section design
 design:
@@ -27,5 +27,8 @@ banner:
 ---
 
 <br/>
+<center><a href="https://www.spelfabet.com.au/2023/07/society-for-the-scientific-study-of-reading-conference-day-1/" target="_blank">Society for the Scientific Study of Reading (SSSR) Conference Presentations</a></center> 
+<br/>
+<center><h3>Demian Stoyanov's Poster Presentation</h3></center>
 <center>{{< figure src="posterpresentationSSSR_1.jpg" caption="" numbered="" >}}</center>
 <center>{{< figure src="posterpresentationSSSR_2.jpg" caption="" numbered="" >}}</center>
