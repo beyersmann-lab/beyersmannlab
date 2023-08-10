@@ -13,7 +13,7 @@ weight: 40
 title: Sentence Reading Experiment
 
 # Section subtitle
-subtitle: A participant engaging in a sentence reading experiment, facilitated by Alicia Ormond (2023, May 12).
+subtitle: A participant engaging in a sentence reading experiment, facilitated by <a href="https://beyersmannlab.cogscience.org/author/alicia-ormond/" target="_blank">Alicia Ormond</a> (2023, May 12).
 
 # Section design
 design:
