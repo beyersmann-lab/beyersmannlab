@@ -4,8 +4,8 @@ slides: null
 url_pdf: ""
 summary: null
 title: Society for the Scientific Study of Reading (SSSR) Conference
-location: Port Douglas, Queensland, Australia
-date: 2023-07-20T13:00:35.648Z
+location: Port Douglas, Queensland
+date: 2023-07-20T11:00:35.648Z
 all_day: false
 event: null
 event_url: null
