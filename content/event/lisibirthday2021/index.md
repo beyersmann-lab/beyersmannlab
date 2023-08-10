@@ -9,7 +9,7 @@ date: 2021-03-16T13:30:35.648Z
 all_day: false
 event: null
 event_url: null
-featured: lisibday2021_1.jpg
+featured: null
 authors: null
 url_video: ""
 url_slides: ""
