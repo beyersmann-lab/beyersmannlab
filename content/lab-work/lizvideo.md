@@ -13,7 +13,7 @@ weight: 30
 title: A Problematic Orthography
 
 # Section subtitle
-subtitle: Elisabetta DeSimone was tasked with creating an engaging summary of her research (2023, May 22).
+subtitle: <a href="https://beyersmannlab.cogscience.org/author/elisabetta-desimone/" target="_blank">Elisabetta DeSimone</a> was tasked with creating an engaging summary of her research (2023, May 22).
 
 # Section design
 design:
