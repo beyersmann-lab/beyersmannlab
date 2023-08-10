@@ -13,7 +13,7 @@ weight: 30
 title: Dolly Parton Project 
 
 # Section subtitle
-subtitle: Media coverage of the Dolly Parton Project, led by Claire Galea (2 November 2022).
+subtitle: Media coverage of the Dolly Parton Project, led by Claire Galea (November 2022).
 
 # Section design
 design:
@@ -26,6 +26,6 @@ banner:
     
 ---
 
-<center>Skelly, S. (2022, November 2). Study to show how Dolly Parton project inspires Aussie kids to read. *The Lighthouse*. https://lighthouse.mq.edu.au/article/october-2022/Study-aims-to-show-how-Dolly-Parton-project-inspires-Aussie-kids-to-read</center>
+<center><a href="[url](https://lighthouse.mq.edu.au/article/october-2022/Study-aims-to-show-how-Dolly-Parton-project-inspires-Aussie-kids-to-read)">Skelly, S. (2022, November 2). Study to show how Dolly Parton project inspires Aussie kids to read. *The Lighthouse*. </a></center>
 <br/>
 <center>{{< audio src="dollypartonprojectradiointerview2023.mp3" >}}</center>
