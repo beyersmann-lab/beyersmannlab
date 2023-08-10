@@ -13,7 +13,7 @@ weight: 10
 title: Dolly Parton Project 
 
 # Section subtitle
-subtitle: Media coverage of the Dolly Parton Project, led by Claire Galea (2023, July & 2022, November).
+subtitle: Media coverage of the Dolly Parton Project, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (2023, July & 2022, November).
 
 # Section design
 design:
