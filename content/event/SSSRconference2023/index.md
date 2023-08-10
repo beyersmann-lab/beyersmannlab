@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="SSSRconference2023" >}}
+{{< gallery album="conference2023" >}}
