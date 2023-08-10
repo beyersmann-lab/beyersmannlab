@@ -9,7 +9,7 @@ date: 2023-05-18T17:00:35.648Z
 all_day: false
 event: null
 event_url: null
-featured: annecastlefarewell2023.jpg
+featured: null
 authors: null
 url_video: ""
 url_slides: ""
