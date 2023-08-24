@@ -19,7 +19,7 @@ main:
   - name: Walking Lab
     url: walking-lab
     weight: 50
-  - name: Social Events
+  - name: Events
     url: event
     weight: 60
   - name: Contact
