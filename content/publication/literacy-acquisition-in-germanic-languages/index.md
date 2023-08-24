@@ -16,5 +16,5 @@ image:
   focal_point: Smart
   preview_only: false
 summary: "2023"
-date: "(in press)"
+date: NIL
 ---
