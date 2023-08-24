@@ -48,7 +48,7 @@ content:
         media: bushtuckergarden1.jpg
         fit: contain
     - title: Lake Macquarie's Sculptures Walk
-      content: 26st of May 2022, pictured sculpture is the Coil by Andrew Rogers (2003)
+      content: 7th of July 2022, pictured sculpture is the Coil by Andrew Rogers (2003)
       align: left
       background:
         position: center
