@@ -5,7 +5,7 @@ url_pdf: ""
 summary: null
 title: Future Science Talks 2023
 location: East Village Sydney, Darlinghurst
-date: 2023-08-23T13:00:35.648Z
+date: 2023-08-23T19:00:35.648Z
 all_day: false
 event: null
 event_url: null
