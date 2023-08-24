@@ -9,6 +9,7 @@ authors:
   - E. Beyersmann
 publication: In D. Meletis, M. Evertz-Rittich, & R. Treiman (Eds.), *Handbook of
   Germanic writing systems*. De Gruyter
+abstract: In press.
 draft: false
 featured: false
 image:
