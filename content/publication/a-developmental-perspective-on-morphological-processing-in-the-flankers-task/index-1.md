@@ -1,8 +1,7 @@
 ---
 title: A developmental perspective on morphological processing in the flankers task
-subtitle: '*Journal of Experimental Child Psychology*, *221*, 105448"
-  publication: "*Journal of Experimental Child Psychology*, *221*, 105448.
-  https://doi.org/10.1016/j.jecp.2022.105448'
+subtitle: "*Journal of Experimental Child Psychology*, *221*, Article 105448.
+  https://doi.org/10.1016/j.jecp.2022.105448"
 publication_types:
   - "2"
 authors:
@@ -11,8 +10,7 @@ authors:
   - B. Lété
   - J. Grainger
 doi: ""
-publication: '*Journal of Experimental Child Psychology*, *221*, 105448"
-  publication: "*Journal of Experimental Child Psychology*, *221*, 105448'
+publication: "*Journal of Experimental Child Psychology*, *221*, Article 105448"
 publication_short: ""
 abstract: >-
   Recent research with adult participants using the flankers task has
