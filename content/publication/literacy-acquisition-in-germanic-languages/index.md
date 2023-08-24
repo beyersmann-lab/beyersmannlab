@@ -15,6 +15,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "2023"
+summary: "2023-08-24T02:54:13.566Z"
 date: NIL
 ---
