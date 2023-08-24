@@ -1,6 +1,7 @@
 ---
 title: Plural dominance and the production of determiner-noun phrases in French
-subtitle: "*PLOS One*, *13*(7), e0200723. https://doi.org/10.1371/journal.pone.0200723"
+subtitle: "*PLoS One*, *13*(7), Article e0200723.
+  https://doi.org/10.1371/journal.pone.0200723"
 publication_types:
   - "2"
 authors:
@@ -11,7 +12,7 @@ authors:
   - S. Hameau
   - A. Lorenz
 doi: ""
-publication: "*PLOS One*, *13*(7), e0200723"
+publication: "*PLoS One*, *13*(7), Article e0200723"
 abstract: In two experiments, we examined the functional locus of *plural
   dominance* in the French spoken word production system, where singulars and
   plurals share the same phonological word form. The materials included
