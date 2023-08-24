@@ -8,7 +8,7 @@ authors:
   - S. Wegener
   - A. Bürki
   - E. Beyersmann
-publication: "*Bilingualism: Language and Cognition*."
+publication: "*Bilingualism: Language and Cognition*"
 abstract: In press, accepted on 18/07/2023.
 draft: false
 featured: false
