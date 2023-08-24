@@ -1,7 +1,8 @@
 ---
 title: "Order among chaos: Cross-linguistic differences and developmental
   trajectories in pseudoword reading aloud using pronunciation Entropy"
-subtitle: "*PLOS One*, *16*(5), e0251629. https://doi.org/10.1371/journal.pone.0251629"
+subtitle: "*PLoS One*, *16*(5), Article e0251629.
+  https://doi.org/10.1371/journal.pone.0251629"
 publication_types:
   - "2"
 authors:
@@ -11,7 +12,7 @@ authors:
   - J. Mirault
   - X. Schmalz
 doi: ""
-publication: "*PLOS One*, *16*(5), e0251629"
+publication: "*PLoS One*, *16*(5), Article e0251629"
 abstract: "In this work we propose the use of Entropy to measure variability in
   pronunciations in pseudowords reading aloud: pseudowords where participants
   give many different pronunciations receive higher Entropy values. Monolingual
