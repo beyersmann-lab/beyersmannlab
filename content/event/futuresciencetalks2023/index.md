@@ -4,7 +4,7 @@ slides: null
 url_pdf: ""
 summary: null
 title: Future Science Talks 
-subtitle: Elisabetta De Simone Presents Her Science Comedy Show
+subtitle: <a href="https://beyersmannlab.cogscience.org/author/elisabetta-de-simone/" target="_blank">Elisabetta De Simone</a> Presents her Science Comedy Show
 location: East Village Sydney, Darlinghurst
 date: 2023-08-23T19:00:35.648Z
 all_day: false
