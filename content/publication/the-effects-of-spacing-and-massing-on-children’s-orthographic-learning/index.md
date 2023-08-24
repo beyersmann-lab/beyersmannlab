@@ -1,6 +1,6 @@
 ---
 title: The effects of spacing and massing on children’s orthographic learning
-subtitle: "*Journal of Experimental Child Psychology*, *214*, 105309–105309.
+subtitle: "*Journal of Experimental Child Psychology*, *214*, Article 105309.
   https://doi.org/10.1016/j.jecp.2021.105309"
 publication_types:
   - "2"
@@ -12,7 +12,7 @@ authors:
   - D. Colenbrander
   - A. Castles
 doi: ""
-publication: "*Journal of Experimental Child Psychology*, *214*, 105309–105309"
+publication: "*Journal of Experimental Child Psychology*, *214*, Article 105309"
 abstract: Despite substantial evidence that spacing study opportunities over
   time improves the retention of learned verbal material compared with study
   trials that occur consecutively, the influence of temporal spacing on
