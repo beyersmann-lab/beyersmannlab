@@ -9,7 +9,7 @@ authors:
   - R. van de Wetering
   - T. Arrow
   - E. Beyersmann
-publication: "*Language Learning*, 1–33."
+publication: "*Language Learning*, 1–33"
 abstract: In this study, we examined the effect of previewing unfamiliar
   vocabulary on the real-time reading behavior of first language (L1) and second
   language (L2) readers. University students with English as their L1 or L2 read
