@@ -16,6 +16,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: In press.
+summary: ""
 date: 2023-08-24T06:14:12.932Z
 ---
+In press.
