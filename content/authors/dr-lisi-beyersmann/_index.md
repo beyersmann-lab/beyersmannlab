@@ -1,5 +1,5 @@
 ---
-title: Dr. Elisabeth Beyersmann
+title: Dr. Elisabeth (Lisi) Beyersmann
 role: Teaching and Research Academic (Senior Lecturer)
 avatar_filename: avatar.jpg
 social:
