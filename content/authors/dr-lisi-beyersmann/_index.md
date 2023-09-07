@@ -1,6 +1,6 @@
 ---
-title: Dr. Elisabeth (Lisi) Beyersmann
-role: Discovery Early Career Researcher Award (DECRA) Fellow
+title: Dr. Elisabeth Beyersmann
+role: Teaching and Research Academic (Senior Lecturer)
 avatar_filename: avatar.jpg
 social:
   - display:
