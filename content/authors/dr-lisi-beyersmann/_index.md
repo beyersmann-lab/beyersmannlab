@@ -34,7 +34,7 @@ social:
     icon_pack: ai
     icon: osf
 organizations:
-  - name: Macquarie University
+  - name: School of Psychological Sciences, Macquarie University
 superuser: false
 user_groups:
   - Principal Researcher
