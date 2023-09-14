@@ -7,7 +7,7 @@ title: Evaluating Dolly Parton's Imagination Library
 subtitle: Media coverage of the evaluation of Dolly Parton’s Imagination Library in the NSW town of Tamworth, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (July 2023 & November 2022).
 summary: Media coverage of the evaluation of Dolly Parton’s Imagination Library in the NSW town of Tamworth, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (July 2023 & November 2022).
 location: null
-date: 2023-03-31T13:00:35.648Z
+date: 2023-07-25T13:00:35.648Z
 all_day: false
 event: null
 event_url: null
@@ -21,7 +21,7 @@ address:
   ? region
   ? postcode
   ? country
-publishDate: 2023-03-31Tnull
+publishDate: 2023-07-25Tnull
 tags: null
 projects: null
 image:
