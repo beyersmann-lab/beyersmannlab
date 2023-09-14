@@ -4,8 +4,8 @@ slides: null
 url_pdf: ""
 summary: null
 title: Evaluating Dolly Parton's Imagination Library
-subtitle: Media coverage of the evaluation of Dolly Parton’s Imagination Library in the NSW town of Tamworth, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (2023, July & 2022, November).
-summary: Media coverage of the evaluation of Dolly Parton’s Imagination Library in the NSW town of Tamworth, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (2023, July & 2022, November).
+subtitle: Media coverage of the evaluation of Dolly Parton’s Imagination Library in the NSW town of Tamworth, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (July 2023 & November 2022).
+summary: Media coverage of the evaluation of Dolly Parton’s Imagination Library in the NSW town of Tamworth, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (July 2023 & November 2022).
 location: Macquarie Lake and Australian Hearing Hub, Macquarie University
 date: 2023-03-31T13:00:35.648Z
 all_day: false
@@ -34,10 +34,10 @@ url_code: ""
 
 <center>{{< figure src="featured2.jpg" caption="" numbered="" >}}</center>
 <br/>
-<center><p><h3>Radio</h3></p>
+<center><p><h2>Radio</h2></p>
 <center><p>ABC Radio Interview (2023, July 6), Dolly Parton Imagination Library in Tamworth Australia:</p>
 <center>{{< audio src="dollypartonprojectradiointerview2023.mp3" >}}</center>
-<center><p><h3>Articles</h3></p>
+<center><p><h2>Articles</h2></p>
 <center>{{< figure src="featured.jpg" caption="" numbered="" >}}</center>
 <center><a href="https://www.abc.net.au/news/2023-07-25/tamworth-dolly-parton-imagination-library-730/102643392" target="_blank">Begley, P., & Ackew, E. (2023, July 25). Tamworth signed up newborn babies for a reading experiment. Now, the results are in. <em>ABC 7.30</em>. </a></center>
 <br/>
