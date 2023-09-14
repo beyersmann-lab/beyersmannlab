@@ -1,5 +1,5 @@
 ---
-title: The role of oral vocabulary when L2 speakers read novel words: A complex word training study
+title: "The role of oral vocabulary when L2 speakers read novel words: A complex word training study"
 subtitle: "*Bilingualism: Language and Cognition*."
 publication_types:
   - "2"
