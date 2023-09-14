@@ -33,4 +33,4 @@ url_code: ""
 ---
 
 <br/>
-<center>{{< figure src="sentencereadingtask.jpg" caption="" numbered="" >}}</center>
+<center>{{< figure src="featured.jpg" caption="" numbered="" >}}</center>
