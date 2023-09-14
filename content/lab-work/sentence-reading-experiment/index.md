@@ -32,5 +32,4 @@ image:
 url_code: ""
 ---
 
-<br/>
 <center>{{< figure src="featured.jpg" caption="" numbered="" >}}</center>
