@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 40
 
-title: Recent Events
+title: Recent Lab Work
 subtitle:
 
 content:
@@ -17,7 +17,7 @@ content:
     tag: ''
   offset: 0
   order: desc
-  page_type: event
+  page_type: lab-work
 design:
   view: showcase
   flip_alt_rows: true
