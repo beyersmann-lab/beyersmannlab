@@ -6,7 +6,7 @@ summary: null
 title: Sentence Reading Experiment
 subtitle: A participant engaging in a sentence reading experiment, facilitated by <a href="https://beyersmannlab.cogscience.org/author/alicia-ormond/" target="_blank">Alicia Ormond</a> (12 May 2023).
 summary: A participant engaging in a sentence reading experiment, facilitated by <a href="https://beyersmannlab.cogscience.org/author/alicia-ormond/" target="_blank">Alicia Ormond</a> (12 May 2023).
-location: Macquarie Lake and Australian Hearing Hub, Macquarie University
+location: null
 date: 2023-05-12T13:00:35.648Z
 all_day: false
 event: null
