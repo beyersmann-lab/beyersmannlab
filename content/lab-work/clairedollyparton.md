@@ -1,31 +1,35 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 10
-
-# Section title
-title: Dolly Parton Project 
-
-# Section subtitle
+abstract: null
+slides: null
+url_pdf: ""
+summary: null
+title: Dolly Parton Project
 subtitle: Media coverage of the Dolly Parton Project, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (2023, July & 2022, November).
-
-# Section design
-design:
-  # Use a 1-column layout
-  columns: "1"
-  
-banner:
-  image: 
-  image_position: 
-    
+location: Macquarie Lake and Australian Hearing Hub, Macquarie University
+date: 2023-03-31T13:00:35.648Z
+all_day: false
+event: null
+event_url: null
+featured: null
+authors: null
+url_video: ""
+url_slides: ""
+address:
+  ? street
+  ? city
+  ? region
+  ? postcode
+  ? country
+publishDate: 2023-03-31Tnull
+tags: null
+projects: null
+image:
+  caption: ""
+  focal_point: null
+  filename: featured.jpg
+  preview_only: true
+url_code: ""
 ---
-
 
 <center><p><h3>Radio</h3></p>
 <center><p>ABC Radio Interview (2023, July 6), Dolly Parton Imagination Library in Tamworth Australia:</p>
