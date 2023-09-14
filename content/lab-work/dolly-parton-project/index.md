@@ -3,7 +3,7 @@ abstract: null
 slides: null
 url_pdf: ""
 summary: null
-title: Dolly Parton Project
+title: Evaluating Dolly Parton's Imagination Library
 subtitle: Media coverage of the evaluation of Dolly Parton’s Imagination Library in the NSW town of Tamworth, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (2023, July & 2022, November).
 summary: Media coverage of the evaluation of Dolly Parton’s Imagination Library in the NSW town of Tamworth, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (2023, July & 2022, November).
 location: Macquarie Lake and Australian Hearing Hub, Macquarie University
@@ -38,6 +38,7 @@ url_code: ""
 <center><p>ABC Radio Interview (2023, July 6), Dolly Parton Imagination Library in Tamworth Australia:</p>
 <center>{{< audio src="dollypartonprojectradiointerview2023.mp3" >}}</center>
 <center><p><h3>Articles</h3></p>
+<center>{{< figure src="featured.jpg" caption="" numbered="" >}}</center>
 <center><a href="https://www.abc.net.au/news/2023-07-25/tamworth-dolly-parton-imagination-library-730/102643392" target="_blank">Begley, P., & Ackew, E. (2023, July 25). Tamworth signed up newborn babies for a reading experiment. Now, the results are in. <em>ABC 7.30</em>. </a></center>
 <br/>
 <center><a href="https://lighthouse.mq.edu.au/article/october-2022/Study-aims-to-show-how-Dolly-Parton-project-inspires-Aussie-kids-to-read" target="_blank">Skelly, S. (2022, November 2). Study to show how Dolly Parton project inspires Aussie kids to read. <em>The Lighthouse</em>. </a></center>
