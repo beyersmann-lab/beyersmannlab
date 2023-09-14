@@ -1,5 +1,5 @@
 ---
-title: Social Events
+title: Events
 
 # Listing view
 view: card
