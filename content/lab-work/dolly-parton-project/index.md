@@ -4,8 +4,8 @@ slides: null
 url_pdf: ""
 summary: null
 title: Dolly Parton Project
-subtitle: Media coverage of the Dolly Parton Project, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (2023, July & 2022, November).
-summary: Media coverage of the Dolly Parton Project, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (2023, July & 2022, November).
+subtitle: Media coverage of the evaluation of Dolly Parton’s Imagination Library in the NSW town of Tamworth, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (2023, July & 2022, November).
+summary: Media coverage of the evaluation of Dolly Parton’s Imagination Library in the NSW town of Tamworth, led by <a href="https://beyersmannlab.cogscience.org/author/claire-galea/" target="_blank">Claire Galea</a> (2023, July & 2022, November).
 location: Macquarie Lake and Australian Hearing Hub, Macquarie University
 date: 2023-03-31T13:00:35.648Z
 all_day: false
