@@ -32,6 +32,8 @@ image:
 url_code: ""
 ---
 
+<center>{{< figure src="featured2.jpg" caption="" numbered="" >}}</center>
+<br/>
 <center><p><h3>Radio</h3></p>
 <center><p>ABC Radio Interview (2023, July 6), Dolly Parton Imagination Library in Tamworth Australia:</p>
 <center>{{< audio src="dollypartonprojectradiointerview2023.mp3" >}}</center>
