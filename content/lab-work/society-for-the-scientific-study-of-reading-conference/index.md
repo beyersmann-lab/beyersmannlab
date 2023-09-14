@@ -32,12 +32,12 @@ image:
 url_code: ""
 ---
 
-<center><h3>Spelfabet Blog Post</h3></center>
+<center><h1>Spelfabet Blog Post</h1></center>
 <br/>
-<center>{{< figure src="featured3.jpg" caption="" numbered="" >}}</center>
 <center><a href="https://www.spelfabet.com.au/2023/07/society-for-the-scientific-study-of-reading-conference-day-1/" target="_blank">Society for the Scientific Study of Reading (SSSR) Conference Presentations</a></center> 
+<center>{{< figure src="featured3.jpg" caption="" numbered="" >}}</center>
 <br/>
-<center><h3><a href="https://beyersmannlab.cogscience.org/author/demian-stoyanov/" target="_blank">Demian Stoyanov's</a> Poster Presentation</h3></center>
+<center><h1><a href="https://beyersmannlab.cogscience.org/author/demian-stoyanov/" target="_blank">Demian Stoyanov's</a> Poster Presentation</h1></center>
 <br/>
 <center>{{< figure src="featured.jpg" caption="" numbered="" >}}</center>
 <center>{{< figure src="featured2.jpg" caption="" numbered="" >}}</center>
