@@ -1,24 +1,37 @@
 ---
+# An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-headless: true
-weight: 40
+widget: blank
 
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 10
+
+# Section title
 title: Recent News
+
+# Section subtitle
 subtitle:
 
-content:
-  count: 5
-  filters:
-    author: ''
-    category: ''
-    exclude_featured: false
-    publication_type: ''
-    tag: ''
-  offset: 0
-  order: desc
-  page_type: publication
+# Section design
 design:
-  view: citation
-  columns: '1'
+  # Use a 1-column layout
+  columns: "1"
+  # Choose your content listing view - here we use the `showcase` view
+  view: showcase
+  # For the Showcase view, do you want to flip alternate rows?
+  flip_alt_rows: true
+  
+banner:
+  image: "home.jpg"
+  image_position: center
+    
 ---
+
+Lisi Beyersmann and her team are based at the <a href="https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology" target="_blank">School of Psychological Sciences at Macquarie University</a> and are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development. The lab investigates language processing in both children and adults, using a variety of behavioural, neuropsychological, and neurophysiological techniques including MEG, EEG, and eye-tracking.
+
+<center>{{< figure src="home.jpg" caption="" numbered="" >}}</center>
+  
+{{% cta cta_link="./researchers/" cta_text="Meet the Team →" %}}
