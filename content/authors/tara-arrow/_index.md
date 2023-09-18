@@ -10,6 +10,11 @@ social:
     icon: envelope
   - display:
       header: false
+    link: https://scholar.google.com/citations?user=qHj5nYYAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
+  - display:
+      header: false
     link: https://www.researchgate.net/scientific-contributions/Tara-Arrow-2218418098
     icon_pack: ai
     icon: researchgate
