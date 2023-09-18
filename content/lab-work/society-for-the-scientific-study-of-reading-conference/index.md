@@ -4,8 +4,8 @@ slides: null
 url_pdf: ""
 summary: null
 title: Society for the Scientific Study of Reading (SSSR) Conference
-subtitle: Conference presentations by some Beyersmann Lab members (20 July 2023).
-summary: Conference presentations by some Beyersmann Lab members (20 July 2023).
+subtitle: Conference presentations by Beyersmann Lab members (20 July 2023).
+summary: Conference presentations by Beyersmann Lab members (20 July 2023).
 location: null
 date: 2023-07-20T13:00:35.648Z
 all_day: false
