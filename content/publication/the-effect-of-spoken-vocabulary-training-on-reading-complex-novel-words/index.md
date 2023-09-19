@@ -1,6 +1,6 @@
 ---
 title: The effect of spoken vocabulary training on reading complex novel words
-subtitle: "*Quarterly Journal of Experimental Psychology*.
+subtitle: "*Quarterly Journal of Experimental Psychology*, *76*(6), 1321–1332.
   https://doi.org/10.1177/17470218221113949"
 publication_types:
   - "2"
@@ -12,7 +12,7 @@ authors:
   - D. Colenbrander
   - A. Castles
 doi: ""
-publication: "*Quarterly Journal of Experimental Psychology*"
+publication: "*Quarterly Journal of Experimental Psychology*, *76*(6), 1321–1332"
 abstract: >
   Do readers benefit from their knowledge of the phonological form and
     meaning of stems when seeing them embedded in morphologically complex words
@@ -44,6 +44,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "2022"
-date: 2022-08-01T01:55:19.691Z
+summary: "2023"
+date: 2023-06-01T01:55:19.691Z
 ---
