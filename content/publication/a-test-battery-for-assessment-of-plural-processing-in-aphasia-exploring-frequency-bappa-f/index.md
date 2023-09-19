@@ -1,6 +1,6 @@
 ---
-title: "*A Test Battery for Assessment of Plural Processing in Aphasia Exploring
-  Frequency (BAPPA-F)*"
+title: A Test Battery for Assessment of Plural Processing in Aphasia Exploring
+  Frequency (BAPPA-F)
 subtitle: Macquarie Online Test Interface. https://www.motif.org.au/bappaf
 publication_types:
   - "0"
