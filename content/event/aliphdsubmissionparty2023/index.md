@@ -31,7 +31,8 @@ url_code: ""
 
 ---
 
-|-
-{{< gallery album="aliphdsubmissionparty2023" >}}
-design:
-      columns: '1'
+content:
+ text:|-
+  {{< gallery album="aliphdsubmissionparty2023" >}}
+ design:
+  columns: '1'
