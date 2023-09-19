@@ -8,7 +8,7 @@ title: Latest Publications
 subtitle:
 
 content:
-  count: 5
+  count: 8
   filters:
     author: ''
     category: ''
