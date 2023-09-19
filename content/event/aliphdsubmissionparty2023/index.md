@@ -28,7 +28,7 @@ image:
   filename: featured.jpg
   preview_only: true
 url_code: ""
- - block: markdown
+block: markdown
     content:
       title: Gallery
       subtitle: ''
