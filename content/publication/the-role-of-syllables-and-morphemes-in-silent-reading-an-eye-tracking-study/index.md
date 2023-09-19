@@ -1,7 +1,6 @@
 ---
-title: "EXPRESS: The role of syllables and morphemes in silent reading: An
-  eye-tracking study"
-subtitle: "*Quarterly Journal of Experimental Psychology*.
+title: "The role of syllables and morphemes in silent reading: An eye-tracking study"
+subtitle: "*Quarterly Journal of Experimental Psychology*, 1–21.
   https://doi.org/10.1177/17470218231160638"
 publication_types:
   - "2"
@@ -12,7 +11,7 @@ authors:
   - X. Schmalz
   - E. Beyersmann
 doi: ""
-publication: "*Quarterly Journal of Experimental Psychology*"
+publication: "*Quarterly Journal of Experimental Psychology*, 1–21"
 publication_short: ""
 abstract: German skilled readers have been found to engage in morphological and
   syllable-based processing in visual word recognition. However, the relative
