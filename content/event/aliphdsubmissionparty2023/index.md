@@ -10,7 +10,7 @@ all_day: false
 event: null
 event_url: null
 featured: null
-authors: null
+authors: tara-arrow
 url_video: ""
 url_slides: ""
 address:
