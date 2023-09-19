@@ -3,11 +3,11 @@ abstract: null
 slides: null
 url_pdf: ""
 summary: null
-title: h
-subtitle: "<a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive award for her project *The two languages of the bilingual mind: an EEG study into cross-language morphological transfer*. Congratulations Hasibe!"
-summary: "<a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive award for her project *The two languages of the bilingual mind: an EEG study into cross-language morphological transfer*. Congratulations Hasibe!"
+title: <a href="https://www.psychonomic.org/page/2023YatesRecipients" target="_blank">2023 J. Frank Yates Student Conference Award</a>
+subtitle: "<a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive award for her project The two languages of the bilingual mind: An EEG study into cross-language morphological transfer. Congratulations Hasibe!"
+summary: <a href="https://beyersmannlab.cogscience.org/author/elisabetta-de-simone/" target="_blank">Elisabetta DeSimone</a> was tasked with creating an engaging video summary of her research (22 May 2023).
 location: null
-date: 2023-05-15T13:00:35.648Z
+date: 2023-05-22T13:00:35.648Z
 all_day: false
 event: null
 event_url: null
@@ -21,7 +21,7 @@ address:
   ? region
   ? postcode
   ? country
-publishDate: 2023-05-15Tnull
+publishDate: 2023-05-22Tnull
 tags: null
 projects: null
 image:
@@ -32,4 +32,5 @@ image:
 url_code: ""
 ---
 
-<center>{{< figure src="featured.jpg" caption="" numbered="" >}}</center>
+<center>{{< youtube x01BVVZVQE8 >}}</center>
+
