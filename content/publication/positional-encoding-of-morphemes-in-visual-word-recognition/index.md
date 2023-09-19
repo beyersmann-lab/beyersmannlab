@@ -2,7 +2,7 @@
 title: Positional encoding of morphemes in visual word recognition
 subtitle: "*Journal of Experimental Psychology: Learning, Memory, and Cognition*."
 publication_types:
-  - "3"
+  - "2"
 authors:
   - J. Spencer
   - H. Kahraman
