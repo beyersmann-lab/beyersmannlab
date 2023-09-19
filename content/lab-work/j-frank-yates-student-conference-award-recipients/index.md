@@ -7,7 +7,7 @@ title: A Problematic Orthography
 subtitle: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive aware for her project *The two languages of the bilingual mind- An EEG study into cross-language morphological transfer*. Congratulations Hasibe!
 summary: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive aware for her project *The two languages of the bilingual mind- An EEG study into cross-language morphological transfer*. Congratulations Hasibe!
 location: null
-date: 2023-05-22T13:00:35.648Z
+date: 2023-05-15T13:00:35.648Z
 all_day: false
 event: null
 event_url: null
@@ -21,7 +21,7 @@ address:
   ? region
   ? postcode
   ? country
-publishDate: 2023-05-22Tnull
+publishDate: 2023-05-15Tnull
 tags: null
 projects: null
 image:
