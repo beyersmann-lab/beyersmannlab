@@ -4,7 +4,7 @@ slides: null
 url_pdf: ""
 summary: null
 title: A Problematic Orthography
-subtitle: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive aware for her project <em>The two languages of the bilingual mind: an EEG study into cross-language morphological transfer</em>. 
+subtitle: <p><a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive aware for her project <em>The two languages of the bilingual mind: an EEG study into cross-language morphological transfer</em></p>.
 summary: <a href="https://beyersmannlab.cogscience.org/author/elisabetta-de-simone/" target="_blank">Elisabetta DeSimone</a> was tasked with creating an engaging video summary of her research (22 May 2023).
 location: null
 date: 2023-05-22T13:00:35.648Z
