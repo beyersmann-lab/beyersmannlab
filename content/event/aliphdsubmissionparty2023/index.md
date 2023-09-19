@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="aliphdsubmissionparty2023" resize_options="250x250" >}}
+{{< gallery album="aliphdsubmissionparty2023" resize_options="100x100" >}}
