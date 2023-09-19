@@ -28,6 +28,7 @@ image:
   filename: featured.jpg
   preview_only: true
 url_code: ""
+
 ---
 
 {{< gallery album="aliphdsubmissionparty2023" >}}
