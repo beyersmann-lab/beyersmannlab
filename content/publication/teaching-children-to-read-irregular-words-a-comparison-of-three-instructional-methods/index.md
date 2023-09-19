@@ -1,7 +1,7 @@
 ---
 title: "Teaching children to read irregular words: A comparison of three
   instructional methods"
-subtitle: "*Scientific Studies of Reading*, *26*(6), 545-564.
+subtitle: "*Scientific Studies of Reading*, *26*(6), 545–564.
   https://doi.org/10.1080/10888438.2022.2077653"
 publication_types:
   - "2"
@@ -15,7 +15,7 @@ authors:
   - K. Nation
   - A. Castles
 doi: ""
-publication: "*Scientific Studies of Reading*, *26*(6), 545-564"
+publication: "*Scientific Studies of Reading*, *26*(6), 545–564"
 abstract: "**Purpose:** Children learning to read in English must learn to read
   words with varying degrees of grapheme-phoneme correspondence regularity, but
   there is very little research comparing methods of instruction for words with
