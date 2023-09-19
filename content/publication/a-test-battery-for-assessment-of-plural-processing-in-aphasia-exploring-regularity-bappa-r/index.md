@@ -1,6 +1,6 @@
 ---
-title: "*A test battery for assessment of plural processing in aphasia exploring
-  regularity (BAPPA-R)*"
+title: "*A Test Battery for Assessment of Plural Processing in Aphasia Exploring
+  Regularity (BAPPA-R)*"
 subtitle: Macquarie Online Test Interface. https://www.motif.org.au/bappar
 publication_types:
   - "0"
