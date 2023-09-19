@@ -1,6 +1,7 @@
 ---
 title: The effect of spacing versus massing on orthographic learning
-subtitle: "*Reading Research Quarterly*. https://doi.org/10.1002/rrq.492"
+subtitle: "*Reading Research Quarterly*, *58*(3), 361–372.
+  https://doi.org/10.1002/rrq.492"
 publication_types:
   - "2"
 authors:
@@ -11,7 +12,7 @@ authors:
   - K. Nation
   - A. Castles
 doi: ""
-publication: "*Reading Research Quarterly*"
+publication: "*Reading Research Quarterly*, *58*(3), 361–372"
 publication_short: ""
 abstract: "Distributing study opportunities over time typically improves the
   retention of verbal material compared to consecutive study trials, yet little
