@@ -3,7 +3,6 @@ abstract: null
 slides: null
 url_pdf: ""
 summary: null
-title:
 subtitle: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive award for her project *The two languages of the bilingual mind: an EEG study into cross-language morphological transfer*. Congratulations Hasibe!
 summary: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive award for her project *The two languages of the bilingual mind: an EEG study into cross-language morphological transfer*. Congratulations Hasibe!
 location: null
