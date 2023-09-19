@@ -1,8 +1,8 @@
 ---
 title: "Learning morphologically complex spoken words: Orthographic expectations
   of embedded stems are formed prior to print exposure"
-subtitle: "*Journal of Experimental Psychology: Learning, Memory, & Cognition*,
-  *47*(1), 87–98. https://doi.org/10.1037/xlm0000808"
+subtitle: "*Journal of Experimental Psychology: Learning, Memory, and
+  Cognition*, *47*(1), 87–98. https://doi.org/10.1037/xlm0000808"
 publication_types:
   - "2"
 authors:
@@ -13,7 +13,7 @@ authors:
   - H.-C. Wang
   - A. Castles
 doi: ""
-publication: "*Journal of Experimental Psychology: Learning, Memory, &
+publication: "*Journal of Experimental Psychology: Learning, Memory, and
   Cognition*, *47*(1), 87–98"
 abstract: It is well known that information from spoken language is integrated
   into reading processes, but the nature of these links and how they are
