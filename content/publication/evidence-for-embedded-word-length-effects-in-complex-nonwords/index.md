@@ -1,6 +1,6 @@
 ---
 title: Evidence for embedded word length effects in complex nonwords
-subtitle: "*Language, Cognition, & Neuroscience*, *35*(2), 235–245.
+subtitle: "*Language, Cognition and Neuroscience*, *35*(2), 235–245.
   https://doi.org/10.1080/23273798.2019.1659989"
 publication_types:
   - "2"
@@ -9,7 +9,7 @@ authors:
   - J. Grainger
   - M. Taft
 doi: ""
-publication: "*Language, Cognition, & Neuroscience*, *35*(2), 235–245"
+publication: "*Language, Cognition and Neuroscience*, *35*(2), 235–245"
 abstract: Recent evidence points to the important role of embedded word
   activations in visual word recognition. The present study asked how the
   reading system prioritises word identification when not just one, but two
