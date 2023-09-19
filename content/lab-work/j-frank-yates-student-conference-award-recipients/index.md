@@ -3,7 +3,7 @@ abstract: null
 slides: null
 url_pdf: ""
 summary: null
-title: <a href="https://www.psychonomic.org/page/yatestravelaward" target="_blank">2023 J. Frank Yates Student Conference Award</a>  
+title: <a href="https://www.psychonomic.org/page/yatestravelaward" target="_blank">J. Frank Yates Student Conference Award</a>  
 subtitle: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive award for her project *The two languages of the bilingual mind: an EEG study into cross-language morphological transfer*. Congratulations Hasibe!
 summary: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive award for her project *The two languages of the bilingual mind: an EEG study into cross-language morphological transfer*. Congratulations Hasibe!
 location: null
