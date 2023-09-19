@@ -1,6 +1,6 @@
 ---
 title: Orthographic expectancies in the absence of contextual support
-subtitle: "*Scientific Studies of Reading*.
+subtitle: "*Scientific Studies of Reading*, *27*(2), 187–197.
   https://doi.org/10.1080/10888438.2022.2127356"
 publication_types:
   - "2"
@@ -12,7 +12,7 @@ authors:
   - D. Colenbrander
   - A. Castles
 doi: ""
-publication: "*Scientific Studies of Reading*"
+publication: "*Scientific Studies of Reading*, *27*(2), 187–197"
 publication_short: ""
 abstract: >-
   **Purpose:** Readers can draw on their knowledge of sound-to-letter mappings
@@ -32,6 +32,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "2022"
-date: 2022-09-22T01:46:16.465Z
+summary: "2023"
+date: 2023-03-01T00:46:16.465Z
 ---
