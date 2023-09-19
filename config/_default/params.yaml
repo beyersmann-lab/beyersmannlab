@@ -21,7 +21,7 @@ marketing:
     description: 'Elisabeth (Lisi) Beyersmann and her team are  based at the School of Psychological Sciences at Macquarie University and are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development.'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'https://www.googletagmanager.com/gtag/js?id=G-M4KSCCEQKT'
     baidu_tongji: ''
   verification:
     google: 'Kl6XcWr-sdGQtt2lhdG98oevKSBxwXjtBGwU0l58F4Q'
