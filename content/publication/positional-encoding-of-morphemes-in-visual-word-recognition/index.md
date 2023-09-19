@@ -9,7 +9,7 @@ authors:
   - E. Beyersmann
 publication: "*Journal of Experimental Psychology: Learning, Memory, and Cognition*"
 publication_short: ""
-abstract: In press.
+abstract: (In press, accepted on 18/08/2023).
 draft: false
 featured: false
 image:
