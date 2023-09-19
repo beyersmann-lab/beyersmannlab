@@ -28,14 +28,6 @@ image:
   filename: featured.jpg
   preview_only: true
 url_code: ""
-block: markdown
-  content:
-    title: Gallery
-    subtitle: ''
-     text: |-
-      {{< gallery album="aliphdsubmissionparty2023" >}}
-   design:
-     columns: '1'
 ---
 
-{{< gallery album="aliphdsubmissionparty2023" resize_options="1000x1000" >}}
+{{< gallery album="aliphdsubmissionparty2023" >}}
