@@ -3,7 +3,7 @@ abstract: null
 slides: null
 url_pdf: ""
 summary: null
-title: A Problematic Orthography
+title: 2023 J. Frank Yates Student Conference Recipients
 subtitle: <a href="https://beyersmannlab.cogscience.org/author/elisabetta-de-simone/" target="_blank">Elisabetta DeSimone</a> was tasked with creating an engaging video summary of her research (22 May 2023).
 summary: <a href="https://beyersmannlab.cogscience.org/author/elisabetta-de-simone/" target="_blank">Elisabetta DeSimone</a> was tasked with creating an engaging video summary of her research (22 May 2023).
 location: null
