@@ -1,14 +1,14 @@
 ---
 title: Support from the morphological family when unembedding the stem
-subtitle: "*Journal of Experimental Psychology: Learning, Memory, & Cognition*,
-  *44*(1), 135–142. https://doi.org/10.1037/xlm0000435"
+subtitle: "*Journal of Experimental Psychology: Learning, Memory, and
+  Cognition*, *44*(1), 135–142. https://doi.org/10.1037/xlm0000435"
 publication_types:
   - "2"
 authors:
   - E. Beyersmann
   - J. Grainger
 doi: ""
-publication: "*Journal of Experimental Psychology: Learning, Memory, &
+publication: "*Journal of Experimental Psychology: Learning, Memory, and
   Cognition*, *44*(1), 135–142"
 abstract: "Recent research investigating embedded stem priming effects with the
   masked priming paradigm and pseudoword primes (e.g., *quickify*–*quick*) has
