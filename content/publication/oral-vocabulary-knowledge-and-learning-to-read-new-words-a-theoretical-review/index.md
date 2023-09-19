@@ -1,7 +1,7 @@
 ---
 title: "Oral vocabulary knowledge and learning to read new words: A theoretical
   review"
-subtitle: "*Australian Journal of Learning Difficulties*, *22*(2), 253-278.
+subtitle: "*Australian Journal of Learning Difficulties*, *22*(2), 253–278.
   https://doi.org/10.1080/19404158.2022.2097717"
 publication_types:
   - "2"
@@ -11,7 +11,7 @@ authors:
   - H.-C. Wang
   - A. Castles
 doi: ""
-publication: "*Australian Journal of Learning Difficulties*, *22*(2), 253-278"
+publication: "*Australian Journal of Learning Difficulties*, *22*(2), 253–278"
 abstract: >+
   In this theoretical review, evidence for the link between spoken and written
   word knowledge is summarised, highlighting the specific hypotheses posed in
