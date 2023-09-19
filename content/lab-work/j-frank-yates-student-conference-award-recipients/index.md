@@ -32,5 +32,5 @@ image:
 url_code: ""
 ---
 
-<center>{{< youtube x01BVVZVQE8 >}}</center>
+<center>{{< figure src="featured.jpg" caption="" numbered="" >}}</center>
 
