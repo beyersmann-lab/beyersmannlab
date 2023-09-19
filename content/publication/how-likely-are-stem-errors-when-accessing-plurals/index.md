@@ -1,7 +1,7 @@
 ---
 title: How likely are stem errors when accessing plurals
-subtitle: "*Stem-, Spraak- en Taalpathologie*, *17*, 20–23.
-  https://sstp.nl/article/view/3266"
+subtitle: "*Stem-, Spraak- en Taalpathologie*, *17*(Suppl. 2), 20–23.
+  https://sstp.nl/issue/view/423"
 publication_types:
   - "2"
 authors:
@@ -11,7 +11,7 @@ authors:
   - E. Townsend
   - L. Nickels
 doi: ""
-publication: "*Stem-, Spraak- en Taalpathologie*, *17*, 20–23"
+publication: "*Stem-, Spraak- en Taalpathologie*, *17*(Suppl. 2), 20–23"
 abstract: "How plural forms are represented has been hotly debated for decades.
   Is it the case that regular plurals are stored as a full word form
   representation separate to their singulars (e.g., cat vs cats), or are plurals
