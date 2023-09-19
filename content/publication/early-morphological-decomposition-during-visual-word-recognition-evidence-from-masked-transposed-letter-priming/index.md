@@ -1,7 +1,7 @@
 ---
 title: "Early morphological decomposition during visual word recognition:
   Evidence from masked transposed-letter priming"
-subtitle: "*Psychonomic Bulletin and Review*, *18*(5), 937–942.
+subtitle: "*Psychonomic Bulletin & Review*, *18*(5), 937–942.
   https://doi.org/10.3758/s13423-011-0120-y"
 publication_types:
   - "2"
@@ -10,7 +10,7 @@ authors:
   - A. Castles
   - M. Coltheart
 doi: ""
-publication: "*Psychonomic Bulletin and Review*, *18*(5), 937–942"
+publication: "*Psychonomic Bulletin & Review*, *18*(5), 937–942"
 abstract: The present experiments were designed to explore the theory of early
   morpho-orthographic segmentation (Rastle, Davis, & New, Psychonomic Bulletin &
   Review 11,1090-1098, 2004), which postulates that written words with a true
