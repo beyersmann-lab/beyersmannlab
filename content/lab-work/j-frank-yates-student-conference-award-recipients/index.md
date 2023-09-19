@@ -3,7 +3,7 @@ abstract: null
 slides: null
 url_pdf: ""
 summary: null
-title: A Problematic Orthography
+title: 2023 J. Frank Yates Student Conference Award
 subtitle: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive aware for her project *The two languages of the bilingual mind- An EEG study into cross-language morphological transfer*. Congratulations Hasibe!
 summary: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> received this competitive aware for her project *The two languages of the bilingual mind- An EEG study into cross-language morphological transfer*. Congratulations Hasibe!
 location: null
