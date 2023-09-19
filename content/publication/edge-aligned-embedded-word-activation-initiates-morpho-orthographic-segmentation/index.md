@@ -1,7 +1,7 @@
 ---
 title: Edge-aligned embedded word activation initiates morpho-orthographic
   segmentation
-subtitle: In B. H. Ross (Ed.), *Psychology of Learning and Motivation* (Vol. 67,
+subtitle: In B. H. Ross (Ed.), *Psychology of learning and motivation* (Vol. 67,
   pp. 285–317). Elsevier Academic Press.
   https://doi.org/10.1016/bs.plm.2017.03.009
 publication_types:
@@ -10,7 +10,7 @@ authors:
   - J. Grainger
   - E. Beyersmann
 doi: ""
-publication: In B. H. Ross (Ed.), *Psychology of Learning and Motivation* (Vol.
+publication: In B. H. Ross (Ed.), *Psychology of learning and motivation* (Vol.
   67, pp. 285–317). Elsevier Academic Press
 abstract: "Current evidence suggests that morphologically complex words (e.g.,
   *farmer *) are automatically segmented into their constituent morphemes
