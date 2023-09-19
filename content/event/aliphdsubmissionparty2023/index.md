@@ -1,14 +1,34 @@
 ---
+abstract: null
+slides: null
+url_pdf: ""
+summary: null
 title: Ali's PhD Submission Party
-type: landing
+location: Macquarie Lake and Australian Hearing Hub, Macquarie University
+date: 2023-03-31T13:00:35.648Z
+all_day: false
+event: null
+event_url: null
+featured: null
+authors: null
+url_video: ""
+url_slides: ""
+address:
+  ? street
+  ? city
+  ? region
+  ? postcode
+  ? country
+publishDate: 2023-03-31Tnull
+tags: null
+projects: null
+image:
+  caption: ""
+  focal_point: null
+  filename: featured.jpg
+  preview_only: true
+url_code: ""
 
-sections:
-  - block: markdown
-    content:
-      title: Ali's PhD Submission Party
-      subtitle: Macquarie Lake and Australian Hearing Hub, Macquarie University
-      text: |-
-        {{< gallery album="aliphdsubmissionparty2023" >}}
-    design:
-      columns: '1'
 ---
+
+{{< gallery album="aliphdsubmissionparty2023" >}}
