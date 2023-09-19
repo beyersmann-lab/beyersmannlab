@@ -3,7 +3,7 @@ abstract: null
 slides: null
 url_pdf: ""
 summary: null
-title: Demian's Wedding Congratulations
+title: Demian's Marriage Congratulations
 location: Australian Hearing Hub, Macquarie University
 date: 2022-11-10T12:00:35.648Z
 all_day: false
