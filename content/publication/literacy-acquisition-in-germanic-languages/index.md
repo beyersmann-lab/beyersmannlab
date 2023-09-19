@@ -3,7 +3,7 @@ title: Literacy acquisition in Germanic languages
 subtitle: In D. Meletis, M. Evertz-Rittich, & R. Treiman (Eds.), *Handbook of
   Germanic writing systems*. De Gruyter.
 publication_types:
-  - "0"
+  - "6"
 authors:
   - K. Landerl
   - E. Beyersmann
