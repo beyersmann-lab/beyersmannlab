@@ -9,7 +9,7 @@ authors:
   - E. Beyersmann
   - J. Grainger
 doi: ""
-publication: In D. Crepaldi (Ed.), *Linguistic Morphology in the Mind and Brain*
+publication: In D. Crepaldi (Ed.), *Linguistic morphology in the mind and brain*
   (pp. 26–49). Routledge
 publication_short: ""
 abstract: This chapter describes a model that accounts for various phenomena
