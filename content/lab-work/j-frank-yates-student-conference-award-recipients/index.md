@@ -1,5 +1,5 @@
 ---
-abstract: null
+abstract: ""
 slides: null
 url_pdf: ""
 summary: null
