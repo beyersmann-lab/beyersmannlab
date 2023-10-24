@@ -4,6 +4,7 @@ slides: null
 url_pdf: ""
 summary: null
 title: Theses Submission Party for Elisabetta (PhD), Alicia (MRes), Dylan (Hons), and Alex (Hons)
+subtitle: A big contratulations to <a href="https://beyersmannlab.cogscience.org/author/elisabetta-de-simone/" target="_blank">Elisabetta DeSimone</a>, 
 location: Australian Hearing Hub, Macquarie University
 date: 2023-10-11T15:00:35.648Z
 all_day: false
