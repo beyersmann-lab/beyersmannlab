@@ -21,5 +21,5 @@ content:
 design:
   view: compact
   flip_alt_rows: true
-  columns: '1'
+  columns: '2'
 ---
