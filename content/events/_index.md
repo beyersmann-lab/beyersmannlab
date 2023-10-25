@@ -9,22 +9,8 @@ subtitle: ''
 # Position of this section on the page
 weight: 1
 
-content:
-  # Filter content to display
-  filters:
-    # The folders to display content from
-    folders:
-      - events
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    featured_only: false
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 10
+  count: 0
   # Choose how many pages you would like to offset by
   # Useful if you wish to show the first item in the Featured widget
   offset: 0
