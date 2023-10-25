@@ -19,7 +19,7 @@ content:
   order: desc
   page_type: event
 design:
-  view: card
+  view: compact
   flip_alt_rows: true
   columns: '1'
 ---
