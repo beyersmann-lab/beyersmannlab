@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="esragraduation2023" >}}
+{{< gallery album="esra-graduation-2023" >}}
