@@ -4,8 +4,8 @@ slides: null
 url_pdf: ""
 summary: null
 title: Cross-Language Activation of Affixed Words in Turkish-English Bilingual Speakers
-subtitle: Media coverage of the evaluation of <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman's</a> PhD project (12 October 2023).
-summary: Media coverage of the evaluation of <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman's</a> PhD project (12 October 2023).
+subtitle: Media coverage of <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman's</a> PhD project (12 October 2023).
+summary: Media coverage of <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman's</a> PhD project (12 October 2023).
 location: null
 date: 2023-10-12T13:00:35.648Z
 all_day: false
