@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="demianweddingcongrats2022" >}}
+{{< gallery album="demian-marriage-congrats-2022" >}}
