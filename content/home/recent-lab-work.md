@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 40
 
-title: Recent LabWork
+title: Recent Labwork
 subtitle:
 
 content:
