@@ -229,15 +229,6 @@ content:
         position: center
         color: '#B4F0A0'
         brightness: 1
-        media: media-building-1.jpg
-        fit: contain
-    - title: Null
-      content: Null
-      align: right
-      background:
-        position: center
-        color: '#B4F0A0'
-        brightness: 1
         media: media-building-2.jpg
         fit: contain
     - title: The Graduation Sculptures
