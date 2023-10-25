@@ -19,7 +19,7 @@ content:
   order: desc
   page_type: lab-work
 design:
-  view: compact
+  view: showcase
   flip_alt_rows: true
   columns: '2'
 ---
