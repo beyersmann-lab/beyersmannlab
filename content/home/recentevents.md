@@ -21,5 +21,5 @@ content:
 design:
   view: card
   flip_alt_rows: true
-  columns: '3'
+  columns: '2'
 ---
