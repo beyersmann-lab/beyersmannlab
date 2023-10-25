@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="popovvisit2023" >}}
+{{< gallery album="srdjan-popov-visit-2023" >}}
