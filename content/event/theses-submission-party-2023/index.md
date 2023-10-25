@@ -32,4 +32,4 @@ url_code: ""
 
 ---
 
-{{< gallery album="thesessubmissionparty2023" >}}
+{{< gallery album="theses-submission-party-2023" >}}
