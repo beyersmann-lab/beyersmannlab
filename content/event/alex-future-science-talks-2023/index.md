@@ -4,8 +4,8 @@ slides: null
 url_pdf: ""
 summary: null
 title: Alex's 'Future Science Talks' Comedy Show 
-summary: <a href="https://beyersmannlab.cogscience.org/author/alex-kilby/" target="_blank">Alex Kilby</a> presented his research in a <a href="https://www.futuresciencetalks.com.au/" target="_blank">Future Science Talks</a> comedy show.
-subtitle: <a href="https://beyersmannlab.cogscience.org/author/alex-kilby/" target="_blank">Alex Kilby</a> presented his research in a <a href="https://www.futuresciencetalks.com.au/" target="_blank">Future Science Talks</a> comedy show.
+summary: <a href="https://beyersmannlab.cogscience.org/author/alex-kilby/" target="_blank">Alex Kilby</a> presented his emoji research in a <a href="https://www.futuresciencetalks.com.au/" target="_blank">Future Science Talks</a> comedy show.
+subtitle: <a href="https://beyersmannlab.cogscience.org/author/alex-kilby/" target="_blank">Alex Kilby</a> presented his emoji research in a <a href="https://www.futuresciencetalks.com.au/" target="_blank">Future Science Talks</a> comedy show.
 location: Waywards at the Bank, Newtown
 date: 2023-09-14T18:00:35.648Z
 all_day: false
