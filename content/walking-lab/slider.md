@@ -72,15 +72,6 @@ content:
         brightness: 1
         media: sculptures-walk-2.jpg
         fit: contain
-    - title: Null
-      content: Null
-      align: right
-      background:
-        position: center
-        color: '#9CBBE5'
-        brightness: 1
-        media: sculptures-walk-3.jpg
-        fit: contain
     - title: The Arts Precinct Terrace
       content: 14th of July 2022
       align: left
