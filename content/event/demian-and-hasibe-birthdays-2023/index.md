@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="demianhasibebday2023" >}}
+{{< gallery album="demian-and-hasibe-birthdays-2023" >}}
