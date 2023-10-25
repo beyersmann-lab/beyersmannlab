@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="meetingkarinlanderl2022" >}}
+{{< gallery album="meeting-karin-landerl-2022" >}}
