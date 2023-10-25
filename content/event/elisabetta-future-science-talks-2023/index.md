@@ -4,8 +4,8 @@ slides: null
 url_pdf: ""
 summary: null
 title: Future Science Talks 
-summary: <a href="https://beyersmannlab.cogscience.org/author/elisabetta-de-simone/" target="_blank">Elisabetta De Simone</a> presented her research in a comedy show as a part of <a href="https://www.futuresciencetalks.com.au/" target="_blank">Future Science Talks</a>.
-subtitle: <a href="https://beyersmannlab.cogscience.org/author/elisabetta-de-simone/" target="_blank">Elisabetta De Simone</a> presented her research in a comedy show as a part of <a href="https://www.futuresciencetalks.com.au/" target="_blank">Future Science Talks</a>.
+summary: <a href="https://beyersmannlab.cogscience.org/author/elisabetta-de-simone/" target="_blank">Elisabetta De Simone</a> presented her research in a <a href="https://www.futuresciencetalks.com.au/" target="_blank">Future Science Talks</a> comedy show.
+subtitle: <a href="https://beyersmannlab.cogscience.org/author/elisabetta-de-simone/" target="_blank">Elisabetta De Simone</a> presented her research in a <a href="https://www.futuresciencetalks.com.au/" target="_blank">Future Science Talks</a> comedy show.
 location: East Village Sydney, Darlinghurst
 date: 2023-08-23T19:00:35.648Z
 all_day: false
