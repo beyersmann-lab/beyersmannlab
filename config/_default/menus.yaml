@@ -20,7 +20,7 @@ main:
     url: walking-lab
     weight: 50
   - name: Events
-    url: events
+    url: event
     weight: 60
   - name: Contact
     url: contact
