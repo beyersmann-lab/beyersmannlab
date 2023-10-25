@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="graingerfestschrift2023" >}}
+{{< gallery album="jonathan-grainger-festschrift-2023" >}}
