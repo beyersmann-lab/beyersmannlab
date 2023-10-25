@@ -88,15 +88,6 @@ content:
         brightness: 1
         media: arts-precinct-terrace-1.jpg
         fit: contain
-    - title: Null
-      content: Null
-      align: right
-      background:
-        position: center
-        color: '#F75C8D'
-        brightness: 1
-        media: arts-precinct-terrace-2.jpg
-        fit: contain
     - title: Walanga Muru Pavilion
       content: 28th of July 2022
       align: left
