@@ -31,4 +31,4 @@ url_code: ""
 
 ---
 
-{{< gallery album="aliphdsubmissionparty2023" >}}
+{{< gallery album="ali-phd-submission-party-2023" >}}
