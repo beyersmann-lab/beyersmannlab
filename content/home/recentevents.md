@@ -8,7 +8,7 @@ title: Recent Events
 subtitle:
 
 content:
-  count: 4
+  count: 3
   filters:
     author: ''
     category: ''
@@ -21,5 +21,5 @@ content:
 design:
   view: card
   flip_alt_rows: true
-  columns: '2'
+  columns: '3'
 ---
