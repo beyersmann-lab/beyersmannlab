@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="signyfarewell2023" >}}
+{{< gallery album="signy-wegener-farewell-2023" >}}
