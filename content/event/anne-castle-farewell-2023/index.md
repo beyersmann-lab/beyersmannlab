@@ -30,4 +30,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="annecastlefarewell2023" >}}
+{{< gallery album="anne-castle-farewell-2023" >}}
