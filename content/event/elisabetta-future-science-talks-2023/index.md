@@ -31,4 +31,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="futuresciencetalks2023" >}}
+{{< gallery album="elisabetta-future-science-talks-2023" >}}
