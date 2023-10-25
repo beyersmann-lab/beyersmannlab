@@ -42,7 +42,7 @@ user_groups:
 ---
 **R﻿esearch Interests**
 
-Lisi is interested in how the human reading system processes printed words, with a particular focus on units that carry meaning ("morphemes"). Besides her focus on rapid, automatic reading mechanisms in adults, she is also interested in how children learn to read and when during reading development word processing becomes more intuitive and automatized.
+Lisi is a cognitive scientist who is interested in how the human mind processes words, with a particular focus on units that carry meaning (“morphemes”). Besides her focus on rapid, automatic reading mechanisms in adults, she is also interested in how children learn to read, when during reading development word processing becomes more intuitive and automatized, and how reading and word retrieval skills change within the ageing population.
 
 **B﻿iography**
 
