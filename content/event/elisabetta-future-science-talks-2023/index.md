@@ -3,7 +3,7 @@ abstract: null
 slides: null
 url_pdf: ""
 summary: null
-title: Elsiabetta's 'Future Science Talks' Comedy Show
+title: Elisabetta's 'Future Science Talks' Comedy Show
 summary: <a href="https://beyersmannlab.cogscience.org/author/elisabetta-de-simone/" target="_blank">Elisabetta De Simone</a> presented her morpheme research in a <a href="https://www.futuresciencetalks.com.au/" target="_blank">Future Science Talks</a> comedy show.
 subtitle: <a href="https://beyersmannlab.cogscience.org/author/elisabetta-de-simone/" target="_blank">Elisabetta De Simone</a> presented her morpheme research in a <a href="https://www.futuresciencetalks.com.au/" target="_blank">Future Science Talks</a> comedy show.
 location: East Village Sydney, Darlinghurst
