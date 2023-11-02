@@ -2,8 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-summary: null
 title: Ali's PhD Submission Party
+summary: Congratulations to soon-to-be-Dr <a href="https://beyersmannlab.cogscience.org/author/ali-behzadnia/" target="_blank">Ali Behzadnia</a> for this monumental achievement!
+subtitle: Congratulations to soon-to-be-Dr <a href="https://beyersmannlab.cogscience.org/author/ali-behzadnia/" target="_blank">Ali Behzadnia</a> for this monumental achievement!
 location: Macquarie Lake and Australian Hearing Hub, Macquarie University
 date: 2023-03-31T13:00:35.648Z
 all_day: false
