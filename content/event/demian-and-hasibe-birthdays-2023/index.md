@@ -2,8 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-summary: null
 title: Demian and Hasibe's Birthdays
+summary: Happy birthday to <a href="https://beyersmannlab.cogscience.org/author/demian-stoyanov/" target="_blank">Demian Stoyanov</a> and <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Hasibe Kahraman</a>!
+summary: Happy birthday to <a href="https://beyersmannlab.cogscience.org/author/demian-stoyanov/" target="_blank">Demian Stoyanov</a> and <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Hasibe Kahraman</a>!
 location: Australian Hearing Hub, Macquarie University
 date: 2023-04-13T14:00:35.648Z
 all_day: false
