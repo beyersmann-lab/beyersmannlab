@@ -2,8 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-summary: null
 title: Summer Gathering
+summary: Beyersmann Lab members enjoying a summer gathering in the Central Coast.
+subtitle: Beyersmann Lab members enjoying a summer gathering in the Central Coast.
 location: Central Coast, NSW
 date: 2022-02-10T18:00:35.648Z
 all_day: false
