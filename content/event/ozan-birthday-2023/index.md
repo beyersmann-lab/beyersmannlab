@@ -2,8 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-summary: null
 title: Ozan's Birthday
+summary: Happy birthday <a href="https://beyersmannlab.cogscience.org/author/ozan-caglar/" target="_blank">Ozan</a>!
+subtitle: Happy birthday <a href="https://beyersmannlab.cogscience.org/author/ozan-caglar/" target="_blank">Ozan</a>!
 location: Australian Hearing Hub, Macquarie University
 date: 2023-10-24T14:30:35.648Z
 all_day: false
