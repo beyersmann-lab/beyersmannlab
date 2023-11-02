@@ -2,8 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-summary: null
 title: Hasibe's Birthday
+summary: Happy birthday <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Hasibe Kahraman</a>!
+summary: Happy birthday <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Hasibe Kahraman</a>!
 location: Australian Hearing Hub, Macquarie University
 date: 2022-04-12T12:00:35.648Z
 all_day: false
