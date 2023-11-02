@@ -2,8 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-summary: null
 title: Lisi's Birthday
+summary: Happy birthday <a href="https://beyersmannlab.cogscience.org/author/dr.-elisabeth-lisi-beyersmann/" target="_blank">Lisi Beyersmann</a>!
+subtitle: Happy birthday <a href="https://beyersmannlab.cogscience.org/author/dr.-elisabeth-lisi-beyersmann/" target="_blank">Lisi Beyersmann</a>!
 location: Australian Hearing Hub, Macquarie University
 date: 2021-03-16T13:30:35.648Z
 all_day: false
