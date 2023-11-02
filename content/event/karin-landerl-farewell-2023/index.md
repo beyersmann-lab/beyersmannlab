@@ -2,8 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-summary: null
 title: Karin Landerl's Farewell
+summary: Bidding Professor Karin Landerl farewell after her lab visit at Macquarie University.
+subtitle: Bidding Professor Karin Landerl farewell after her lab visit at Macquarie University.
 location: Australian Hearing Hub, Macquarie University
 date: 2023-03-02T16:00:35.648Z
 all_day: false
