@@ -2,8 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-summary: null
 title: Esra's Graduation
+summary: Congratulations <a href="https://beyersmannlab.cogscience.org/author/esra-ataman/" target="_blank">Esra Ataman</a> for graduating with a Master of Research!
+subtitle: Congratulations <a href="https://beyersmannlab.cogscience.org/author/esra-ataman/" target="_blank">Esra Ataman</a> for graduating with a Master of Research!
 location: Graduation Lawn, Macquarie University
 date: 2023-03-16T10:30:35.648Z
 all_day: false
