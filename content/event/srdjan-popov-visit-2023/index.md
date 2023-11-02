@@ -2,8 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-summary: null
 title: Assistant Professor Srdjan Popov's Visit
+summary: Exploring Sydney with Assistant Professor Srdjan Popov, who attended a lab visit at Macquarie University.
+subtitle: Exploring Sydney with Assistant Professor Srdjan Popov, who attended a lab visit at Macquarie University.
 location: Patonga Beach, Patonga, NSW
 date: 2023-07-25T13:30:35.648Z
 all_day: false
