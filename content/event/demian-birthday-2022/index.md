@@ -2,8 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-summary: null
 title: Demian's Birthday
+summary: Happy birthday <a href="https://beyersmannlab.cogscience.org/author/demian-stoyanov/" target="_blank">Demian Stoyanov</a>!
+subtitle: Happy birthday <a href="https://beyersmannlab.cogscience.org/author/demian-stoyanov/" target="_blank">Demian Stoyanov</a>!
 location: Australian Hearing Hub, Macquarie University
 date: 2022-04-28T15:00:35.648Z
 all_day: false
