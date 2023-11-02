@@ -2,8 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-summary: null
-title: Anne Castle's Farewell
+title: Anne Castles's Farewell
+summary: Bidding farewell to Professor Anne Castles from her position as Scientific Director of the Macquarie University Centre for Reading.
+subtitle: Bidding farewell to Professor Anne Castles from her position as Scientific Director of the Macquarie University Centre for Reading.
 location: Ubar, Macquarie University
 date: 2023-05-18T17:00:35.648Z
 all_day: false
