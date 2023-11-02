@@ -2,8 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-summary: null
 title: Demian's Marriage Congratulations
+summary: Celebrating <a href="https://beyersmannlab.cogscience.org/author/demian-stoyanov/" target="_blank">Demian Stoyanov's</a> recent marriage.
+subtitle: Celebrating <a href="https://beyersmannlab.cogscience.org/author/demian-stoyanov/" target="_blank">Demian Stoyanov's</a> recent marriage.
 location: Australian Hearing Hub, Macquarie University
 date: 2022-11-10T12:00:35.648Z
 all_day: false
