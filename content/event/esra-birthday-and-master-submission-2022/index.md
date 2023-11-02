@@ -3,8 +3,8 @@ abstract: null
 slides: null
 url_pdf: ""
 title: Esra's Birthday and Master's Thesis Submission
-summary: Celebrating <a href="https://beyersmannlab.cogscience.org/author/esra-ataman/" target="_blank">Esra Ataman's</a> birthday and Master's thesis submission. Congratulations Esra!
-subtitle: Celebrating <a href="https://beyersmannlab.cogscience.org/author/esra-ataman/" target="_blank">Esra Ataman's</a> birthday and Master's thesis submission. Congratulations Esra!
+summary: Celebrating <a href="https://beyersmannlab.cogscience.org/author/esra-ataman/" target="_blank">Esra Ataman's</a> birthday and Master of Research thesis submission. Congratulations Esra!
+subtitle: Celebrating <a href="https://beyersmannlab.cogscience.org/author/esra-ataman/" target="_blank">Esra Ataman's</a> birthday and Master of Research thesis submission. Congratulations Esra!
 location: Australian Hearing Hub, Macquarie University
 date: 2022-06-03T16:00:35.648Z
 all_day: false
