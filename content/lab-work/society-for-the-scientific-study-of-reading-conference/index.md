@@ -39,6 +39,5 @@ url_code: ""
 <center><a href="https://beyersmannlab.cogscience.org/author/dr.-elisabeth-lisi-beyersmann/" target="_blank">Dr. Lisi Beyersmann</a> presents a new <a href="https://beyersmannlab.cogscience.org/project/Beyersmann-Grainger-WordAndAffixModel-2023.pdf" target="_blank">word and affix model (Beyersmann & Grainger, 2023)</a>, which shows word parts being processed separately during reading.</center> 
 <br/>
 <center><h1><a href="https://beyersmannlab.cogscience.org/author/demian-stoyanov/" target="_blank">Demian Stoyanov's</a> Poster Presentation</h1></center>
-<br/>
-<center>{{< figure src="featured.jpg" caption="" numbered="" >}}</center>
-<center>{{< figure src="featured2.jpg" caption="" numbered="" >}}</center>
+<br/> 
+<center>{{< gallery album="demian-SSSR-poster-presentation-2023" >}}</center>
