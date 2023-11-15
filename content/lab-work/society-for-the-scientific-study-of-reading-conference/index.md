@@ -40,4 +40,4 @@ url_code: ""
 <br/>
 <center><h1><a href="https://beyersmannlab.cogscience.org/author/demian-stoyanov/" target="_blank">Demian Stoyanov's</a> Poster Presentation</h1></center>
 <br/> 
-<center>{{< gallery album="demian-SSSR-poster-presentation-2023" >}}</center>
+<center>{{< gallery album="demian-sssr-poster-presentation-2023" >}}</center>
