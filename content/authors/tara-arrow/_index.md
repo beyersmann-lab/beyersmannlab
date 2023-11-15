@@ -1,6 +1,6 @@
 ---
 title: Tara Arrow
-role: Psychology Honours Student and Research Assistant
+role: Research Officer and Graduate of Psychology Honours
 avatar_filename: avatar.jpg
 social:
   - display:
@@ -29,4 +29,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-T﻿ara is completing her Bachelor of Psychology (Honours) at Macquarie University. For her Honours thesis, she is investigating how stem regularity and suffix type impact the naming of morphologically complex nonwords, under the supervision of Dr. Lisi Beyersmann. She has also been working as Dr. Lisi Beyersmann's research assistant since December, 2019. She has assisted with the design and implementation of eye tracking, reading aloud, lexical decision, learning, and spelling experiments. She has collected data in lab and online settings, and has assisted with data curation and editing for publications.
+Tara completed her Bachelor of Psychology (Honours) at Macquarie University in 2023. For her Honours thesis, she investigated how stem regularity and suffix type impact the naming of morphologically complex nonwords, under the supervision of Dr. Lisi Beyersmann. She has also been working as Dr. Lisi Beyersmann's research assistant since December 2019, becoming Dr. Beyersmann’s research officer in October 2023. She has assisted with the design and implementation of eye tracking, reading aloud, lexical decision, learning, and spelling experiments. She has collected data in lab and online settings, assisted with a grant application, and has co-authored several peer-reviewed articles.
