@@ -13,6 +13,9 @@ social:
     icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-8782-8649
+organizations:
+  - name: Macquarie University
+    url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
   - Researchers
