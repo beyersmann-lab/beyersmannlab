@@ -1,6 +1,6 @@
 ---
-title: Ali Behzadnia
-role: PhD Student
+title: Dr. Ali Behzadnia
+role: PhD Graduate
 avatar_filename: avatar.jpg
 social:
   - display:
