@@ -25,8 +25,8 @@ organizations:
     url: https://www.uni-potsdam.de/en/university-of-potsdam
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
-Ali obtained his BA in 2013 and MA in 2017 in Iran. For his master’s thesis, he investigated children’s interrogative suggestibility. In 2019, Ali started his PhD in the International Doctorate for Experimental Approaches to Language and Brain (IDEALAB) Program. He is completing his PhD under the supervision of Dr. Lisi Beyersmann at Macquarie University, Australia and Prof. Audrey Bürki at the University of Potsdam, Germany. 
+Ali obtained his BA in 2013 and MA in 2017 in Iran. For his master’s thesis, he investigated children’s interrogative suggestibility. In 2019, Ali started his PhD in the International Doctorate for Experimental Approaches to Language and Brain (IDEALAB) Program. He completed his PhD under the supervision of Dr. Lisi Beyersmann at Macquarie University, Australia and Prof. Audrey Bürki at the University of Potsdam, Germany. 
 
-Ali is interested in how words with different morphemes are learned and processed in a first and a second language. He is currently investigating novel word learning and processing in English as L1 and L2. Particularly, he is investigating learning and processing of written and orally trained morphologically complex words.
+Ali is interested in how words with different morphemes are learned and processed in a first and a second language. He has investigated novel word learning and processing in English as L1 and L2. Particularly, he has investigated learning and processing of written and orally trained morphologically complex words.
