@@ -318,7 +318,7 @@ content:
       align: left
       background:
         position: center
-        color: '#43D8C2'
+        color: '#60C3FC'
         brightness: 1
     - title: Null
       content: Null
