@@ -34,8 +34,8 @@ social:
     icon_pack: ai
     icon: osf
 organizations:
-  - name: School of Psychological Sciences, Macquarie University
-    url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences#:~:text=The%20School%20of%20Psychological%20Sciences,learning%20experience%20for%20enhanced%20employability.
+  - name: Macquarie University School of Psychological Sciences
+    url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
   - Principal Researcher
