@@ -8,6 +8,9 @@ social:
     link: mailto:dylan.mcleod@students.mq.edu.au
     icon_pack: fas
     icon: envelope
+organizations:
+  - url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
+    name: Macquarie University
 superuser: false
 user_groups:
   - Researchers
