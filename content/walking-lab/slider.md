@@ -313,4 +313,38 @@ content:
         brightness: 1
         media: central-courtyard-balcony-1.jpg
         fit: contain  
+    - title: Bush Tucker Garden
+      content: 8th of November 2023
+      align: left
+      background:
+        position: center
+        color: '#43D8C2'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: left
+      background:
+        position: center
+        color: '#60C3FC'
+        brightness: 1
+        media: bush-tucker-garden-again-1.jpg
+        fit: contain  
+    - title: Null
+      content: Null
+      align: left
+      background:
+        position: center
+        color: '#60C3FC'
+        brightness: 1
+        media: bush-tucker-garden-again-2.jpg
+        fit: contain  
+    - title: Null
+      content: Null
+      align: left
+      background:
+        position: center
+        color: '#60C3FC'
+        brightness: 1
+        media: bush-tucker-garden-again-3.jpg
+        fit: contain  
 ---
