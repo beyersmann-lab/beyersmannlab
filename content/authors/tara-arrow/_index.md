@@ -1,6 +1,6 @@
 ---
 title: Tara Arrow
-role: Research Officer and Graduate of Psychology Honours
+role: Research Officer and Psychology Honours Graduate
 avatar_filename: avatar.jpg
 social:
   - display:
