@@ -25,7 +25,9 @@ social:
     icon: linkedin
 organizations:
   - name: Macquarie University
+    url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
   - name: Ludwig-Maximilians-Universität
+    url: https://www.lmu.de/en/
 superuser: false
 user_groups:
   - Researchers
