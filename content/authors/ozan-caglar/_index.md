@@ -20,7 +20,9 @@ social:
     icon_pack: ai
 organizations:
   - name: Macquarie University
+    url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
   - name: Newcastle University (UK)
+    url: https://www.ncl.ac.uk/
 superuser: false
 user_groups:
   - Researchers
