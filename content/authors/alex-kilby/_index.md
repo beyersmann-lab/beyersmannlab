@@ -1,6 +1,6 @@
 ---
 title: Alex Kilby
-role: Psychology Honours Student
+role: Psychology Honours Graduate
 avatar_filename: avatar.jpg
 social:
   - display:
@@ -13,8 +13,8 @@ organizations:
     url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
-Alex is currently completing his Psychology Honours thesis under the supervision of Dr Lisi Beyersmann and PhD candidate Demian Stoyanov. In his thesis, Alex is using eye-tracking to investigate the rate at which emojis are integrated during reading. He is excited to contribute to an emerging field in research, as little is known about where emojis fit in with the reading process.
+Alex completed his Psychology Honours thesis under the supervision of Dr Lisi Beyersmann and PhD candidate Demian Stoyanov. In his thesis, Alex used eye-tracking to investigate the rate at which emojis are integrated during reading. He contributed to an emerging field in research, as little is known about where emojis fit in with the reading process.
 
-Alex is looking forward to a challenging yet rewarding year in his first major research project.
+Alex enjoyed a challenging yet rewarding year in his first major research project.
