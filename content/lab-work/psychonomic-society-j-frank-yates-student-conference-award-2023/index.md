@@ -32,5 +32,4 @@ image:
 url_code: ""
 ---
 
-<center>{{< figure src="psychonomic-society-j-frank-yates-student-conference-award-2023-1.jpg" caption="" numbered="" >}}</center>
-<center>{{< figure src="psychonomic-society-j-frank-yates-student-conference-award-2023-2.jpg" caption="" numbered="" >}}</center>
+<center>{{< gallery album="psychonomic-society-j-frank-yates-student-conference-award-2023" >}}</center>
