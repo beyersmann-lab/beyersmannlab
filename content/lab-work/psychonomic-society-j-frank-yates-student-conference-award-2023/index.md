@@ -32,4 +32,4 @@ image:
 url_code: ""
 ---
 
-<center>{{< figure src="featured.jpg" caption="" numbered="" >}}</center>
+<center>{{< gallery album="psychonomic-society-j-frank-yates-student-conference-award-2023" >}}</center>
