@@ -347,4 +347,20 @@ content:
         brightness: 1
         media: bush-tucker-garden-again-3.jpg
         fit: contain  
+    - title: Wally's Walk
+      content: 5th of December 2023
+      align: left
+      background:
+        position: center
+        color: '#FF0404'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: left
+      background:
+        position: center
+        color: '#FF0404'
+        brightness: 1
+        media: wallys-walk-1.jpg
+        fit: contain  
 ---
