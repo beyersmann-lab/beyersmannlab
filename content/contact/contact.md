@@ -16,9 +16,9 @@ content:
   # Contact (edit or remove options as required)
 
   email: lisi.beyersmann@mq.edu.au
-  phone: +61 2 9850 2976
+  phone: +61 (0)2 9850 2976
   address:
-    street: Australian Hearing Hub, 16 University Ave
+    street: School of Psychological Sciences
     city: Macquarie University
     region: NSW
     postcode: '2109'
