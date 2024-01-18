@@ -25,8 +25,8 @@ content:
     country: Australia
     country_code: AU
   coordinates:
-    latitude: '-33.77676'
-    longitude: '151.111949'
+    latitude: '-33.77467284271241' 
+    longitude: '151.113341022917'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
