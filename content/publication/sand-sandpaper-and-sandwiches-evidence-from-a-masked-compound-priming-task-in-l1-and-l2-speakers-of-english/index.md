@@ -1,6 +1,6 @@
 ---
-title: "Sand, Sandpaper, and Sandwiches: Evidence from a Masked Compound Priming
-  Task in L1 and L2 speakers of English"
+title: "Sand, sandpaper, and sandwiches: Evidence from a masked compound priming
+  task in L1 and L2 speakers of English"
 subtitle: "*Journal of Cognition* (in press)"
 publication_types:
   - "2"
