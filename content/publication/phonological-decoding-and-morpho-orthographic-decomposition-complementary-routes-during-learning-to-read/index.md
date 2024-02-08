@@ -11,7 +11,7 @@ authors:
   - E. Cavalli
   - J. Grainger
   - B. Lété
-publication_short: "*Scientific Studies of Reading* "
+publication_short: "*Scientific Studies of Reading* (in press)"
 abstract: >-
   Accepted on 17/01/2024.
 
