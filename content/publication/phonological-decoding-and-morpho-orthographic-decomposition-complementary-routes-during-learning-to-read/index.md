@@ -1,7 +1,7 @@
 ---
 title: "Phonological decoding and morpho-orthographic decomposition:
   Complementary routes during learning to read"
-subtitle: "*Scientific Studies of Reading* "
+subtitle: "*Scientific Studies of Reading* (in press)"
 publication_types:
   - "2"
 authors:
