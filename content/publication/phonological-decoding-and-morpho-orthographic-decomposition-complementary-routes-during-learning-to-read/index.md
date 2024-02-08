@@ -1,9 +1,9 @@
 ---
 title: "Phonological decoding and morpho-orthographic decomposition:
   Complementary routes during learning to read"
-subtitle: Pre-print. https://osf.io/preprints/psyarxiv/qeynj/download
+subtitle: "*Scientific Studies of Reading* "
 publication_types:
-  - "3"
+  - "2"
 authors:
   - B. Brossette
   - E. Lefèvre
@@ -11,8 +11,11 @@ authors:
   - E. Cavalli
   - J. Grainger
   - B. Lété
-publication_short: Pre-print
+publication_short: "*Scientific Studies of Reading* "
 abstract: >-
+  Accepted on 17/01/2024.
+
+
   We examined the reliance on phonological decoding and morpho-orthographic
 
   decomposition strategies in developing and skilled readers of French. A lexical decision
@@ -48,6 +51,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "2023"
-date: 2023-12-28T01:44:31.716Z
+summary: "2024"
+date: 2024-01-17T01:44:31.716Z
 ---
