@@ -363,4 +363,20 @@ content:
         brightness: 1
         media: wallys-walk-1.jpg
         fit: contain  
+    - title: Arts Precinct Cafe
+      content: 13th of February 2024
+      align: left
+      background:
+        position: center
+        color: '#FFFF3F'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: left
+      background:
+        position: center
+        color: '#FFFF3F'
+        brightness: 1
+        media: arts-precinct-cafe-1.jpg
+        fit: contain  
 ---
