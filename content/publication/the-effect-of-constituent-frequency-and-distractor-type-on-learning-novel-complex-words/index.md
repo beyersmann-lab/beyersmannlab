@@ -1,7 +1,7 @@
 ---
 title: The effect of constituent frequency and distractor type on learning novel
   complex words
-subtitle: "*Language, Cognition and Neuroscience*.
+subtitle: "*Language, Cognition and Neuroscience*, *39*(2).
   https://doi.org/10.1080/23273798.2023.2263590"
 publication_types:
   - "2"
@@ -11,7 +11,8 @@ authors:
   - S. Dufau
   - C. Fournet
   - J. C. Ziegler
-publication_short: "*Language, Cognition and Neuroscience*"
+publication: "*Language, Cognition and Neuroscience*, *39*(2)"
+publication_short: ""
 abstract: The present study explored the role of constituent frequency and
   distractor type in complex word learning. Skilled readers were trained to
   associate novel letter strings with one out of two pictures, with one picture
