@@ -368,14 +368,14 @@ content:
       align: left
       background:
         position: center
-        color: '#FFFF3F'
+        color: '#3CD407'
         brightness: 1
     - title: Null
       content: Null
       align: left
       background:
         position: center
-        color: '#FFFF3F'
+        color: '#3CD407'
         brightness: 1
         media: arts-precinct-cafe-1.jpg
         fit: contain  
