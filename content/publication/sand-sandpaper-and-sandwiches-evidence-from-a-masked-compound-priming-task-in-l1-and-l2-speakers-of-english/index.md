@@ -24,11 +24,8 @@ abstract: >
   during  the  early  stages  of  compound  processing,  whereas  L2  speakers,  in  particular  those
   with lower levels of language proficiency, employ a form-based type of
   analysis.
-  Findings  are  interpreted  within  the  framework  of  recent  monolingual  and  bilingual  models
-  of complex word recognition.HASIBE KAHRAMAN ELISABETH BEYERSMANN *Author
-  affiliations can be found in the back matter of this articleSand, Sandpaper,
-  and Sandwiches: Evidence From a Masked Compound Priming Task in L1 and L2
-  Speakers of English
+  Findings  are  interpreted  within  the  framework  of  recent  monolingual  and  bilingual
+  models of complex word recognition.
 draft: false
 featured: false
 image:
