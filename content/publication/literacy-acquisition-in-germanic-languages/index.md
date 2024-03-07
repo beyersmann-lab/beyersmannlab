@@ -8,7 +8,7 @@ authors:
   - K. Landerl
   - E. Beyersmann
 publication: In D. Meletis, M. Evertz-Rittich, & R. Treiman (Eds.), *Handbook of
-  Germanic writing systems*. De Gruyter
+  Germanic writing systems*. De Gruyter (In press)
 abstract: In press.
 draft: false
 featured: false
