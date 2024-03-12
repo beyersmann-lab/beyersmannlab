@@ -5,11 +5,6 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: mailto:tara.arrow@mq.edu.au
-    icon_pack: fas
-    icon: envelope
-  - display:
-      header: false
     link: https://scholar.google.com/citations?user=qHj5nYYAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
