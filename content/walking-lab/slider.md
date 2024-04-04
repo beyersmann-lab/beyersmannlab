@@ -379,4 +379,20 @@ content:
         brightness: 1
         media: arts-precinct-cafe-1.jpg
         fit: contain  
+    - title: Michael Kirby Law Building, Macquarie Law School
+      content: 21st of March 2024
+      align: left
+      background:
+        position: center
+        color: '#F3F3D6'
+        brightness: 1
+    - title: Null
+      content: Null
+      align: left
+      background:
+        position: center
+        color: '#F3F3D6'
+        brightness: 1
+        media: michael-kirby-law-building-1.jpg
+        fit: contain  
 ---
