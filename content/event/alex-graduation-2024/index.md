@@ -3,8 +3,8 @@ abstract: null
 slides: null
 url_pdf: ""
 title: Alex's Graduation
-summary: Congratulations <a href="https://beyersmannlab.cogscience.org/author/alex-kilby/" target="_blank">Alex Kilby</a> for graduating with a Bachelor of Psychology (Honours)!
-subtitle: Congratulations <a href="https://beyersmannlab.cogscience.org/author/alex-kilby/" target="_blank">Alex Kilby</a> for graduating with a Bachelor of Psychology (Honours)!
+summary: Congratulations <a href="https://beyersmannlab.cogscience.org/author/alex-kilby/" target="_blank">Alex Kilby</a> for graduating with a Bachelor of Psychology (Honours) Class 1 and receiving the Macquarie University Award for Academic Excellence!
+subtitle: ongratulations <a href="https://beyersmannlab.cogscience.org/author/alex-kilby/" target="_blank">Alex Kilby</a> for graduating with a Bachelor of Psychology (Honours) Class 1 and receiving the Macquarie University Award for Academic Excellence!
 location: Graduation Lawn, Macquarie University
 date: 2024-03-18T16:00:35.648Z
 all_day: false
