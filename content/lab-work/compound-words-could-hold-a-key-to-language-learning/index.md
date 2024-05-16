@@ -35,6 +35,7 @@ url_code: ""
 <center>{{< figure src="featured.jpg" caption="" numbered="" >}}</center>
 <strong></strong>A new study has found bilingual readers approach compound words like ‘sandpaper’ and ‘snowball’ in different ways from native English speakers, offering potential insights in how we can learn languages more effectively.</strong>
 <br/>
+<br/>
 <a href="https://journalofcognition.org/articles/10.5334/joc.350" target="_blank">The study</a>, published in the *Journal of Cognition* by researchers from the Macquarie University School of Psychological Sciences, looked at the complexities of compound word processing for people who spoke only English compared to those who spoke both Chinese and English. Participants from the two language groups were asked to read English words like ‘honeymoon’ and ‘honey’, and decide if the smaller component was a real word.
 <br/>
 The compound words were a mix of transparent compounds (which derive their meaning from both parts of the word, like ‘snowball’), opaque compounds (where the meaning cannot necessarily be guessed from the root words, like ‘honeymoon’) and orthographic forms (which happen to include a smaller word that does not contribute to meaning, in the way ‘sand’ can be seen in ‘sandwich’).
