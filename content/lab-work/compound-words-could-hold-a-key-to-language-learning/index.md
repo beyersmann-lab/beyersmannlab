@@ -3,7 +3,7 @@ abstract: null
 slides: null
 url_pdf: ""
 summary: null
-title: Article Published on Macquarie University's News Hub - Compound Words Could Hold a Key to Language Learning
+title: Compound Words Could Hold a Key to Language Learning
 subtitle: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> and <a href="https://beyersmannlab.cogscience.org/author/dr.-elisabeth-lisi-beyersmann/" target="_blank">Dr. Lisi Beyersmann's</a> compound word research was featured on Macquarie University's News Hub (2 April 2024).
 summary: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> and <a href="https://beyersmannlab.cogscience.org/author/dr.-elisabeth-lisi-beyersmann/" target="_blank">Dr. Lisi Beyersmann's</a> compound word research was featured on Macquarie University's News Hub (2 April 2024).
 location: null
