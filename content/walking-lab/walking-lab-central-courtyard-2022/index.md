@@ -3,8 +3,8 @@ abstract: null
 slides: null
 url_pdf: ""
 title: Central Courtyard
-summary: Our First Walking Lab Meeting to Central Courtyard, the 'Heart' of Wallumattagal Campus.
-subtitle: Our First Walking Lab Meeting to Central Courtyard, the 'Heart' of Wallumattagal Campus.
+summary: Our first walking lab meeting to Central Courtyard, the 'heart' of Wallumattagal Campus.
+subtitle: Our first walking lab meeting to Central Courtyard, the 'heart' of Wallumattagal Campus.
 location: Central Courtyard, Macquarie University
 date: 2022-05-12T15:00:35.648Z
 all_day: false
