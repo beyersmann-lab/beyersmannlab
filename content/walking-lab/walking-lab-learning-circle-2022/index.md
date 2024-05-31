@@ -2,7 +2,7 @@
 abstract: null
 slides: null
 url_pdf: ""
-title: The Learning Circle and Macquarie Lake - 13 October 2022
+title: Learning Circle and Macquarie Lake - 13 October 2022
 summary: The Learning Circle honours the Dharug people, who are the traditional owners of Macquarie University's lands. It provides a culturally safe space for gathering and sharing knowledge, as Aboriginal and Torres Strait Islander peoples have done for tens of thousands of years.
 subtitle: The Learning Circle honours the Dharug people, who are the traditional owners of Macquarie University's lands. It provides a culturally safe space for gathering and sharing knowledge, as Aboriginal and Torres Strait Islander peoples have done for tens of thousands of years.
 location: The Learning Circle and Macquarie Lake, Macquarie University
