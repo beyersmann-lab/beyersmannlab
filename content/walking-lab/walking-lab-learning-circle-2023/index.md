@@ -3,8 +3,8 @@ abstract: null
 slides: null
 url_pdf: ""
 title: Learning Circle - 11 May 2023
-summary: The Learning Circle honours the Dharug people, who are the traditional owners of Macquarie University’s lands. It provides a culturally safe space for gathering and sharing knowledge, as Aboriginal and Torres Strait Islander peoples have done for tens of thousands of years.
-subtitle: The Learning Circle honours the Dharug people, who are the traditional owners of Macquarie University’s lands. It provides a culturally safe space for gathering and sharing knowledge, as Aboriginal and Torres Strait Islander peoples have done for tens of thousands of years.
+summary: The Learning Circle honours the Dharug people, the traditional owners of Macquarie University's lands. It serves as a culturally safe environment for gathering and sharing knowledge, a practice ingrained in Aboriginal and Torres Strait Islander cultures for tens of thousands of years.
+subtitle: The Learning Circle honours the Dharug people, the traditional owners of Macquarie University's lands. It serves as a culturally safe environment for gathering and sharing knowledge, a practice ingrained in Aboriginal and Torres Strait Islander cultures for tens of thousands of years.
 location: Learning Circle, Macquarie University
 date: 2023-04-11T15:00:35.648Z
 all_day: false
