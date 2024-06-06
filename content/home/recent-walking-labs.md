@@ -17,7 +17,7 @@ content:
     tag: ''
   offset: 0
   order: desc
-  page_type: lab-work
+  page_type: walking-lab
 design:
   view: compact
   flip_alt_rows: true
