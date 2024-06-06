@@ -2,7 +2,7 @@
 abstract: null
 slides: null
 url_pdf: ""
-title: Meeting Karin Landerl
+title: Meeting Professor Karin Landerl
 summary: Greeting Professor Karin Landerl for her lab visit at Macquarie University.
 subtitle: Greeting Professor Karin Landerl for her lab visit at Macquarie University.
 location: Australian Hearing Hub, Macquarie University
