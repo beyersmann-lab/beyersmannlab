@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 50
+weight: 60
 
 title: Recent Events
 subtitle:
