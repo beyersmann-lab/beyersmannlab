@@ -1,6 +1,6 @@
 ---
 title: Dr. Hasibe Kahraman
-role: PhD Student
+role: Postdoc
 avatar_filename: avatar.jpg
 social:
   - display:
