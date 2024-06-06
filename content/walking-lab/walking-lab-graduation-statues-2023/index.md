@@ -2,10 +2,10 @@
 abstract: null
 slides: null
 url_pdf: ""
-title: Graduation Sculptures - 2 March 2023
-summary: null
-subtitle: null
-location: Graduation Sculptures, Macquarie University
+title: Graduation Statues - 2 March 2023
+summary: Make the most of a sunny autumn day by visiting the iconic graduation statues at Macquarie University, a popular backdrop for many graduates' photos.
+subtitle: Make the most of a sunny autumn day by visiting the iconic graduation statues at Macquarie University, a popular backdrop for many graduates' photos.
+location: Graduation Statues, Macquarie University
 date: 2023-03-02T15:00:35.648Z
 all_day: false
 event: null
