@@ -2,7 +2,7 @@
 abstract: null
 slides: null
 url_pdf: ""
-title: Signy Wegener's Farewell
+title: Dr Signy Wegener's Farewell
 summary: Bidding Dr Signy Wegener farewell from her position at Macquarie University's School of Psychological Sciences.
 subtitle: Bidding Dr Signy Wegener farewell from her position at Macquarie University's School of Psychological Sciences.
 location: Australian Hearing Hub, Macquarie University
