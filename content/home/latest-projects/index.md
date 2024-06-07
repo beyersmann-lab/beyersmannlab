@@ -8,7 +8,7 @@ title: Latest Projects
 subtitle:
 
 content:
-  count: 3
+  count: 5
   filters:
     author: ''
     category: ''
