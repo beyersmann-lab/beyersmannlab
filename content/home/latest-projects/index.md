@@ -17,7 +17,7 @@ content:
     tag: ''
   offset: 0
   order: desc
-  page_type: projects
+  page_type: project
 design:
   view: citation
   columns: '1'
