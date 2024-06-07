@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: project
 design:
-  view: citation
+  view: compact
   columns: '1'
 ---
