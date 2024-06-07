@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: project
 design:
-  view: compact
+  view: list
   columns: '1'
 ---
