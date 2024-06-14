@@ -2,9 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-title: Dr Jonathan Grainger's Festschrift
-summary: Celebrating Dr Jonathan Grainger's impressive academic career.
-subtitle: Celebrating Dr Jonathan Grainger's impressive academic career.
+title: Professor Jonathan Grainger's Festschrift
+summary: Celebrating Professor Jonathan Grainger's impressive academic career.
+subtitle: Celebrating Professor Jonathan Grainger's impressive academic career.
 location: Aix-en-Provence, France
 date: 2023-06-07T13:00:35.648Z
 all_day: false
