@@ -3,8 +3,8 @@ abstract: null
 slides: null
 url_pdf: ""
 title: International Doctorate for Experimental Approaches to Language And Brain (IDEALAB) Winter School
-summary: <a href="https://beyersmannlab.cogscience.org/author/dr.-elisabeth-lisi-beyersmann/" target="_blank">Dr. Lisi Beyersmann</a> attended the <a href="https://phd-idealab.com/" target="_blank">IDEALAB</a> winter school in Groningen, Netherlands, with Assistant Professor Srdjan Popov, Assistant Professor Sebastiaan Mathot, and Dr. Christos Salis.
-subtitle: <a href="https://beyersmannlab.cogscience.org/author/dr.-elisabeth-lisi-beyersmann/" target="_blank">Dr. Lisi Beyersmann</a> attended the <a href="https://phd-idealab.com/" target="_blank">IDEALAB</a> winter school in Groningen, Netherlands, with Assistant Professor Srdjan Popov, Assistant Professor Sebastiaan Mathot, and Dr. Christos Salis.
+summary: <a href="https://beyersmannlab.cogscience.org/author/dr.-elisabeth-lisi-beyersmann/" target="_blank">Dr. Lisi Beyersmann</a> attended the <a href="https://phd-idealab.com/" target="_blank">IDEALAB</a> winter school in Groningen, Netherlands, with Assistant Professor Srdjan Popov, Assistant Professor Sebastiaan Mathot, and Dr. Christos Salis (7 April 2024).
+subtitle: <a href="https://beyersmannlab.cogscience.org/author/dr.-elisabeth-lisi-beyersmann/" target="_blank">Dr. Lisi Beyersmann</a> attended the <a href="https://phd-idealab.com/" target="_blank">IDEALAB</a> winter school in Groningen, Netherlands, with Assistant Professor Srdjan Popov, Assistant Professor Sebastiaan Mathot, and Dr. Christos Salis (7 April 2024).
 location: Groningen, Netherlands
 date: 2024-04-07T11:30:35.648Z
 all_day: false
