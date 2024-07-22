@@ -1,7 +1,7 @@
 ---
 title: Jasmine Spencer
 role: PhD Student
-avatar_filename: avatar.jpg
+avatar_filename: ""
 social:
   - display:
       header: false
