@@ -1,6 +1,6 @@
 ---
 title: Katherine Ko
-role: PhD Student
+role: PhD Graduate
 avatar_filename: avatar.jpg
 social:
   - display:
@@ -33,7 +33,7 @@ organizations:
     name: Macquarie University
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
 **Research Interests**
 
