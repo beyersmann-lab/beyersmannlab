@@ -22,7 +22,7 @@ organizations:
     url: https://www.unifr.ch/home/en/
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
 **Research Interests**
 
