@@ -4,4 +4,4 @@ subtitle: If you are interested in enrolling in our joint PhD program, the Inter
 
 ---
 
-<center>{{< figure src="featured1.jpg" caption="" numbered="" >}}</center>
+
