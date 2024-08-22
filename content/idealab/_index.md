@@ -8,4 +8,3 @@ banner:
   image: ''
 ---
 
-<center>{{< figure src="featured.jpg" caption="" numbered="" >}}</center>
