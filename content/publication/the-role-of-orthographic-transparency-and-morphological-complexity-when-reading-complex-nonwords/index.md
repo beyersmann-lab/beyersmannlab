@@ -1,5 +1,5 @@
 ---
-title: The role of orthographic transparency and morphological complexity when reading complex nonwords: Evidence from English and Italian
+title: "The role of orthographic transparency and morphological complexity when reading complex nonwords: Evidence from English and Italian"
 subtitle: "*Scientific Studies of Reading*."
 publication_types:
   - "2"
@@ -8,7 +8,7 @@ authors:
   - K. Moll
   - E. Beyersmann
 publication: "*Scientific Studies of Reading*"
-abstract: Accepted on 26/09/24.
+abstract: "Accepted on 26/09/24."
 draft: false
 featured: false
 image:
