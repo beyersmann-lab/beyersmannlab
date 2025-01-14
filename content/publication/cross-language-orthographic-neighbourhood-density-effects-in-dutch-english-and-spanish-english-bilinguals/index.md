@@ -1,7 +1,7 @@
 ---
 title: Cross-language orthographic neighbourhood density effects in
   Dutch-English and Spanish-English bilinguals
-subtitle: "*Frontiers in Language Sciences*, *3*.
+subtitle: "*Frontiers in Language Sciences*, *3*, Article 1482861.
   https://doi.org/10.3389/flang.2024.1482861"
 publication_types:
   - "2"
@@ -12,7 +12,7 @@ authors:
   - C. Macapagal
   - A. Rosevear
   - W. Marinovic
-publication: "*Frontiers in Language Sciences*, *3*"
+publication: "*Frontiers in Language Sciences*, *3*,  Article 1482861"
 abstract: "Processing a word in a second language (L2) may be hindered or helped
   by the simultaneous activation of similar words present in L2 and in addition
   by similar words that occur in the first language (L1). Precise mechanisms for
