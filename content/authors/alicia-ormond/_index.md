@@ -16,4 +16,4 @@ superuser: false
 user_groups:
   - Alumni
 ---
-Alicia graduated with an MRes from Macquarie University's School of Psychological Sciences. Her research looked at the influence of spoken word knowledge on learning to read novel words, particularly the set for variability (or mispronunciation correction) of irregular words, under the supervision of Dr. Elisabeth Beyersmann.
+Alicia graduated with an MRes from Macquarie University's School of Psychological Sciences. Her research looked at the influence of spoken word knowledge on learning to read novel words, particularly the set for variability (or mispronunciation correction) of irregular words, under the supervision of Dr Elisabeth Beyersmann.
