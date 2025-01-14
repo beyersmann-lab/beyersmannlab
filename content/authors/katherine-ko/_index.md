@@ -43,7 +43,7 @@ Katherine’s research focuses on the physiological correlates of anxiety in chi
 
 *Education*
 
-Katherine completed a Bachelor of Psychology and a Master of Clinical Psychology (Summa Cum Laude) at the University of Santo Tomas in the Philippines. She commenced her combined PhD/Master of Clinical Neuropsychology in Macquarie University in 2020 with an International Macquarie University Research Excellence Scholarship. Katherine is currently supervised by Dr. Carly Johnco and Dr. Lisi Beyersmann with the support of Professor Genevieve McArthur. Her research involves the recording of physiological measures (e.g., heart rate, skin conductance) as individuals engage in a range of reading and social stress tasks.
+Katherine completed a Bachelor of Psychology and a Master of Clinical Psychology (Summa Cum Laude) at the University of Santo Tomas in the Philippines. She commenced her combined PhD/Master of Clinical Neuropsychology in Macquarie University in 2020 with an International Macquarie University Research Excellence Scholarship. Katherine is currently supervised by Dr Carly Johnco and Associate Professor Lisi Beyersmann with the support of Professor Genevieve McArthur. Her research involves the recording of physiological measures (e.g., heart rate, skin conductance) as individuals engage in a range of reading and social stress tasks.
 
 *Employment*
 
