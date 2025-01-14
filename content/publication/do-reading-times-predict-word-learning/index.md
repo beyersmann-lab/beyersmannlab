@@ -8,7 +8,7 @@ authors:
   - N. Kemp
   - S. Wegener
   - E. Beyersmann
-publication: "*Studies in Second Language Acquisition* (In Press)"
+publication: "*Studies in Second Language Acquisition* (in press)"
 abstract: In press.
 draft: false
 featured: false
