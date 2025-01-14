@@ -10,7 +10,7 @@ authors:
   - A. von Hagen
   - S. Kohnen
   - S. Wegener
-  - K. Katherine
+  - K. Ko
   - E. Beyersmann
   - A. Behzadnia
   - R. Parrila
