@@ -36,7 +36,7 @@ url_code: ""
 <br/>
 <center><a href="https://www.spelfabet.com.au/2023/07/society-for-the-scientific-study-of-reading-conference-day-1/" target="_blank">Society for the Scientific Study of Reading (SSSR) Conference Presentations</a></center> 
 <center>{{< figure src="featured3.jpg" caption="" numbered="" >}}</center>
-<center><a href="https://beyersmannlab.cogscience.org/author/dr.-elisabeth-lisi-beyersmann/" target="_blank">Dr. Lisi Beyersmann</a> presents a new <a href="https://beyersmannlab.cogscience.org/project/Beyersmann-Grainger-WordAndAffixModel-2023.pdf" target="_blank">word and affix model (Beyersmann & Grainger, 2023)</a>, which shows word parts being processed separately during reading.</center> 
+<center><a href="https://beyersmannlab.cogscience.org/author/associate-professor-elisabeth-lisi-beyersmann/" target="_blank"> Associate Professor Lisi Beyersmann</a> presents a new <a href="https://beyersmannlab.cogscience.org/project/Beyersmann-Grainger-WordAndAffixModel-2023.pdf" target="_blank">word and affix model (Beyersmann & Grainger, 2023)</a>, which shows word parts being processed separately during reading.</center> 
 <br/>
 <center><h1><a href="https://beyersmannlab.cogscience.org/author/demian-stoyanov/" target="_blank">Demian Stoyanov's</a> Poster Presentation</h1></center>
 <br/> 
