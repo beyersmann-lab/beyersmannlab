@@ -1,5 +1,5 @@
 ---
-title: Dr. Elisabetta De Simone
+title: Dr Elisabetta De Simone
 role: PhD Graduate
 avatar_filename: avatar.jpg
 social:
