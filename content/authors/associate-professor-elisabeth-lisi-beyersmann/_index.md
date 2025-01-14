@@ -1,6 +1,6 @@
 ---
 title: Associate Professor Elisabeth (Lisi) Beyersmann
-role: Teaching and Research Academic (Senior Lecturer)
+role: Associate Professor
 avatar_filename: avatar.jpg
 social:
   - display:
@@ -42,7 +42,7 @@ user_groups:
 ---
 **R﻿esearch Interests**
 
-Lisi is a cognitive scientist who is interested in how the human mind processes words, with a particular focus on units that carry meaning (“morphemes”). Besides her focus on rapid, automatic reading mechanisms in adults, she is also interested in how children learn to read, when during reading development word processing becomes more intuitive and automatized, and how reading and word retrieval skills change within the ageing population.
+Associate Professor Elisabeth (Lisi) Beyersmann is a cognitive scientist who is interested in how the human mind processes words, with a particular focus on units that carry meaning (“morphemes”). Besides her focus on rapid, automatic reading mechanisms in adults, she is also interested in how children learn to read, when during reading development word processing becomes more intuitive and automatized, and how reading and word retrieval skills change within the ageing population.
 
 **B﻿iography**
 
@@ -52,7 +52,7 @@ Lisi completed a Bachelor of Science with a major in Computational Linguistics a
 
 She then commenced a Master of Science degree at the University of Stuttgart in 2003, while shifting her research focus to Psycholinguistics. Her Masters project was hosted by Prof Friedemann Pulvermueller at the *University of Cambridge, UK*, where she spent most of 2005. She used the recordings of event-related potentials (ERPs) to investigate rapid, spoken language processing in the brain, and completed her degree in 2006.
 
-In 2007, Lisi moved to Australia to undertake a PhD in Cognitive Science at *Macquarie University* under the supervision of Prof Anne Castles and Prof Max Coltheart. Her PhD project focussed on understanding how children and adults rapidly read words that contain multiple morphemes (e.g. un-pack-ing) using experimental methods such as lexical decision and masked priming.
+In 2007, Lisi moved to Australia to undertake a PhD in Cognitive Science at *Macquarie University* under the supervision of Professor Anne Castles and Emeritus Professor Max Coltheart. Her PhD project focussed on understanding how children and adults rapidly read words that contain multiple morphemes (e.g. un-pack-ing) using experimental methods such as lexical decision and masked priming.
 
 *E﻿mployment*
 
@@ -62,4 +62,4 @@ She spent 3.5 years (2013-2016) as a postdoctoral research fellow within the Cog
 
 In October 2016, she moved back to Australia to take up a 3-year full-time Macquarie University Research Fellowship (MQRF), followed by a 3-year full-time ARC Discovery Early Career Researcher Award (DECRA). 
 
-She is currently employed as a Senior Lecturer at the School of Psychological Sciences (formerly the Department of Cognitive Science) at *Macquarie University*.
+She was as a Senior Lecturer at *Macquarie University's* School of Psychological Sciences (formerly the Department of Cognitive Science), becoming an Associate Professor in 2025.
