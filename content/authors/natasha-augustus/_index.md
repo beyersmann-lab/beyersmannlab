@@ -17,4 +17,4 @@ user_groups:
 ---
 Natasha is currently undertaking her honours coursework for her Bachelor of Business Administration and Bachelor of Psychology (Honours) at Macquarie University, with expected completion in 2024. 
 
-Natasha is completing her Psychology Honours thesis under the supervision of Dr. Lisi Beyersmann and PhD candidate Alessia Rossetto. In her thesis, Natasha is utilising the read aloud method to investigate the effect of word legality and interpretability on reading.
+Natasha is completing her Psychology Honours thesis under the supervision of Associate Professor Lisi Beyersmann and PhD candidate Alessia Rossetto. In her thesis, Natasha is utilising the read aloud method to investigate the effect of word legality and interpretability on reading.
