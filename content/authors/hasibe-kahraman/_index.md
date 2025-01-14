@@ -1,5 +1,5 @@
 ---
-title: Dr. Hasibe Kahraman
+title: Dr Hasibe Kahraman
 role: Postdoc
 avatar_filename: avatar.jpg
 social:
@@ -37,7 +37,7 @@ user_groups:
 ---
 **Research Interests**
 
-Hasibe’s research focusses on the cognitive mechanisms involved in the process of lexical access. What are the processes that are necessary to successfully read written words? For instance, recognising a complex word such as “*farmer*” is more than simply putting the individual letters together—it requires complex cognitive mechanisms of orthographic and morphemic processing and lexical activation. Her current work addresses this issue on visual word recognition with a particular focus on mechanisms of cross-language morphological transfer between bilinguals’ two languages.
+Dr Hasibe Kahraman’s research focusses on the cognitive mechanisms involved in the process of lexical access. What are the processes that are necessary to successfully read written words? For instance, recognising a complex word such as “*farmer*” is more than simply putting the individual letters together—it requires complex cognitive mechanisms of orthographic and morphemic processing and lexical activation. Her current work addresses this issue on visual word recognition with a particular focus on mechanisms of cross-language morphological transfer between bilinguals’ two languages.
 
 **Biography** 
 
@@ -45,9 +45,9 @@ Hasibe’s research focusses on the cognitive mechanisms involved in the process
 
 Hasibe’s academic background includes theoretical study, research, and teaching practice. She completed her Bachelor of Arts summa cum laude in 2010 at Başkent University, Turkey during which she received “Excellence in Higher Education” scholarship from the Ministry of National Education, Turkey for 4 years. She then earned her MSc with a thesis in Measurement and Evaluation in Psychology and Education at Hacettepe University, Turkey in 2012 summa cum laude.
 
-In 2015, Hasibe commenced her Ph.D. at METU, Turkey where she was given wide-ranging interdisciplinary education in two different tracks: Linguistics and Language Education. Here, she got the key insights into Theoretical Linguistics, Psycholinguistics, Applied Linguistics, Teacher Education, Language Testing, Second Language Acquisition as well as Psychology of Reading which interested her the most. Therefore, in her Ph.D. thesis supervised by Prof. Bilal Kırkıcı, she examined the lexical access during first and second language reading and used a new approach that tested discrete subskills in participants’ reading networks. During the last 2 years of her Ph.D., she was hosted by Dr. Elisabeth Beyersmann and Prof. Anne Castles as a visiting scholar for the purposes of data collection from L1 English speakers at Macquarie University, which was funded by Scientific and Technological Research Council of Turkey.
+In 2015, Hasibe commenced her Ph.D. at METU, Turkey where she was given wide-ranging interdisciplinary education in two different tracks: Linguistics and Language Education. Here, she got the key insights into Theoretical Linguistics, Psycholinguistics, Applied Linguistics, Teacher Education, Language Testing, Second Language Acquisition as well as Psychology of Reading which interested her the most. Therefore, in her Ph.D. thesis supervised by Prof. Bilal Kırkıcı, she examined the lexical access during first and second language reading and used a new approach that tested discrete subskills in participants’ reading networks. During the last 2 years of her Ph.D., she was hosted by Associate Professor Elisabeth Beyersmann and Professor Anne Castles as a visiting scholar for the purposes of data collection from L1 English speakers at Macquarie University, which was funded by Scientific and Technological Research Council of Turkey.
 
-In 2021, Hasibe started her second Ph.D. program at Cognitive Science, Macquarie University, Australia with an International Macquarie University Research Excellence Scholarship. She is also a student member of Macquarie University Centre for Reading (MQCR). Currently, she is investigating cross-language morphological transfer between a bilingual’s two languages. Her research uses behavioural measures and the recording of event-related brain potentials (ERPs) within a cross-language morphological priming study and is supervised by Dr. Elisabeth Beyersmann and Dr. Bianca De Wit. 
+In 2021, Hasibe started her second Ph.D. program at Cognitive Science, Macquarie University, Australia with an International Macquarie University Research Excellence Scholarship. She is also a student member of Macquarie University Centre for Reading (MQCR). Currently, she is investigating cross-language morphological transfer between a bilingual’s two languages. Her research uses behavioural measures and the recording of event-related brain potentials (ERPs) within a cross-language morphological priming study and is supervised by Associate Professor Elisabeth Beyersmann and Dr Bianca De Wit. 
 
 *Employment*
 
