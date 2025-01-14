@@ -3,8 +3,8 @@ abstract: null
 slides: null
 url_pdf: ""
 title: Hasibe's PhD Submission Party
-summary: Celebrating the submission of <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman's</a> PhD. A big congratulations to Hasibe!
-subtitle: Celebrating the submission of <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman's</a> PhD. A big congratulations to Hasibe!
+summary: Celebrating the submission of <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr Hasibe Kahraman's</a> PhD. A big congratulations to Hasibe!
+subtitle: Celebrating the submission of <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr Hasibe Kahraman's</a> PhD. A big congratulations to Hasibe!
 location: Australian Hearing Hub, Macquarie University
 date: 2024-05-16T16:30:35.648Z
 all_day: false
