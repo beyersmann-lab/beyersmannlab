@@ -4,8 +4,8 @@ slides: null
 url_pdf: ""
 summary: null
 title: Compound Words Could Hold a Key to Language Learning
-subtitle: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> and <a href="https://beyersmannlab.cogscience.org/author/associate-professor-elisabeth-lisi-beyersmann/" target="_blank">Associate Professor Lisi Beyersmann's</a> compound word research was featured on Macquarie University's News Hub (2 April 2024).
-summary: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> and <a href="https://beyersmannlab.cogscience.org/author/associate-professor-elisabeth-lisi-beyersmann/" target="_blank">Associate Professor Lisi Beyersmann's</a> compound word research was featured on Macquarie University's News Hub (2 April 2024).
+subtitle: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr Hasibe Kahraman</a> and <a href="https://beyersmannlab.cogscience.org/author/associate-professor-elisabeth-lisi-beyersmann/" target="_blank">Associate Professor Lisi Beyersmann's</a> compound word research was featured on Macquarie University's News Hub (2 April 2024).
+summary: <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr Hasibe Kahraman</a> and <a href="https://beyersmannlab.cogscience.org/author/associate-professor-elisabeth-lisi-beyersmann/" target="_blank">Associate Professor Lisi Beyersmann's</a> compound word research was featured on Macquarie University's News Hub (2 April 2024).
 location: null
 date: 2024-04-02T09:00:35.648Z
 all_day: false
