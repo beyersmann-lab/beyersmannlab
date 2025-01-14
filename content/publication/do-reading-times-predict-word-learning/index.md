@@ -1,6 +1,6 @@
 ---
-title: "Do reading times predict word learning? An eye-tracking study with novel words."
-subtitle: "*Studies in Second Language Acquisition* (In Press)"
+title: Do reading times predict word learning? An eye-tracking study with novel words
+subtitle: "*Studies in Second Language Acquisition* (in press)"
 publication_types:
   - "2"
 authors:
@@ -9,7 +9,7 @@ authors:
   - S. Wegener
   - E. Beyersmann
 publication: "*Studies in Second Language Acquisition* (In Press)"
-abstract: "In press."
+abstract: In press.
 draft: false
 featured: false
 image:
