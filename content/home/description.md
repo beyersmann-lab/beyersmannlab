@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 # Section title
-title: Beyersmann Lab
+title: Beyersmann Reading Lab
 
 # Section subtitle
 subtitle:
