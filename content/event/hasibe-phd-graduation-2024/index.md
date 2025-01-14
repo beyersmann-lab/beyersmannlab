@@ -3,8 +3,8 @@ abstract: null
 slides: null
 url_pdf: ""
 title: Hasibe's PhD Graduation
-summary: Congratulations <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> for graduating with her PhD!
-subtitle: Congratulations <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr. Hasibe Kahraman</a> for graduating with her PhD!
+summary: Congratulations <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr Hasibe Kahraman</a> for graduating with her second PhD!
+subtitle: Congratulations <a href="https://beyersmannlab.cogscience.org/author/dr.-hasibe-kahraman/" target="_blank">Dr Hasibe Kahraman</a> for graduating with her second PhD!
 location: Macquarie Lake, Macquarie University
 date: 2024-10-10T10:30:35.648Z
 all_day: false
