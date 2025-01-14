@@ -15,6 +15,6 @@ superuser: false
 user_groups:
   - Alumni
 ---
-Dylan completed a Bachelor of Psychology (Honours) and a Bachelor of Human Sciences (Majoring in Cognitive Science). 
+Dylan completed a Bachelor of Psychology (Honours) and a Bachelor of Human Sciences (Majoring in Cognitive Science). His Psychology Honours thesis was under the supervision of Dr Lisi Beyersmann.
 
 He is interested in how different brain disorders can impact functioning and how these disorders are assessed and treated. Specifically, he is interested in studying and treating individuals with acquired brain disorders (e.g. aphasia). He is ultimately aiming to pursue these interests in a career as a Clinical Neuropsychologist.
