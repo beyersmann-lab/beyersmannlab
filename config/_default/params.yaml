@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Dr. Elisabeth (Lisi) Beyersmann and her team are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development.'
+    description: 'Associate Professor Elisabeth (Lisi) Beyersmann and her team are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development.'
     twitter: ''
   analytics:
     google_analytics: 'G-M4KSCCEQKT'
@@ -43,7 +43,7 @@ header:
 
 footer: 
   copyright:
-    notice: 'Beyersmann Lab acknowledges the traditional custodians of the Macquarie University land, the Wallumattagal clan of the Dharug nation, whose cultures and customs have nurtured, and continue to nurture, this land, since the Dreamtime.  We pay our respects to Elders past, present, and future, and extend this respect to all Aboriginal and Torres Strait Islander peoples. <br><br>© {year} Beyersmann Lab. This work is licensed under {license}'
+    notice: 'Beyersmann Reading Lab acknowledges the traditional custodians of the Macquarie University land, the Wallumattagal clan of the Dharug nation, whose cultures and customs have nurtured, and continue to nurture, this land, since the Dreamtime.  We pay our respects to Elders past, present, and future, and extend this respect to all Aboriginal and Torres Strait Islander peoples. <br><br>© {year} Beyersmann Lab. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
