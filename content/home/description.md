@@ -29,27 +29,33 @@ banner:
 <html>
 <head>
   <style>
-    /* Center align the header and body text */
+    /* Center align the h2 heading and make it bold */
     h2 {
       text-align: center;
-      font-weight: bold;
+      font-weight: bold;  /* Ensures the heading is bold */
       font-size: 32px; /* Adjusted size */
+      margin-bottom: 20px; /* Adds some space below the heading */
     }
+
+    /* Center align the paragraph text */
     p {
       text-align: center;
       font-size: 18px; /* Adjusted font size */
       line-height: 1.6;
+      margin-bottom: 30px; /* Adds some space below the paragraph */
     }
-    /* Ensuring the image is centered */
+
+    /* Center the image and add a small gap between text and image */
     .image-container {
       text-align: center;
-      margin-top: 20px;
+      margin-top: 20px; /* Adds space above the image */
+      margin-bottom: 20px; /* Adds space below the image */
     }
   </style>
 </head>
 <body>
 
-  <!-- Heading for the lab -->
+  <!-- Heading for the lab (now h2) -->
   <h2>Beyersmann Reading Lab</h2>
 
   <!-- Body text with linked researcher and university info -->
@@ -63,9 +69,9 @@ banner:
     The lab investigates language processing in both children and adults, using a variety of behavioural, neuropsychological, and neurophysiological techniques including MEG, EEG, and eye-tracking.
   </p>
 
-  <!-- Image below the text -->
+  <!-- Image below the text (without caption) -->
   <div class="image-container">
-    {{< figure src="home.jpg" caption="Beyersmann Reading Lab" >}}
+    {{< figure src="home.jpg" >}} <!-- Image without caption -->
   </div>
 
   <!-- Call to action for "Meet the Team" -->
@@ -73,7 +79,6 @@ banner:
 
 </body>
 </html>
-
 
 
   
