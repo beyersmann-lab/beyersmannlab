@@ -20,7 +20,6 @@ design:
 banner:
   image: "home.jpg"
   image_position: center
-    
 ---
 
 <html>
@@ -34,12 +33,12 @@ banner:
       margin-bottom: 20px; /* Adds some space below the heading */
     }
 
-    /* Center align the paragraph text with a smaller font size */
+    /* Center align the paragraph text with a smaller font size and make the description smaller */
     p {
       text-align: center;
-      font-size: 16px; /* Adjusted smaller font size */
+      font-size: 14px; /* Smaller font size for the description text */
       line-height: 1.6;
-      margin-bottom: 30px; /* Adds some space below the paragraph */
+      margin-bottom: 20px; /* Reduces the space below the paragraph */
     }
 
     /* Center the image container and image */
@@ -54,6 +53,11 @@ banner:
       margin-left: auto;
       margin-right: auto; /* Centers the image horizontally */
       max-width: 100%; /* Ensures the image doesn't overflow its container */
+    }
+
+    /* Adjust the space after the "Meet the Team" button */
+    .cta-container {
+      margin-bottom: 10px; /* Reduces space between button and next section */
     }
   </style>
 </head>
@@ -78,8 +82,10 @@ banner:
     {{< figure src="home.jpg" >}} <!-- Image without caption -->
   </div>
 
-  <!-- Call to action for "Meet the Team" -->
-  {{% cta cta_link="./researchers/" cta_text="Meet the Team →" %}}
+  <!-- Call to action for "Meet the Team" with adjusted margin-bottom -->
+  <div class="cta-container">
+    {{% cta cta_link="./researchers/" cta_text="Meet the Team →" %}}
+  </div>
 
 </body>
 </html>
