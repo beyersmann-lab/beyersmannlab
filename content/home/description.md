@@ -25,9 +25,27 @@ banner:
   image_position: center
     
 ---
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
 
-<a href="https://beyersmannlab.cogscience.org/author/associate-professor-elisabeth-lisi-beyersmann/" target="_blank">Associate Professor Elisabeth (Lisi) Beyersmann</a> and her team are based at the <a href="https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology" target="_blank">School of Psychological Sciences at Macquarie University</a> and are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development. The lab investigates language processing in both children and adults, using a variety of behavioural, neuropsychological, and neurophysiological techniques including MEG, EEG, and eye-tracking.
-
-<center>{{< figure src="home.jpg" caption="" numbered="" >}}</center>
-  
+<h1>Beyersmann Reading Lab</h1>
+<p><a href="https://beyersmannlab.cogscience.org/author/associate-professor-elisabeth-lisi-beyersmann/" target="_blank">Associate Professor Elisabeth (Lisi) Beyersmann</a> and her team are based at the <a href="https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology" target="_blank">School of Psychological Sciences at Macquarie University</a> and are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development. The lab investigates language processing in both children and adults, using a variety of behavioural, neuropsychological, and neurophysiological techniques including MEG, EEG, and eye-tracking.</p>
+<p><center>{{< figure src="home.jpg" caption="" numbered="" >}}</center></p>
 {{% cta cta_link="./researchers/" cta_text="Meet the Team →" %}}
+<div>This is a div.</div>
+
+</body>
+</html>
+
+
+
+
+  
+
