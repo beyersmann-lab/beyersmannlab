@@ -30,7 +30,7 @@ banner:
 <head>
   <style>
     /* Center align the header and body text */
-    h1 {
+    h2 {
       text-align: center;
       font-weight: bold;
       font-size: 32px; /* Adjusted size */
@@ -50,7 +50,7 @@ banner:
 <body>
 
   <!-- Heading for the lab -->
-  <h1>Beyersmann Reading Lab</h1>
+  <h2>Beyersmann Reading Lab</h2>
 
   <!-- Body text with linked researcher and university info -->
   <p>
