@@ -33,20 +33,20 @@ banner:
       margin-bottom: 20px;         /* Adds space below the heading */
     }
 
-    /* Description Text: Centered, smaller and with good margins */
+    /* Description Text: Smaller, centered with reasonable margins */
     .description-text {
       text-align: center;          /* Ensures the text is centered */
-      font-size: 18px;             /* Adjusted for better readability */
-      max-width: 800px;            /* Keeps text width manageable */
+      font-size: 16px;             /* Smaller font size for the description */
+      max-width: 700px;            /* Keeps text width manageable */
       margin-left: auto;           /* Centers the text */
       margin-right: auto;          /* Centers the text */
-      line-height: 1.6;            /* Adds more space between lines */
-      margin-bottom: 30px;         /* Increased margin below the text */
-      padding-left: 20px;          /* Adds padding inside the container */
-      padding-right: 20px;         /* Adds padding inside the container */
+      line-height: 1.4;            /* Adjust line-height for better spacing */
+      margin-bottom: 30px;         /* Space below the text */
+      padding-left: 10px;          /* Adds some space on the left */
+      padding-right: 10px;         /* Adds some space on the right */
     }
 
-    /* Image container: Keep it centered */
+    /* Image container: Centered with space around it */
     .image-container {
       text-align: center;
       margin-top: 20px;            /* Adds space above the image */
@@ -60,7 +60,7 @@ banner:
       max-width: 100%;             /* Ensures the image doesn't overflow */
     }
 
-    /* Reducing space after "Meet the Team" button */
+    /* Adjust space after "Meet the Team" button */
     .cta-container {
       margin-bottom: 10px;         /* Adjusts space below the CTA button */
     }
@@ -76,7 +76,7 @@ banner:
     Associate Professor Elisabeth (Lisi) Beyersmann and her team are based at the 
     <a href="https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology" target="_blank">
       School of Psychological Sciences at Macquarie University
-    </a> and are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development.
+    </a> and are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development. 
     The lab investigates language processing in both children and adults, using a variety of behavioural, neuropsychological, and neurophysiological techniques including MEG, EEG, and eye-tracking.
   </p>
 
@@ -89,6 +89,10 @@ banner:
   <div class="cta-container">
     {{% cta cta_link="./researchers/" cta_text="Meet the Team →" %}}
   </div>
+
+</body>
+</html>
+
 
 </body>
 </html>
