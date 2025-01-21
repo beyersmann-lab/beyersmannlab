@@ -42,11 +42,18 @@ banner:
       margin-bottom: 30px; /* Adds some space below the paragraph */
     }
 
-    /* Center the image and add a small gap between text and image */
+    /* Center the image container and image */
     .image-container {
       text-align: center;
       margin-top: 20px; /* Adds space above the image */
       margin-bottom: 20px; /* Adds space below the image */
+    }
+
+    .image-container img {
+      display: block; /* Ensures the image behaves as a block element */
+      margin-left: auto;
+      margin-right: auto; /* Centers the image horizontally */
+      max-width: 100%; /* Ensures the image doesn't overflow its container */
     }
   </style>
 </head>
