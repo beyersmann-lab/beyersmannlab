@@ -25,28 +25,28 @@ banner:
 <html>
 <head>
   <style>
-    /* Center align the h3 heading and make it bold, with a smaller size */
-    h3 {
-      text-align: center;
-      font-weight: bold;
-      font-size: 28px; /* Adjusted smaller size */
-      margin-bottom: 20px; /* Adds some space below the heading */
-    }
-
-    /* Specific styling for description paragraph */
+    /* Description Text (Smaller and Centered) */
     .description-text {
-      text-align: center;  /* Ensure text is centered */
-      font-size: 12px !important; /* Ensures text is smaller, using !important to override */
-      line-height: 1.6;
-      margin-bottom: 20px;
-      max-width: 800px; /* Restricts width for readability */
+      text-align: center;          /* Ensures the text is centered */
+      font-size: 14px;             /* Smaller font size to fit within 3 lines */
+      max-width: 800px;            /* Keeps text within a manageable width */
       margin-left: auto;
-      margin-right: auto; /* Centers the paragraph container */
+      margin-right: auto;         /* Centers the paragraph */
+      line-height: 1.4;           /* Makes the text more compact */
+      margin-bottom: 20px;        /* Adds space below the text */
       padding-left: 10px;
       padding-right: 10px;
     }
 
-    /* Center the image container and image */
+    /* Heading remains centered */
+    h3 {
+      text-align: center;
+      font-weight: bold;
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+
+    /* Image container centered */
     .image-container {
       text-align: center;
       margin-top: 20px;
@@ -60,7 +60,7 @@ banner:
       max-width: 100%;
     }
 
-    /* Reduce space between "Meet the Team" button and next section */
+    /* Reduce space below CTA button */
     .cta-container {
       margin-bottom: 10px;
     }
@@ -68,26 +68,23 @@ banner:
 </head>
 <body>
 
-  <!-- Heading for the lab (now h3) -->
   <h3>Beyersmann Reading Lab</h3>
-
-  <!-- Description paragraph -->
+  
+  <!-- Description Text -->
   <p class="description-text">
-    <a href="https://beyersmannlab.cogscience.org/author/associate-professor-elisabeth-lisi-beyersmann/" target="_blank">
-      Associate Professor Elisabeth (Lisi) Beyersmann
-    </a> and her team are based at the 
+    Associate Professor Elisabeth (Lisi) Beyersmann and her team are based at the 
     <a href="https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology" target="_blank">
       School of Psychological Sciences at Macquarie University
-    </a> and are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development. 
+    </a> and are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development.
     The lab investigates language processing in both children and adults, using a variety of behavioural, neuropsychological, and neurophysiological techniques including MEG, EEG, and eye-tracking.
   </p>
 
-  <!-- Image below the text -->
+  <!-- Image Section -->
   <div class="image-container">
     {{< figure src="home.jpg" >}} <!-- Image without caption -->
   </div>
 
-  <!-- Call to action for "Meet the Team" -->
+  <!-- Meet the Team Link -->
   <div class="cta-container">
     {{% cta cta_link="./researchers/" cta_text="Meet the Team →" %}}
   </div>
