@@ -73,10 +73,10 @@ banner:
 
   <!-- Description Text: Apply the "description-text" class here -->
   <p class="description-text">
-    Associate Professor Elisabeth (Lisi) Beyersmann and her team are based at the 
+    Associate Professor Elisabeth (Lisi) Beyersmann and her team at the 
     <a href="https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology" target="_blank">
-      School of Psychological Sciences at Macquarie University
-    </a> and are interested in the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development. 
+      School of Psychological Sciences, Macquarie University,
+    </a> investigate the cognitive processes involved in reading and reading development. 
     The lab investigates language processing in both children and adults, using a variety of behavioural, neuropsychological, and neurophysiological techniques including MEG, EEG, and eye-tracking.
   </p>
 
