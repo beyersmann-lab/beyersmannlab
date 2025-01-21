@@ -33,12 +33,15 @@ banner:
       margin-bottom: 20px; /* Adds some space below the heading */
     }
 
-    /* Center align the paragraph text with a smaller font size and make the description smaller */
-    p {
-      text-align: center;
+    /* Center align the description paragraph text and make it smaller */
+    .description-text {
+      text-align: center;  /* Ensure the text is centered */
       font-size: 14px; /* Smaller font size for the description text */
       line-height: 1.6;
       margin-bottom: 20px; /* Reduces the space below the paragraph */
+      max-width: 800px; /* Limits width of the text for better readability */
+      margin-left: auto;
+      margin-right: auto; /* Centers the paragraph */
     }
 
     /* Center the image container and image */
@@ -67,7 +70,7 @@ banner:
   <h3>Beyersmann Reading Lab</h3>
 
   <!-- Body text with linked researcher and university info -->
-  <p>
+  <p class="description-text">
     <a href="https://beyersmannlab.cogscience.org/author/associate-professor-elisabeth-lisi-beyersmann/" target="_blank">
       Associate Professor Elisabeth (Lisi) Beyersmann
     </a> and her team are based at the 
@@ -89,7 +92,3 @@ banner:
 
 </body>
 </html>
-
-
-  
-
