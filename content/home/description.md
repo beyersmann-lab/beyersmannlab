@@ -9,9 +9,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-# Section title
-title: Beyersmann Reading Lab
-
 # Section subtitle
 subtitle:
 
@@ -29,18 +26,18 @@ banner:
 <html>
 <head>
   <style>
-    /* Center align the h2 heading and make it bold */
-    h2 {
+    /* Center align the h3 heading and make it bold, with a smaller size */
+    h3 {
       text-align: center;
       font-weight: bold;  /* Ensures the heading is bold */
-      font-size: 32px; /* Adjusted size */
+      font-size: 28px; /* Adjusted smaller size */
       margin-bottom: 20px; /* Adds some space below the heading */
     }
 
-    /* Center align the paragraph text */
+    /* Center align the paragraph text with a smaller font size */
     p {
       text-align: center;
-      font-size: 18px; /* Adjusted font size */
+      font-size: 16px; /* Adjusted smaller font size */
       line-height: 1.6;
       margin-bottom: 30px; /* Adds some space below the paragraph */
     }
@@ -55,8 +52,8 @@ banner:
 </head>
 <body>
 
-  <!-- Heading for the lab (now h2) -->
-  <h2>Beyersmann Reading Lab</h2>
+  <!-- Heading for the lab (now h3) -->
+  <h3>Beyersmann Reading Lab</h3>
 
   <!-- Body text with linked researcher and university info -->
   <p>
