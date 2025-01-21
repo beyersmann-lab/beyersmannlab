@@ -73,7 +73,7 @@ banner:
 
   <!-- Description Text: Apply the "description-text" class here -->
   <p class="description-text">
-    <a href="https://beyersmannlab.cogscience.org/author/associate-professor-elisabeth-lisi-beyersmann/" target="_blank">Associate Professor Elisabeth (Lisi) Beyersmann</a> and her team at the <a href="https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology" target="_blank">School of Psychological Sciences, Macquarie University,</a> investigate the cognitive underpinnings of language processing, particularly in understanding reading and reading development. Their research explores language processing in both children and adults, using behavioural, neuropsychological, and neurophysiological techniques like MEG, EEG, and eye-tracking.
+    <a href="https://beyersmannlab.cogscience.org/author/associate-professor-elisabeth-lisi-beyersmann/">Associate Professor Elisabeth (Lisi) Beyersmann</a> and her team at the <a href="https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology" target="_blank">School of Psychological Sciences, Macquarie University,</a> investigate the cognitive underpinnings of language processing, particularly in understanding the processes involved in reading and reading development. Their research explores language processing in both children and adults, using behavioural, neuropsychological, and neurophysiological techniques including MEG, EEG, and eye-tracking.
   </p>
 
   <!-- Image Section -->
