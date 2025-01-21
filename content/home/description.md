@@ -25,7 +25,7 @@ banner:
 <html>
 <head>
   <style>
-    /* Heading: Ensure it's centered */
+    /* Heading: Center and bold */
     h3 {
       text-align: center;          /* Ensure heading is centered */
       font-weight: bold;
@@ -33,7 +33,7 @@ banner:
       margin-bottom: 20px;         /* Adds space below the heading */
     }
 
-    /* Description Text: Adjust size and margins */
+    /* Description Text: Centered, smaller and with good margins */
     .description-text {
       text-align: center;          /* Ensures the text is centered */
       font-size: 18px;             /* Adjusted for better readability */
@@ -46,7 +46,7 @@ banner:
       padding-right: 20px;         /* Adds padding inside the container */
     }
 
-    /* Image container and image: Ensure the image is centered */
+    /* Image container: Keep it centered */
     .image-container {
       text-align: center;
       margin-top: 20px;            /* Adds space above the image */
@@ -71,7 +71,7 @@ banner:
   <!-- Heading for the lab (h3 centered) -->
   <h3>Beyersmann Reading Lab</h3>
 
-  <!-- Description Text -->
+  <!-- Description Text: Apply the "description-text" class here -->
   <p class="description-text">
     Associate Professor Elisabeth (Lisi) Beyersmann and her team are based at the 
     <a href="https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology" target="_blank">
