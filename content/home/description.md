@@ -27,30 +27,62 @@ banner:
   <style>
     /* Center align the h3 heading and make it bold, with a smaller size */
     h3 {
+      text-align: center;---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 10
+
+# Section subtitle
+subtitle:
+
+# Section design
+design:
+  # Use a 1-column layout
+  columns: "1"
+  
+banner:
+  image: "home.jpg"
+  image_position: center
+---
+
+<html>
+<head>
+  <style>
+    /* Ensure the whole page is styled correctly, targeting only specific elements */
+    body {
+      font-family: Arial, sans-serif; /* Optional, for better readability */
+    }
+
+    /* Center the heading (h3) and make it bold, with a smaller font */
+    h3 {
       text-align: center;
       font-weight: bold;
-      font-size: 28px; /* Adjusted smaller size */
+      font-size: 24px; /* Adjust to a smaller size */
       margin-bottom: 20px; /* Adds some space below the heading */
     }
 
-    /* Specific styling for description paragraph */
+    /* Ensure description text is centered and smaller */
     .description-text {
-      text-align: center;  /* Ensure text is centered */
-      font-size: 14px !important; /* Ensures text is smaller, using !important to override */
-      line-height: 1.6;
-      margin-bottom: 20px;
-      max-width: 800px; /* Restricts width for readability */
-      margin-left: auto;
-      margin-right: auto; /* Centers the paragraph container */
+      font-size: 14px !important; /* Make sure it's smaller */
+      text-align: center; /* Ensure the text is centered */
+      max-width: 800px; /* Prevent the text from stretching too wide */
+      margin: 0 auto 20px auto; /* Center the paragraph and space below */
       padding-left: 10px;
       padding-right: 10px;
+      line-height: 1.6; /* Improve readability */
     }
 
-    /* Center the image container and image */
+    /* Image styling: Ensure it is centered */
     .image-container {
       text-align: center;
-      margin-top: 20px;
-      margin-bottom: 20px;
+      margin-top: 20px; /* Space above image */
+      margin-bottom: 20px; /* Space below image */
     }
 
     .image-container img {
@@ -60,9 +92,9 @@ banner:
       max-width: 100%;
     }
 
-    /* Reduce space between "Meet the Team" button and next section */
+    /* "Meet the Team" Button Styling: Reduce space below */
     .cta-container {
-      margin-bottom: 10px;
+      margin-bottom: 10px; /* Reduce space after the button */
     }
   </style>
 </head>
@@ -71,7 +103,7 @@ banner:
   <!-- Heading for the lab (now h3) -->
   <h3>Beyersmann Reading Lab</h3>
 
-  <!-- Description paragraph -->
+  <!-- Body text with linked researcher and university info -->
   <p class="description-text">
     <a href="https://beyersmannlab.cogscience.org/author/associate-professor-elisabeth-lisi-beyersmann/" target="_blank">
       Associate Professor Elisabeth (Lisi) Beyersmann
@@ -82,7 +114,7 @@ banner:
     The lab investigates language processing in both children and adults, using a variety of behavioural, neuropsychological, and neurophysiological techniques including MEG, EEG, and eye-tracking.
   </p>
 
-  <!-- Image below the text -->
+  <!-- Image below the text (without caption) -->
   <div class="image-container">
     {{< figure src="home.jpg" >}} <!-- Image without caption -->
   </div>
