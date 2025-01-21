@@ -36,7 +36,7 @@ banner:
     /* Specific styling for description paragraph */
     .description-text {
       text-align: center;  /* Ensure text is centered */
-      font-size: 14px !important; /* Ensures text is smaller, using !important to override */
+      font-size: 12px !important; /* Ensures text is smaller, using !important to override */
       line-height: 1.6;
       margin-bottom: 20px;
       max-width: 800px; /* Restricts width for readability */
