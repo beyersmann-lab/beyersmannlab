@@ -33,7 +33,7 @@ organizations:
     url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
 **Research Interests**
 
@@ -47,7 +47,7 @@ Hasibe’s academic background includes theoretical study, research, and teachin
 
 In 2015, Hasibe commenced her Ph.D. at METU, Turkey where she was given wide-ranging interdisciplinary education in two different tracks: Linguistics and Language Education. Here, she got the key insights into Theoretical Linguistics, Psycholinguistics, Applied Linguistics, Teacher Education, Language Testing, Second Language Acquisition as well as Psychology of Reading which interested her the most. Therefore, in her Ph.D. thesis supervised by Prof. Bilal Kırkıcı, she examined the lexical access during first and second language reading and used a new approach that tested discrete subskills in participants’ reading networks. During the last 2 years of her Ph.D., she was hosted by Associate Professor Elisabeth Beyersmann and Professor Anne Castles as a visiting scholar for the purposes of data collection from L1 English speakers at Macquarie University, which was funded by Scientific and Technological Research Council of Turkey.
 
-In 2021, Hasibe started her second Ph.D. program at Cognitive Science, Macquarie University, Australia with an International Macquarie University Research Excellence Scholarship. She is also a student member of Macquarie University Centre for Reading (MQCR). Currently, she is investigating cross-language morphological transfer between a bilingual’s two languages. Her research uses behavioural measures and the recording of event-related brain potentials (ERPs) within a cross-language morphological priming study and is supervised by Associate Professor Elisabeth Beyersmann and Dr Bianca De Wit. 
+In 2021, Hasibe started her second Ph.D. program at Cognitive Science, Macquarie University, Australia with an International Macquarie University Research Excellence Scholarship, under the supervision of Associate Professor Elisabeth Beyersmann and Dr Bianca De Wit. She was also a student member of Macquarie University Centre for Reading (MQCR), before graduating from her Ph.D. program in 2025. She investigated cross-language morphological transfer between a bilingual’s two languages. Her research uses behavioural measures and the recording of event-related brain potentials (ERPs) within a cross-language morphological priming study.
 
 *Employment*
 
