@@ -14,13 +14,13 @@ organizations:
     url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
 **R﻿esearch Interests**
 
 Junmin’s research focuses on word recognition and morpheme processing of L2 learners. The processing of word recognition of orthographic and phonological information in reading is also the interest of her research. She is also interested in morpheme acquisition or instruction for L2 learners.
 
-Junmin is a visiting researcher at Macquarie University coming from the School of Foreign Languages of Hangzhou City University in China. Her research stay in Sydney is funded by the China Scholarship Council (CSC).
+Junmin was a visiting researcher at Macquarie University coming from the School of Foreign Languages of Hangzhou City University in China. Her research stay in Sydney was funded by the China Scholarship Council (CSC).
 
 **B﻿iography and Employment**
 
