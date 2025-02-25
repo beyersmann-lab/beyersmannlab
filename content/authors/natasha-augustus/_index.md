@@ -13,8 +13,8 @@ organizations:
     url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
-Natasha is currently undertaking her honours coursework for her Bachelor of Business Administration and Bachelor of Psychology (Honours) at Macquarie University, with expected completion in 2024. 
+Natasha undertook her honours coursework for her Bachelor of Business Administration and Bachelor of Psychology (Honours) at Macquarie University, graduating in 2024. 
 
-Natasha is completing her Psychology Honours thesis under the supervision of Associate Professor Lisi Beyersmann and PhD candidate Alessia Rossetto. In her thesis, Natasha is utilising the read aloud method to investigate the effect of word legality and interpretability on reading.
+Natasha completed her Psychology Honours thesis under the supervision of Associate Professor Lisi Beyersmann and PhD candidate Alessia Rossetto. In her thesis, Natasha utilised the read aloud method to investigate the effect of word legality and interpretability on reading.
