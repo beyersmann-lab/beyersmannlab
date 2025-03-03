@@ -2,7 +2,7 @@
 abstract: null
 slides: null
 url_pdf: ""
-title: Professor Davide Crepaldi presenting a talk during his visit to Macquarie University
+title: Professor Davide Crepaldi's Presentation During Macquarie University Visit
 summary: Presented in the Australian Hearing Hub, home of Macquarie University's School of Psychological Sciences (17 October 2024).
 subtitle: Presented in the Australian Hearing Hub, home of Macquarie University's School of Psychological Sciences (17 October 2024).
 location: Australian Hearing Hub
