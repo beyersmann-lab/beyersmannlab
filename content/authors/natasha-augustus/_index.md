@@ -1,6 +1,6 @@
 ---
 title: Natasha Augustus
-role: Psychology Honours Student
+role: Psychology Honours Graduate
 avatar_filename: avatar.jpg
 social:
   - display:
