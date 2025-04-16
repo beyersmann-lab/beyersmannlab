@@ -1,6 +1,6 @@
 ---
 title: Kate Wildey
-role: PhD Student
+role: Psychology Honours Student
 avatar_filename: avatar.jpg
 social:
   - display:
