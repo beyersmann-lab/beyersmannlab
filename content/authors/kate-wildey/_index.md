@@ -5,8 +5,7 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-     link: 
-mailto:kate.wildey@students.mq.edu.au
+     link: mailto:kate.wildey@students.mq.edu.au
     icon_pack: fas
     icon: envelope
 organizations:
