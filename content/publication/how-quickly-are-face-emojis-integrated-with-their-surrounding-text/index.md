@@ -1,5 +1,5 @@
 ---
-title:  How 
+title:  
 subtitle: "*Language, Cognition and Neuroscience*. Accepted 26/05/2025."
   https://doi.org/10.1016/j.jecp.2016.07.016"
 publication_types:
