@@ -14,7 +14,7 @@ authors:
   - L.
   - Reading
   - M.
-  - Beyersmann.
+  - Beyersmann
   - E.
 publication: "*Journal of Experimental Psychology: Language, Memory &
   Cognition*. Accepted on 19/05/2025"
