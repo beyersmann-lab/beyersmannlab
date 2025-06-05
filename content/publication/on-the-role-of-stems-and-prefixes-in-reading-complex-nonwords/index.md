@@ -1,5 +1,5 @@
 ---
-title: On the role of stems and prefixes in reading complex nonwords: Evidence from individuals with and without acquired dyslexia
+title: "On the role of stems and prefixes in reading complex nonwords: Evidence from individuals with and without acquired dyslexia"
 subtitle: "*Cognitive Neuropsychology*.
   https://doi.org/10.1080/02643294.2025.2505531"
 publication_types:
