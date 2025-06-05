@@ -14,7 +14,8 @@ authors:
   - L.
   - Reading
   - M.
-  - Beyersmann. E.
+  - Beyersmann.
+  - E.
 publication: "*Journal of Experimental Psychology: Language, Memory &
   Cognition*. Accepted on 19/05/2025"
 abstract: "This study explored the role of semantic interpretability and
