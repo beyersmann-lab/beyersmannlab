@@ -15,6 +15,8 @@ authors:
   - Reading
   - M.
   - Beyersmann. E.
+publication: '"Journal of Experimental Psychology: Language, Memory &
+  Cognition". Accepted on 19/05/2025.'
 abstract: "This study explored the role of semantic interpretability and
   syntactic legality on complex nonword recognition. A rating experiment tested
   the correlation between these two linguistic factors by asking participants to
