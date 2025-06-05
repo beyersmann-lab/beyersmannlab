@@ -1,5 +1,5 @@
 ---
-title: How quickly are face emojis integrated with their surrounding text? An eye-tracking study
+title: "How quickly are face emojis integrated with their surrounding text? An eye-tracking study"
 subtitle: "*Language, Cognition and Neuroscience*. Accepted 26/05/2025."
   https://doi.org/10.1016/j.jecp.2016.07.016"
 publication_types:
