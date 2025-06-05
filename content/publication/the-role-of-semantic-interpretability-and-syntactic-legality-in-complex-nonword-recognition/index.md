@@ -2,7 +2,7 @@
 title: The role of semantic interpretability and syntactic legality in complex
   nonword recognition
 subtitle: "*Journal of Experimental Psychology: Language, Memory & Cognition*.
-  Accepted on 19/05/2025."
+  Accepted on 19/05/2025"
 publication_types:
   - "2"
 authors:
@@ -16,7 +16,7 @@ authors:
   - M.
   - Beyersmann. E.
 publication: "*Journal of Experimental Psychology: Language, Memory &
-  Cognition*. Accepted on 19/05/2025."
+  Cognition*. Accepted on 19/05/2025"
 abstract: "This study explored the role of semantic interpretability and
   syntactic legality on complex nonword recognition. A rating experiment tested
   the correlation between these two linguistic factors by asking participants to
