@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: mailto:claire.galea@hdr.mq.edu.au
+    link: mailto:claire.galea@unitedway.com.au
     icon_pack: fas
     icon: envelope
 organizations:
