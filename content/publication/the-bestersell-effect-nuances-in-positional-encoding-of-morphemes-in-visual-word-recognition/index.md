@@ -1,7 +1,7 @@
 ---
 title: "The Bestersell Effect: Nuances in Positional Encoding of Morphemes in
   Visual Word Recognition"
-subtitle: "*Psychonomic Bulletin & Review*. Accepted on 30/04/2025"
+subtitle: "*Psychonomic Bulletin & Review*. Accepted on 30/04/2025. https://doi.org/10.3758/s13423-025-02693-7"
 publication_types:
   - "2"
 authors:
