@@ -1,6 +1,6 @@
 ---
 title: Jasmine Spencer
-role: PhD Student
+role: PhD Graduate
 avatar_filename: ""
 social:
   - display:
@@ -13,6 +13,6 @@ organizations:
     url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
-Jasmine Spencer studied a Bachelor of Science majoring in Cognitive Science and a Bachelor of Laws (Honours) as an undergraduate, before completing a Master of Research with the School of Psychological Sciences. She is currently a PhD student with the Macquarie University Centre for Reading, researching visual word recognition with a particular focus on the positional encoding of morphemes.
+Jasmine Spencer studied a Bachelor of Science majoring in Cognitive Science and a Bachelor of Laws (Honours) as an undergraduate, before completing a Master of Research with the School of Psychological Sciences. She completed a PhD student at Macquarie University under the supervision of Lisi Beyersmann and Hasibe Kahraman, researching visual word recognition with a particular focus on the positional encoding of morphemes.
