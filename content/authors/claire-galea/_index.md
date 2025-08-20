@@ -1,6 +1,6 @@
 ---
 title: Claire Galea
-role: PhD Student
+role: PhD Graduate
 avatar_filename: avatar.jpg
 social:
   - display:
@@ -13,6 +13,6 @@ organizations:
     url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
-Claire Galea is a biostatistician and senior impact analyst who is currently undertaking a PhD in the School of Psychological Sciences. Her research is on the impact of shared book reading focussing on <a href="https://imaginationlibrary.com/au/" target="_blank">Dolly Parton's Imagination Library</a>.
+Claire Galea is a biostatistician and senior impact analyst who holds a PhD in Psychological Sciences. Her research is on the impact of shared book reading focussing on <a href="https://imaginationlibrary.com/au/" target="_blank">Dolly Parton's Imagination Library</a>.
