@@ -6,16 +6,11 @@ subtitle: "*Journal of Experimental Psychology: Language, Memory & Cognition*.
 publication_types:
   - "2"
 authors:
-  - Rossetto
-  - A.
-  - Popov
-  - S.
-  - Saar
-  - L.
-  - Reading
-  - M.
-  - Beyersmann
-  - E.
+  - A. Rossetto
+  - S. Popov
+  - L. Saar
+  - M. Reading
+  - E. Beyersmann
 publication: "*Journal of Experimental Psychology: Language, Memory &
   Cognition*. Accepted on 19/05/2025"
 abstract: "This study explored the role of semantic interpretability and
