@@ -1,7 +1,7 @@
 ---
 title: Emma Fryer
 role: Psychology Honours Student
-avatar_filename: EmmaFryerbw.jpg
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
