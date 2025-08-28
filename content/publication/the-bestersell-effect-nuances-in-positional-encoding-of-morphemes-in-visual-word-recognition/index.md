@@ -5,12 +5,9 @@ subtitle: "*Psychonomic Bulletin & Review*. Accepted on 30/04/2025. https://doi.
 publication_types:
   - "2"
 authors:
-  - Spencer
-  - J.
-  - Kahraman
-  - H.
-  - Beyersmann
-  - E.
+  - J. Spencer
+  - H. Kahraman
+  - E. Beyersmann
 publication: "*Psychonomic Bulletin & Review*. Accepted on 30/04/2025"
 abstract: Previous studies have confirmed stem morphemes (e.g., book) are
   identified in any position (e.g., in both bookmark and textbook) but prefixes
