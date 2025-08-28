@@ -4,18 +4,12 @@ subtitle: "*Reading Research Quarterly*. Accepted on 24/02/2025"
 publication_types:
   - "2"
 authors:
-  - Wegener
-  - S.
-  - Castles
-  - A.
-  - Beyersmann
-  - E.
-  - Nation
-  - K.
-  - Wang
-  - H.-C.
-  - Reichle
-  - E.
+  - S. Wegener
+  - A. Castles
+  - E. Beyersmann
+  - K. Nation
+  - H.-C. Wang
+  - E. Reichle
 publication: "*Reading Research Quarterly*. Accepted on 24/02/2025"
 abstract: "Purpose: Spreading out study opportunities over time improves the
   retention of verbal material compared to consecutive study, yet little is
