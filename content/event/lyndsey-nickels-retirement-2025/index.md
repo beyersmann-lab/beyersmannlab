@@ -2,7 +2,7 @@
 abstract: null
 slides: null
 url_pdf: ""
-title: Lyndsey's Last Day @ MQ
+title: Lyndsey's Last Day at MQ
 summary: Congratulations Lyndsey Nickels for a long and successful career at Macquarie University!
 subtitle: Congratulations Lyndsey Nickels for a long and successful career at Macquarie University!
 location: Recreation Room, Macquarie University; Lavendra Restaurant, North Sydney
