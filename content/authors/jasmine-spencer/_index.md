@@ -1,5 +1,5 @@
 ---
-title: Jasmine Spencer
+title: Dr Jasmine Spencer
 role: PhD Graduate
 avatar_filename: ""
 social:
