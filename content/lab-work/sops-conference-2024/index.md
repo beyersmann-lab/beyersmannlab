@@ -31,4 +31,4 @@ image:
 url_code: ""
 ---
 
-{{< gallery album="sops-conference-2024" >}}
+{{< gallery album="sops-conference-2024-album" >}}
