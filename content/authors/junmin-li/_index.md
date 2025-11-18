@@ -1,5 +1,5 @@
 ---
-title: Junmin Li
+title: Prof Junmin Li
 role: Visiting Researcher
 avatar_filename: avatar.jpg
 social:
