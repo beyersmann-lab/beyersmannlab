@@ -1,5 +1,5 @@
 ---
-title: Demian Stoyanov
+title: Dr Demian Stoyanov
 role: PhD Graduate
 avatar_filename: avatar.jpg
 social:
