@@ -1,5 +1,5 @@
 ---
-title: Alessia Rossetto
+title: Dr Alessia Rossetto
 role: PhD Graduate
 avatar_filename: avatar.jpg
 social:
