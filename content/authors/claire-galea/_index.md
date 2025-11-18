@@ -1,5 +1,5 @@
 ---
-title: Claire Galea
+title: Dr Claire Galea
 role: PhD Graduate
 avatar_filename: avatar.jpg
 social:
