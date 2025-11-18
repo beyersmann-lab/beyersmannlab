@@ -1,5 +1,5 @@
 ---
-title: Silvana Flütsch Keravec
+title: Dr Silvana Flütsch Keravec
 role: Visiting Researcher
 avatar_filename: avatar.jpg
 social:
