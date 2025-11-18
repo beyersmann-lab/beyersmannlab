@@ -1,6 +1,6 @@
 ---
 title: Shaaf Ahsan
-role: Psychological Sciences Honours Student
+role: Psychology Honours Graduate
 avatar_filename: avatar.jpg
 social:
   - display:
@@ -13,8 +13,8 @@ organizations:
     url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
-Shaaf is graduate of the Bachelor of Psychology and Bachelor of Cognitive and Brain Sciences double degree at Macquarie University. He is working under the supervision of Lisi Beyersmann for his Honours thesis in the Bachelor of Psychological Sciences (Honours).
+Shaaf is graduate of the Bachelor of Psychology and Bachelor of Cognitive and Brain Sciences double degree at Macquarie University. He worked under the supervision of Lisi Beyersmann for his Honours thesis in the Bachelor of Psychological Sciences (Honours).
 
 His research is focused on word processing of compound and affixed words, building on existing findings by introducing semantic context in sentences. Shaaf hopes to progress to further research in the Master of Clinical Neuropsychology in the future.
