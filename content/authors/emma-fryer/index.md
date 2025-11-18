@@ -1,6 +1,6 @@
 ---
 title: Emma Fryer
-role: Psychology Honours Student
+role: Psychology Honours Graduate
 avatar_filename: avatar.jpeg
 social:
   - display:
@@ -13,7 +13,7 @@ organizations:
     url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
 Emma is undertaking a Bachelor of Psychology (Honours) at Macquarie University, and is currently completing her Honours Thesis under the Supervision of Dr Lisi Beyersmann. 
 
