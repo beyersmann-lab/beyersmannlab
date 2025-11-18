@@ -1,5 +1,5 @@
 ---
-title: Katherine Ko
+title: Dr Katherine Ko
 role: PhD Graduate
 avatar_filename: avatar.jpg
 social:
