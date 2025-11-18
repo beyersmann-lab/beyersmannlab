@@ -1,6 +1,6 @@
 ---
 title: Elena Solomon
-role: Psychology Honours Student
+role: Psychology Honours Graduate
 avatar_filename: avatar.jpg
 social:
   - display:
@@ -13,7 +13,7 @@ organizations:
     url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
 Elena is currently completing her Bachelor of Psychology (Honours) at Macquarie University. She is undertaking her Honours thesis under the supervision of Dr Lisi Beyersmann.
 
