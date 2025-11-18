@@ -1,6 +1,6 @@
 ---
 title: Kate Wildey
-role: Psychology Honours Student
+role: Psychology Honours Graduate
 avatar_filename: avatar.jpg
 social:
   - display:
@@ -13,7 +13,7 @@ organizations:
     url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
 Kate is currently enrolled at Macquarie University completing her Bachelor of Psychology (Honours). She is working on completing her thesis under the supervision of Dr Lisi Beyersmann. Her research explores the effect of semantic transparency and sentence predictability on the morpheme transposition effect in compound words. Her study will utilise eye-tracking technology to look at early-stage measures of word-processing during sentence reading.
 
