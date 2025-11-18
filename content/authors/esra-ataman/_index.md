@@ -1,6 +1,6 @@
 ---
 title: Esra Ataman
-role: PhD Student
+role: PhD Graduate
 avatar_filename: avatar.jpg
 social:
   - display:
@@ -23,10 +23,10 @@ organizations:
     url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
-Esra is a PhD student in the School of Psychological Sciences at Macquarie University. She is co-supervised by Professor Anne Castles, Associate Professor Lisi Beyersmann, and Dr Signy Wegener. She is also a student member of Macquarie University Centre for Reading.
+Esra completed her PhD degree in the School of Psychological Sciences at Macquarie University. She was co-supervised by Professor Anne Castles, Associate Professor Lisi Beyersmann, and Dr Signy Wegener.
 
-Esra is interested in psycholinguistic investigations of morphological processing during reading development. She has a Linguistics and English Language Teaching background which enabled her to examine morphological processing in L2 (second language learners of English) and L1 (other than English) speakers. Thanks to her Master of Research degree in Cognitive Science at MQ, she started to see the link between language processing and cognitive processes more clearly. Currently, she explores various morpho-semantic factors which may affect learning to read novel compound words.
+Esra is interested in psycholinguistic investigations of morphological processing during reading development. She has a Linguistics and English Language Teaching background which enabled her to examine morphological processing in L2 (second language learners of English) and L1 (other than English) speakers. Thanks to her Master of Research degree in Cognitive Science at MQ, she started to see the link between language processing and cognitive processes more clearly. In her PhD, she explored various morpho-semantic factors which may affect learning to read novel compound words.
 
 Esra is an avid user of Academic Twitter (@esraaataman). She regularly follows recent developments in open science practices, tries to adopt good scientific practices in her own work, and supports others by sharing what she has learnt.
