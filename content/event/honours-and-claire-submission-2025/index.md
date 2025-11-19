@@ -6,7 +6,7 @@ title: PhD Submission by Claire Galea and Honours Thesis Submissions 2025
 summary: Congratulations Claire Galea to the Award of her PhD and to Elena, Shaaf, Kate and Emma to the Submission of their 2025 Honours Theses!
 subtitle: Congratulations Claire Galea to the Award of her PhD and to Elena, Shaaf, Kate and Emma to the Submission of their 2025 Honours Theses!
 location: Australian Hearing Hub, Macquarie University
-date: 2025-11-30T16:00:00.648Z
+date: 2025-11-19T16:00:00.648Z
 all_day: false
 event: null
 event_url: null
@@ -20,7 +20,7 @@ address:
   ? region
   ? postcode
   ? country
-publishDate: 2025-11-30T16:00:00.648Z
+publishDate: 2025-11-19T16:00:00.648Z
 tags: null
 projects: null
 image:
