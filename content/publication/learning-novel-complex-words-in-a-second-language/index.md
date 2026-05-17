@@ -11,8 +11,6 @@ authors:
 doi: ""
 publication: "*Studies in Second Language Acquisition*, 1–21"
 publication_short: ""
-abstract:
-"The role of morphology in complex word acquisition was examined in Chinese (L1)–English (L2) bilinguals. Participants learned words consisting of two novel constituents, by pairing them with pictures. Items either belonged to large (torbnel, torbilm, torbla, torbiph) or small morphological families (torbilm, torbla). After training, participants completed recognition and spelling tasks with novel words that either included or excluded a trained morpheme. Results revealed robust stem-training effects, showing that items including a trained constituent were harder to reject and easier to spell than items including two untrained constituents. There was also a significant effect of morphological family size, with greater training effects for items belonging to large than small families. Effect sizes were overall smaller in L2 than in L1. These findings point to the important role of morphological structure in L2 word acquisition and suggest that large morphological family-clusters lead to better learning outcomes."
 draft: false
 featured: false
 image:
