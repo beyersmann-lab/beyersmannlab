@@ -10,7 +10,8 @@ authors:
   - E. Beyersmann
 doi: ""
 publication: "*Studies in Second Language Acquisition*, 1–21"
-abstract: "BLA BLA BLA"
+abstract:
+"BLA BLA BLA."
 publication_short: ""
 draft: false
 featured: false
