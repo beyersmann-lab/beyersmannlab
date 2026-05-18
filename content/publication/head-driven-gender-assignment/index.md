@@ -1,6 +1,6 @@
 ---
 title: Head-driven gender assignment in noun-noun compound recognition: Evidence from a determiner-priming task in German
-subtitle: "*PLOS One*."
+subtitle: "*PLOS One*"
 publication_types:
   - "2"
 authors:
