@@ -1,14 +1,12 @@
 ---
-title: "The Bestersell Effect: Nuances in Positional Encoding of Morphemes in
-  Visual Word Recognition"
-subtitle: "*Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-025-02693-7"
+title: "Head-driven gender assignment in noun-noun compound recognition: Evidence from a determiner-priming task in German"
+subtitle: "*PLOS One*. https://doi.org/10.3758/s13423-025-02693-7"
 publication_types:
   - "2"
 authors:
-  - J. Spencer
-  - H. Kahraman
+  - A. Lorenz
   - E. Beyersmann
-publication: "*Psychonomic Bulletin & Review*. Accepted on 30/04/2025"
+publication: "*PLOS One*. Accepted on 16/04/2026"
 abstract: Previous studies have confirmed stem morphemes (e.g., book) are
   identified in any position (e.g., in both bookmark and textbook) but prefixes
   and suffixes (e.g., re- in replay and -er in player) cannot be recognized when
@@ -41,5 +39,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2025-04-29T03:59:07.997Z
+date: 2026-04-16T03:59:07.997Z
 ---
