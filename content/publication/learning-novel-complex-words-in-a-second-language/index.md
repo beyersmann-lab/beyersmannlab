@@ -1,6 +1,6 @@
 ---
 title: "Learning novel complex words in a second language: Effects of morpheme training and family size"
-subtitle: "*Studies in Second Language Acquisition*."
+subtitle: "*Studies in Second Language Acquisition*. https://doi.org/10.1017/S0272263125101393"
 publication_types:
   - "2"
 authors:
@@ -8,7 +8,7 @@ authors:
   - A. Behzadnia
   - E. Beyersmann
 publication: "*Studies in Second Language Acquisition*."
-abstract: Morpheme transpositions were examined across three experiments using EEG and lexical decision tasks to investigate the positional encoding mechanisms of English stems and affixes. Across three experiments, morphemically transposed compound nonwords (dreamday) elicited significantly reduced N250 and N400 components relative to their controls (shadeday), as well as greater interference in the behavioural data and an enhanced P600. Conversely, transposed suffixed (fulplay) and prefixed nonwords (qualifydis) did not elicit morpheme transposition effects relative to controls, as evidenced by equivalent N250/N400/P600 components across conditions. Finally, the direct comparison between transparent and opaque compound words revealed robust transposition effects in the transparent conditions (fallwater vs. sellwater) across the N250, N400, and P600 components, whereas in the opaque condition (moonhoney vs. snowhoney), this effect was only found in the P600. Our findings point to the automaticity of compound word processing and highlight key differences in the positional encoding of stems and affixes in reading.
+abstract: The role of morphology in complex word acquisition was examined in Chinese (L1)–English (L2) bilinguals. Participants learned words consisting of two novel constituents, by pairing them with pictures. Items either belonged to large (torbnel, torbilm, torbla, torbiph) or small morphological families (torbilm, torbla). After training, participants completed recognition and spelling tasks with novel words that either included or excluded a trained morpheme. Results revealed robust stem-training effects, showing that items including a trained constituent were harder to reject and easier to spell than items including two untrained constituents. There was also a significant effect of morphological family size, with greater training effects for items belonging to large than small families. Effect sizes were overall smaller in L2 than in L1. These findings point to the important role of morphological structure in L2 word acquisition and suggest that large morphological family-clusters lead to better learning outcomes.
 draft: false
 featured: false
 image:
