@@ -7,32 +7,7 @@ authors:
   - A. Lorenz
   - E. Beyersmann
 publication: "*PLOS One*. Accepted on 16/04/2026"
-abstract: Previous studies have confirmed stem morphemes (e.g., book) are
-  identified in any position (e.g., in both bookmark and textbook) but prefixes
-  and suffixes (e.g., re- in replay and -er in player) cannot be recognized when
-  moved from their typical word-initial or word-final locations. However,
-  English words with multiple affixes (e.g., unresolved, mindfulness) suggest
-  there must be further nuance to the positional constraints imposed on affixes
-  in the reading system to facilitate cases where affixes occur in atypical
-  locations but still convey meaning. We used two lexical decision experiments
-  (N = 90 native English-speaking participants each) to investigate the
-  positional encoding of mid-embedded suffixes. In Experiment 1, transposed
-  tri-morphemic nonwords ending in a chain of two suffixes (e.g., spitenessful
-  [derived from spitefulness]), and transposed nonwords with string-initial
-  suffixes (e.g., fulyouthness [derived from youthfulness]) were compared
-  against orthographic controls (e.g., spitementdom/domyouthment). In Experiment
-  2, transposed tri-morphemic nonwords ending in a stem (e.g., bestersell
-  [derived from bestseller]) and transposed nonwords with string-initial
-  suffixes (e.g., erwalksleep [derived from sleepwalker]) were compared against
-  orthographic controls (e.g., bestalsell/enwalksleep). Across both experiments,
-  the results revealed a significantly larger morpheme transposition effect
-  relative to controls for the mid-embedded compared with the string-initial
-  suffix conditions. Items like bestersell activated the corresponding lexical
-  representation of "bestseller" and made it more difficult to reject the target
-  nonword, revealing that suffixes are not as strictly positionally encoded as
-  previously assumed. These findings challenge existing predictions of
-  positional requirements for affixes and provide evidence calling for more
-  nuanced theoretical models of morphological processing.
+abstract: A visual lexical decision task with noun-noun compound targets (e.g., Wasserflasche [waterbottle]) and gender-marked determiner primes (der, die, das [the] for masculine, feminine, neuter]) was used to examine how compound words are stored at a lexical-syntactic level. It was tested whether the embedded constituents activate their grammatical gender separately. Determiner primes were either congruent with the compound’s morphological head (die - Wasserflasche), the compound’s modifier (das - Wasserflasche), or incongruent with both constituents (der - Wasserflasche). Data from two online experiments are reported. The experimental design was identical but prime durations slightly varied. Head-congruent determiner primes speeded compound recognition in both experiments, but no effects were observed for modifier-congruent primes. The results of both experiments suggest activation of the grammatical gender of the head constituent, whereas the modifier’s gender seems not to be activated. Evidence in line with constituent-specific processes of compounds was only observed in the analysis of response accuracies of Experiment 2, as indicated by significant interactions between semantic transparency and constituent-specific determiner-priming effects. Our data are in line with head-driven gender assignment during noun-noun compound recognition.
 draft: false
 featured: false
 image:
