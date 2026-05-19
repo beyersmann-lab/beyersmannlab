@@ -1,6 +1,6 @@
 ---
 title: "Windows into the positional encoding of stems and affixes: Evidence from morpheme transposition effects via ERPs"
-subtitle: "*Language, Cognition and Neuroscience*."
+subtitle: "*Language, Cognition and Neuroscience*. https://doi.org/10.1080/23273798.2026.2673044"
 publication_types:
   - "2"
 authors:
