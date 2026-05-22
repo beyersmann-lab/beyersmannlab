@@ -2,9 +2,7 @@
 title: Lab Work
 
 # Listing view
-view: list
-
-paginate = 1000
+view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
