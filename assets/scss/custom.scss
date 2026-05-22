@@ -43,13 +43,16 @@ img {
   font-size: 0.9rem;
 }
 
-/* Left side (image/media) */
-.view-showcase .card-media {
-  display: flex;
-  justify-content: flex-end;
+.view-showcase .card {
+  align-items: center;
 }
 
-/* Right side (text content) */
+/* Push image slightly away from center */
+.view-showcase .card-media img {
+  margin-left: auto;
+}
+
+/* Keep text clean and flush left */
 .view-showcase .card-body {
   text-align: left;
 }
