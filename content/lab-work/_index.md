@@ -2,7 +2,7 @@
 title: Lab Work
 
 # Listing view
-view: stream
+view: showcase
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
