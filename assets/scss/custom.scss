@@ -42,3 +42,22 @@ img {
 .card-text {
   font-size: 0.9rem;
 }
+
+/* Center showcase content */
+.view-showcase .card,
+.view-showcase .article-container {
+  text-align: center;
+}
+
+/* Center images */
+.view-showcase img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+/* Optional: center buttons/tags */
+.view-showcase .btn,
+.view-showcase .article-metadata {
+  justify-content: center;
+}
