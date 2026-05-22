@@ -43,19 +43,18 @@ img {
   font-size: 0.9rem;
 }
 
-/* Center showcase content */
-.view-showcase .card,
-.view-showcase .article-container {
-  text-align: center;
+/* Showcase: left column (image) aligned right */
+.view-showcase .card .row .col-md-6:first-child,
+.view-showcase .card .row .col-lg-6:first-child {
+  display: flex;
+  justify-content: flex-end;
 }
 
-/* Center images */
-.view-showcase img {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+/* Showcase: right column (text) aligned left */
+.view-showcase .card .row .col-md-6:last-child,
+.view-showcase .card .row .col-lg-6:last-child {
+  text-align: left;
 }
-
 /* Optional: center buttons/tags */
 .view-showcase .btn,
 .view-showcase .article-metadata {
