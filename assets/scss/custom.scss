@@ -43,16 +43,13 @@ img {
   font-size: 0.9rem;
 }
 
-/* Showcase: left column (image) aligned right */
-.view-showcase .card .row .col-md-6:first-child,
-.view-showcase .card .row .col-lg-6:first-child {
+/* Left side (image/media) */
+.view-showcase .card-media {
   display: flex;
   justify-content: flex-end;
 }
 
-/* Showcase: right column (text) aligned left */
-.view-showcase .card .row .col-md-6:last-child,
-.view-showcase .card .row .col-lg-6:last-child {
+/* Right side (text content) */
+.view-showcase .card-body {
   text-align: left;
 }
-
