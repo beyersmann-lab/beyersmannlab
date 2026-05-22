@@ -43,16 +43,15 @@ img {
   font-size: 0.9rem;
 }
 
-.view-showcase .card {
-  align-items: center;
+/* Center showcase content */
+.view-showcase .card,
+.view-showcase .article-container {
+  text-align: center;
 }
 
-/* Push image slightly away from center */
-.view-showcase .card-media img {
+/* Center images */
+.view-showcase img {
   margin-left: auto;
-}
-
-/* Keep text clean and flush left */
-.view-showcase .card-body {
-  text-align: left;
+  margin-right: auto;
+  display: block;
 }
