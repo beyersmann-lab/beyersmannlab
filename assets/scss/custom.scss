@@ -1,0 +1,44 @@
+/* Slightly smaller overall text */
+html {
+  font-size: 15px;
+}
+
+/* Reduce heading sizes */
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+/* Reduce spacing between sections */
+.home-section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+/* Make cards and showcase items more compact */
+.card {
+  margin-bottom: 1rem;
+}
+
+/* Reduce image sizes slightly */
+img {
+  max-width: 90%;
+}
+
+/* Reduce profile/avatar image size */
+.avatar {
+  width: 140px;
+  height: 140px;
+}
+
+/* Smaller text inside cards */
+.card-text {
+  font-size: 0.9rem;
+}
