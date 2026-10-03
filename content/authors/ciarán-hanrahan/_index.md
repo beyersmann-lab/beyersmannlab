@@ -1,5 +1,5 @@
 ---
-title: Erika Dudkin
+title: Ciarán Hanrahan
 role: Honours Student
 avatar_filename: avatar.jpg
 social:
@@ -20,6 +20,6 @@ superuser: false
 user_groups:
   - Researchers
 ---
-Erika is undertaking a Bachelor of Psychological Science (Honours) at Macquarie University, and is currently completing her Honours Thesis under the Supervision of A/Prof Lisi Beyersmann.
+Ciarán is undertaking a Bachelor of Psychology (Honours) at Macquarie University, and is currently completing their Honours project under the Supervision of Dr Lisi Beyersmann, and PhD Researcher Dr Hasibe Kahraman.
 \
-For her Honours thesis, she is conducting a systematic review to explore how various reading strategies, skills, and processes contribute to academic achievement among university students. By reviewing the current literature on this topic, she aims to understand how reading influences academic achievement and inform directions for future research.
+For their thesis, Ciarán is using a primed lexical decision task to investigate how bilingual readers process semantically ambiguous words. Ciarán is grateful for the opportunity to contribute to research on bilingual populations, and hopes to work with other communities facing systemic barriers in future.
