@@ -31,3 +31,5 @@ image:
 url_code: ""
 
 ---
+
+{{< gallery album="walking-lab-central-courtyard-2026" >}}
