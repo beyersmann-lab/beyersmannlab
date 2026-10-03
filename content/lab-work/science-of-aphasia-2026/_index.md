@@ -20,7 +20,7 @@ address:
   ? region
   ? postcode
   ? country
-publishDate: 2026-10-01Tnull
+publishDate: 2026-10-01T11:30:35.648Z
 tags: null
 projects: null
 image:
