@@ -3,8 +3,7 @@ abstract: null
 slides: null
 url_pdf: ""
 title: On the Important Role of Dolly Parton’s Imagination Library
-summary: Dr Claire Galea discusses the important role of of Dolly Parton’s Imagination Library in the Australia and around the world (August 2026). For the past five years, Dr Galea has been leading a large-scale research project in Tamworth into the effects of the Imagination Library program.One of the key findings from Tamworth was that the program encouraged caregivers to read to their children. Compared to the average Australian child, children in the Imagination Library in Tamworth were found to be read to more often, for longer, and have more books in the home. The full article in the Conversation can be read here: 
-
+summary: Dr Claire Galea discusses the important role of of Dolly Parton’s Imagination Library in the Australia and around the world (August 2026). For the past five years, Dr Galea has been leading a large-scale research project in Tamworth into the effects of the Imagination Library program. One of the key findings from Tamworth was that the program encouraged caregivers to read to their children. Compared to the average Australian child, children in the Imagination Library in Tamworth were found to be read to more often, for longer, and have more books in the home. The full article in the Conversation can be read <a href="https://theconversation.com/dolly-partons-philanthropic-imagination-library-had-a-proven-effect-in-australia-and-around-the-world-290518" target="_blank">here</a>
 subtitle: Dr Claire Galea discusses the important role of of Dolly Parton’s Imagination Library in the Australia and around the world (August 2026).
 location: Sydney, Australia
 date: 2026-08-10T11:30:35.648Z
