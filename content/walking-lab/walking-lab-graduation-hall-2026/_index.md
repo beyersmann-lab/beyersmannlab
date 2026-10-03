@@ -6,7 +6,7 @@ title: Outside the Macquarie University Graduation Hall - 28 July 2026
 summary: Walking Lab outside the Macquarie University Graduation Hall.
 subtitle: Walking Lab outside the Macquarie University Graduation Hall.
 location: Graduation Hall, Macquarie University
-date: 2025-28-07T15:00:35.648Z
+date: 2026-07-28T15:00:35.648Z
 all_day: false
 event: null
 event_url: null
@@ -20,7 +20,7 @@ address:
   ? region
   ? postcode
   ? country
-publishDate: 2025-28-07Tnull
+publishDate: 2026-07-28Tnull
 tags: null
 projects: null
 image:
