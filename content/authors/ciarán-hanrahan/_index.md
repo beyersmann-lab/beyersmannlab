@@ -5,14 +5,10 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: mailto:erika.dudkin@students.mq.edu.au
+    link: mailto:ciaran.hanrahan@students.mq.edu.au
     icon_pack: fas
     icon: envelope
-  - display:
-      header: false
-    icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0002-8782-8649
+    
 organizations:
   - name: Macquarie University
     url: https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/school-of-psychological-sciences
