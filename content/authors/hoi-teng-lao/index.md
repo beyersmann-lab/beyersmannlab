@@ -1,5 +1,6 @@
+
 ---
-title: Hoi Teng (Kathie) Lao
+title: Hoi Teng Lao
 role: Master of Research Student
 avatar_filename: avatar.jpg
 social:
