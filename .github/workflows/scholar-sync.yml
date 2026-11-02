@@ -10,13 +10,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          node-size: '18'
+          python-version: '3.x'
 
       - name: Install Academic CLI
-        run: npm install -g @academic/cli
+        # This uses Python (pip) to properly download the tool
+        run: pip install -U academic
 
       - name: Convert BibTeX to Wowchemy Markdown
         # This takes your file and puts it into a safe "automatic-publications" folder
