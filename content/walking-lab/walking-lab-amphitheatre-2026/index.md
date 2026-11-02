@@ -2,9 +2,9 @@
 abstract: null
 slides: null
 url_pdf: ""
-title: Amphitheatre at Macquarie Lake - 26 October 2026
-summary: Walking Lab meets at the amphitheatre at Macquarie Lake.
-subtitle: Walking Lab meets at the amphitheatre at Macquarie Lake.
+title: Macquarie Lake Amphitheatre - 26 October 2026
+summary: Walking Lab meets at the Macquarie Lake Amphitheatre.
+subtitle: Walking Lab meets at the Macquarie Lake Amphitheatre.
 location: Macquarie Lake, Macquarie University
 date: 2026-10-26T15:00:35.648Z
 all_day: false
