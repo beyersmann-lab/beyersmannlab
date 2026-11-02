@@ -18,4 +18,5 @@ user_groups:
 ---
 Ciarán is undertaking a Bachelor of Psychology (Honours) at Macquarie University, and is currently completing their Honours project under the Supervision of Dr Lisi Beyersmann, and PhD Researcher Dr Hasibe Kahraman.
 \
+\
 For their thesis, Ciarán is using a primed lexical decision task to investigate how bilingual readers process semantically ambiguous words. Ciarán is grateful for the opportunity to contribute to research on bilingual populations, and hopes to work with other communities facing systemic barriers in future.
