@@ -2,10 +2,10 @@
 abstract: null
 slides: null
 url_pdf: ""
-title: Second Way - 11 August 2026
-summary: Walking Lab meets at Second Way, Macquarie University.
-subtitle: Walking Lab meets at Second Way, Macquarie University.
-location: Second Way, Macquarie University
+title: Walanga Muru Pavilion - 11 August 2026
+summary: Walking Lab meets at the Walanga Muru Pavilion at Second Way, Macquarie University.
+subtitle: Walking Lab meets at the Walanga Muru Pavilion at Second Way, Macquarie University.
+location: Walanga Muru Pavilion, Second Way, Macquarie University
 date: 2026-08-11T15:00:35.648Z
 all_day: false
 event: null
