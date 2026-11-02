@@ -18,6 +18,8 @@ user_groups:
 ---
 Tien is undertaking a Bachelor of Psychological Science (Honours) at Macquarie University, and is currently completing her Honours Thesis under the Supervision of A/Prof Lisi Beyersmann.
 \
+\
 Using a primed lexical decision task, her thesis explores how semantic similarity between the different meanings of ambiguous words influences the speed and accuracy with which they are processed.
+\
 \
 Recently, she has been interested in how the rise of artificial intelligence technology and social media is shaping the way our brains process information. Tien hopes to pursue these interests through further postgraduate study.
