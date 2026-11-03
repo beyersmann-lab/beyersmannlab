@@ -1,5 +1,6 @@
 ---
-title: Morphosyntactic processing of complex nonwords in sentence context: An ERP study
+
+title: Morphosyntactic processing of complex nonwords in sentence context: An ERP study.
 subtitle: "*Acta Psychologica*, *270*, 107877.
   https://doi.org/10.1016/j.actpsy.2026.107877"
 publication_types:
