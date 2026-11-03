@@ -8,7 +8,7 @@ authors:
   - J. Spencer
   - H. Kahraman
   - E. Beyersmann
-publication: "*Psychonomic Bulletin & Review*, *32*, 2272-2284."
+publication: "*Psychonomic Bulletin & Review*, *32*, 2272-2284"
 abstract: Previous studies have confirmed stem morphemes (e.g., book) are
   identified in any position (e.g., in both bookmark and textbook) but prefixes
   and suffixes (e.g., re- in replay and -er in player) cannot be recognized when
