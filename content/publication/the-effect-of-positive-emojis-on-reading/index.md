@@ -1,7 +1,7 @@
 ---
 title: "The effect of positive emojis on reading: An eye-movement study"
 subtitle: "*Quarterly Journal of Experimental Psychology*.
-  https://doi.org/10.1016/j.jecp.2016.07.016"
+  https://doi.org/10.1177/17470218261490699"
 publication_types:
   - "2"
 authors:
