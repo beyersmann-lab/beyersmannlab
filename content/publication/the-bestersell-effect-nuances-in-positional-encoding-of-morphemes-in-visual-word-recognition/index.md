@@ -1,14 +1,14 @@
 ---
 title: "The Bestersell Effect: Nuances in Positional Encoding of Morphemes in
   Visual Word Recognition"
-subtitle: "*Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-025-02693-7"
+subtitle: "*Psychonomic Bulletin & Review*, *32*, 2272-2284. https://doi.org/10.3758/s13423-025-02693-7"
 publication_types:
   - "2"
 authors:
   - J. Spencer
   - H. Kahraman
   - E. Beyersmann
-publication: "*Psychonomic Bulletin & Review*. Accepted on 30/04/2025"
+publication: "*Psychonomic Bulletin & Review*, *32*, 2272-2284."
 abstract: Previous studies have confirmed stem morphemes (e.g., book) are
   identified in any position (e.g., in both bookmark and textbook) but prefixes
   and suffixes (e.g., re- in replay and -er in player) cannot be recognized when
