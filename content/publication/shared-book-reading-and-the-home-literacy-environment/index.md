@@ -1,7 +1,7 @@
 ---
 title: "Shared book reading and the home literacy environment: a worldwide study using Dolly Parton’s Imagination Library"
 subtitle: "*The Australian Journal of Language and Literacy*.
-  https://doi.org/10.1016/j.jecp.2016.07.016"
+  https://doi.org/10.1007/s44020-026-00120-5"
 publication_types:
   - "2"
 authors:
