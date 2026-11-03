@@ -1,5 +1,5 @@
 ---
-title: 'New Publications'
+title: 'Automatic Publications'
 
 # Listing view
 view: 'citation'
