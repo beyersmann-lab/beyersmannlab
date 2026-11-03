@@ -5,10 +5,11 @@ subtitle: "*Child Psychiatry and Human Development*.
 publication_types:
   - "2"
 authors:
-  - M. Mlinarič
-  - J. Grainger
+  - A. Jones
+  - C. Johnco
   - E. Beyersmann
-  - J. Snell
+  - S. Robidoux
+  - G. McArthur
 doi: ""
 publication: "*Child Psychiatry and Human Development*"
 publication_short: ""
