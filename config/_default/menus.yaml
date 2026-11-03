@@ -28,3 +28,6 @@ main:
   - name: Contact
     url: contact
     weight: 80
+  - name: Automatic Publications
+    url: talk
+    weight: 90
