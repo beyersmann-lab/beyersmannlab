@@ -1,7 +1,7 @@
 ---
 title: Does the reading brain possess top-down connections from morphemes to letters?
 subtitle: "*Psychonomic Bulletin & Review*, *33*, 268.
-  https://doi.org/10.1016/j.jecp.2016.07.016"
+ https://doi.org/10.3758/s13423-026-03037-9"
 publication_types:
   - "2"
 authors:
