@@ -20,8 +20,8 @@ jobs:
         run: pip install -U academic
 
       - name: Convert BibTeX to Wowchemy Markdown
-        # This takes your file and puts it into a safe "automatic-publications" folder
-        run: academic import --bibtex citations.bib --to content/automatic-publications
+        # This takes your file and puts it into a safe "talk" folder
+        run: academic import --bibtex citations.bib --to content/talk
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
