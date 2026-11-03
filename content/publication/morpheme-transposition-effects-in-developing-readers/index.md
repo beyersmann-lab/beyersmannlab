@@ -1,6 +1,6 @@
 ---
 title: "Morpheme transposition effects in developing readers"
-subtitle: "*Scientific Studies of Reading*. https://doi.org/10.3758/s13423-025-02693-7"
+subtitle: "*Scientific Studies of Reading*. https://doi.org/10.1080/10888438.2026.2699715"
 publication_types:
   - "2"
 authors:
