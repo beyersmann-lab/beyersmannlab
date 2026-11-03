@@ -16,14 +16,19 @@ jobs:
           python-version: '3.x'
 
       - name: Install Academic CLI
-        # This uses Python (pip) to properly download the tool
         run: pip install -U academic
 
       - name: Convert BibTeX to Wowchemy Markdown
-        # This takes your file and puts it into a safe "talk" folder
+        # This takes your file and puts it into the talk folder
         run: academic import --bibtex citations.bib --to content/talk
+
+      - name: Force Wowchemy to display them as Talks
+        # This script fixes the layout type so they actually show up on your website
+        run: |
+          find content/talk -name "index.md" -exec sed -i 's/type: publication/type: talk/g' {} +
+          find content/talk -name "index.md" -exec sed -i 's/publishDate:/date:/g' {} +
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Imported publications from BibTeX into automatic folder"
+          commit_message: "Imported publications into talk folder with corrected layout type"
